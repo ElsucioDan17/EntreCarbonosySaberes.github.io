@@ -66,12 +66,9 @@
 <div id="main-wrapper">
 <section id="main">
 <header id="nodeDecoration"><h1 id="nodeTitle">Materiales</h1></header>
-<article class="iDevice_wrapper textIdevice em_iDevice" id="id42">
-<div class="iDevice emphasis1" >
-<header class="iDevice_header iDevice_header_noIcon"><h1 class="iDeviceTitle">¿Como se llaman estas moleculas?</h1></header>
-<div class="iDevice_inner">
-<div class="iDevice_content_wrapper">
-<div id="ta42_151_2" class="block iDevice_content">
+<article class="iDevice_wrapper textIdevice" id="id109">
+<div class="iDevice emphasis0" >
+<div id="ta109_141_2" class="block iDevice_content">
 <div class="exe-text"><p></p>
 <style>
         * {
@@ -139,6 +136,7 @@
             grid-template-columns: 1fr 1fr;
             grid-template-rows: auto auto;
             gap: 30px;
+            margin-bottom: 40px;
         }
         
         .guide-section {
@@ -323,6 +321,107 @@
             border: 1px solid #ddd;
         }
         
+        /* Estilos para la sección de videos */
+        .videos-section {
+            margin-top: 50px;
+            padding-top: 30px;
+            border-top: 2px solid #3498db;
+        }
+        
+        .videos-section h2 {
+            text-align: center;
+            margin-bottom: 30px;
+            color: #2c3e50;
+            font-size: 28px;
+        }
+        
+        .video-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(500px, 1fr));
+            gap: 30px;
+            margin-bottom: 40px;
+        }
+        
+        .video-item {
+            background: #f8f9fa;
+            border-radius: 12px;
+            padding: 20px;
+            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.05);
+            border: 1px solid #e0e0e0;
+        }
+        
+        .video-item h3 {
+            color: #3498db;
+            margin-bottom: 15px;
+            font-size: 20px;
+            display: flex;
+            align-items: center;
+        }
+        
+        .video-item h3 i {
+            margin-right: 10px;
+            color: #e74c3c;
+        }
+        
+        .video-container {
+            position: relative;
+            width: 100%;
+            height: 0;
+            padding-bottom: 56.25%; /* Relación de aspecto 16:9 */
+            margin-bottom: 15px;
+        }
+        
+        .video-container iframe {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            border-radius: 8px;
+        }
+        
+        .video-description {
+            font-size: 14px;
+            color: #555;
+            line-height: 1.5;
+        }
+        
+        /* Estilos para la introducción histórica */
+        .history-section {
+            background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+            border-radius: 15px;
+            padding: 30px;
+            margin: 40px 0;
+            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+            border-left: 5px solid #3498db;
+        }
+        
+        .history-section h2 {
+            color: #2c3e50;
+            text-align: left;
+            margin-bottom: 20px;
+            font-size: 26px;
+        }
+        
+        .history-content {
+            display: grid;
+            grid-template-columns: 1fr 2fr;
+            gap: 30px;
+            align-items: center;
+        }
+        
+        .kekule-img {
+            width: 100%;
+            border-radius: 10px;
+            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+        }
+        
+        .history-text p {
+            margin-bottom: 15px;
+            font-size: 16px;
+            line-height: 1.6;
+        }
+        
         @media (max-width: 900px) {
             .guide-grid {
                 grid-template-columns: 1fr;
@@ -355,12 +454,30 @@
             .prefix-list {
                 grid-template-columns: 1fr;
             }
+            
+            .video-grid {
+                grid-template-columns: 1fr;
+            }
+            
+            .history-content {
+                grid-template-columns: 1fr;
+            }
         }
     </style>
 <div class="container"><header>
-<h1>Guía de Nomenclatura de Hidrocarburos</h1>
-<h2>Reglas y ejemplos para nombrar alcanos, alquenos, alquinos y aromáticos</h2>
+<h1>Nomenclatura Orgánica IUPAC</h1>
+<h2>Material educativo completo para el aprendizaje de la nomenclatura de hidrocarburos</h2>
 </header>
+<div class="history-section">
+<h2 style="text-align: center;"><i class="fas fa-atom"></i> <strong>Introducción Histórica</strong></h2>
+<div class="history-content">
+<div><img src="Kekule.jpg" alt="August Kekulé" class="kekule-img" width="200" height="187" /></div>
+<div class="history-text">
+<p>La nomenclatura orgánica moderna tiene sus raíces en el trabajo de químicos como August Kekulé, quien propuso la estructura hexagonal del benceno en 1865. Antes de la estandarización IUPAC, los compuestos orgánicos recibían nombres comunes que variaban según la región, lo que generaba confusión en la comunidad científica.</p>
+<p>La Unión Internacional de Química Pura y Aplicada (IUPAC), fundada en 1919, estableció reglas sistemáticas para nombrar compuestos orgánicos, facilitando la comunicación científica a nivel global.</p>
+</div>
+</div>
+</div>
 <div class="guide-grid"><!-- Alcanos -->
 <div class="guide-section alkanes">
 <div class="section-header">
@@ -492,12 +609,45 @@
 </div>
 </div>
 </div>
+<div class="videos-section">
+<h2><i class="fas fa-play-circle"></i> Material Audiovisual Complementario</h2>
+<div class="video-grid">
+<div class="video-item">
+<h3><i class="fas fa-film"></i> Nomenclatura de Alcanos</h3>
+<div class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/KwowC3XKuRk?si=0GlMF3LyeHCdKBNj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="allowfullscreen"></iframe></div>
+<p class="video-description">Video explicativo sobre la nomenclatura de alcanos según las reglas IUPAC. Canal: Es Ciencia.</p>
+</div>
+<div class="video-item">
+<h3><i class="fas fa-film"></i> Nomenclatura de Alquenos</h3>
+<div class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/TKhrOflr-d0?si=mGZxy3tS7JnJdjMf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="allowfullscreen"></iframe></div>
+<p class="video-description">Video explicativo sobre la nomenclatura de alquenos según las reglas IUPAC. Canal: Es Ciencia.</p>
+</div>
+<div class="video-item">
+<h3><i class="fas fa-film"></i> 5 Criterios de Prioridad</h3>
+<div class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/y63pVU7GBtM?si=JJwQBlDaijCl8BVw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="allowfullscreen"></iframe></div>
+<p class="video-description">Explicación de los 5 criterios de prioridad para la selección de la cadena principal. Canal: QuimiMática.</p>
+</div>
+<div class="video-item">
+<h3><i class="fas fa-film"></i> Escritura en Líneas</h3>
+<div class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/ZJ1NZEzLECY?si=xSe-PBLgbFljneVC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="allowfullscreen"></iframe></div>
+<p class="video-description">Tutorial sobre la escritura de fórmulas estructurales en líneas para compuestos orgánicos.</p>
+</div>
+<div class="video-item">
+<h3><i class="fas fa-film"></i> Nomenclatura Orgánica IUPAC</h3>
+<div class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/-1za77uuM8U?si=3kryxYoDfl7BWNwN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="allowfullscreen"></iframe></div>
+<p class="video-description">Resumen completo de la nomenclatura orgánica IUPAC con ejemplos prácticos.</p>
+</div>
+<div class="video-item">
+<h3><i class="fas fa-film"></i> August Kekulé y el Benceno</h3>
+<div class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/BR9c-xmaIJM?si=z3XndPW_ghVRYpw2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="allowfullscreen"></iframe></div>
+<p class="video-description">Historia de August Kekulé y su descubrimiento de la estructura del benceno.</p>
+</div>
+</div>
+</div>
 <div class="footer">
-<p>Guía de Nomenclatura de Hidrocarburos | Reglas IUPAC para alcanos, alquenos, alquinos y aromáticos</p>
+<p>Material Educativo de Nomenclatura Orgánica IUPAC | Reglas IUPAC para alcanos, alquenos, alquinos y aromáticos</p>
 </div>
 </div></div>
-</div>
-</div>
 </div>
 </div>
 </article>

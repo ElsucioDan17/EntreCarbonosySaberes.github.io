@@ -66,19 +66,6 @@
 <div id="main-wrapper">
 <section id="main">
 <header id="nodeDecoration"><h1 id="nodeTitle">Nomenclatura</h1></header>
-<article class="iDevice_wrapper textIdevice em_iDevice" id="id73">
-<div class="iDevice emphasis1" >
-<header class="iDevice_header iDevice_header_noIcon"><h1 class="iDeviceTitle">pRESENTACION DE LA TEMATICA</h1></header>
-<div class="iDevice_inner">
-<div class="iDevice_content_wrapper">
-<div id="ta73_180_2" class="block iDevice_content">
-<div class="exe-text"><p></p>
-<p>DESARROLLO TEORICO </p></div>
-</div>
-</div>
-</div>
-</div>
-</article>
 <article class="iDevice_wrapper textIdevice em_iDevice em_iDevice_info_black" id="id89">
 <div class="iDevice emphasis1" >
 <header class="iDevice_header" style="background-image:url(icon_info_black.png)"><h1 class="iDeviceTitle">Nomenclatura de Hidrocarburos</h1></header>
@@ -86,153 +73,191 @@
 <div class="iDevice_content_wrapper">
 <div id="ta89_128_2" class="block iDevice_content">
 <div class="exe-text"><hr />
-<p><span style="color: #ff0000;"><strong>Objetivo:</strong></span> <em><strong>Reconocer y aplicar las reglas de la IUPAC para nombrar hidrocarburos, relacionando la estructura del carbono con la formación de moléculas orgánicas, y analizando cómo estos compuestos se vinculan con el aprovechamiento de los recursos naturales y la obtención de energía para diferentes usos en la vida cotidiana.</strong></em></p>
+<p><span style="color: #ff0000;"><strong>Objetivo:</strong></span> <em><strong>Reconocer y aplicar las reglas de la IUPAC para nombrar hidrocarburos, relacionando la estructura del carbono con la formación de moléculas orgánicas, y analizando cómo estos compuestos se vinculan con el aprovechamiento de los recursos y la obtención de energía para diferentes usos en la vida cotidiana.</strong></em></p>
 <hr />
 <p></p></div><div class="iDevice_buttons feedback-button js-required"><input type="button" class="feedbackbutton" value="¿Qué es la IUPAC?" /></div><div class="feedback js-feedback js-hidden"><p></p>
 <style>
-  *{box-sizing:border-box}
-  html,body{height:100%; margin:0; font-family:Inter, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial; color:#0f172a}
-  img{max-width:100%; display:block}
-
-  :root{
-    --bg:#FBF8F4;
-    --panel:#FFFFFF;
-    --ink:#0f172a;
-    --muted:#475569;
-    --accent:#0b74c9;
-    --accent-2:#2eb872;
-    --card-radius:14px;
-    --shadow: 0 12px 30px rgba(11,18,34,0.08);
+  * {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+  
+  body {
+    font-family: Inter, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial;
+    color: #0f172a;
+    background: linear-gradient(180deg, #FBF8F4 0%, #fff 40%);
+    min-height: 100vh;
+    /* Eliminamos cualquier flexbox que afecte el layout global */
+    display: block;
+    padding: 20px;
   }
 
-  body{
-    background:linear-gradient(180deg, var(--bg) 0%, #fff 40%);
-    display:flex;
-    align-items:center;
-    justify-content:center;
-    padding:28px;
+  /* Contenedor específico para centrar solo la tarjeta IUPAC */
+  .iupac-container {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    margin: 20px 0;
   }
 
-  .infocard{
-    width:100%;
-    max-width:920px;
-    background:var(--panel);
-    border-radius:var(--card-radius);
-    padding:28px;
-    box-shadow:var(--shadow);
-    border:1px solid rgba(15,23,42,0.04);
+  :root {
+    --bg: #FBF8F4;
+    --panel: #FFFFFF;
+    --ink: #0f172a;
+    --muted: #475569;
+    --accent: #0b74c9;
+    --accent-2: #2eb872;
+    --card-radius: 14px;
+    --shadow: 0 12px 30px rgba(11, 18, 34, 0.08);
   }
 
-  .top{
-    display:flex;
-    gap:20px;
-    align-items:center;
-    margin-bottom:12px;
+  .infocard {
+    width: 100%;
+    max-width: 920px;
+    background: var(--panel);
+    border-radius: var(--card-radius);
+    padding: 28px;
+    box-shadow: var(--shadow);
+    border: 1px solid rgba(15, 23, 42, 0.04);
+    /* Eliminamos cualquier margin que pueda causar problemas */
+    margin: 0;
   }
 
-  .logo-wrap{
-    width:108px;
-    height:108px;
-    flex:0 0 108px;
-    display:flex;
-    align-items:center;
-    justify-content:center;
-    border-radius:14px;
-    background:linear-gradient(135deg,#f7fbff, #eef9ff);
-    box-shadow: 0 8px 20px rgba(11,118,201,0.06);
+  .top {
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    margin-bottom: 12px;
   }
 
-  .title{
-    font-size:1.6rem;
-    font-weight:800;
-    color:var(--ink);
-    margin:0;
-    line-height:1.05;
-  }
-  .subtitle{
-    margin:6px 0 0;
-    color:var(--muted);
-    font-size:0.96rem;
+  .logo-wrap {
+    width: 108px;
+    height: 108px;
+    flex: 0 0 108px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 14px;
+    background: linear-gradient(135deg, #f7fbff, #eef9ff);
+    box-shadow: 0 8px 20px rgba(11, 118, 201, 0.06);
   }
 
-  .content{
-    display:grid;
+  .title {
+    font-size: 1.6rem;
+    font-weight: 800;
+    color: var(--ink);
+    margin: 0;
+    line-height: 1.05;
+  }
+  
+  .subtitle {
+    margin: 6px 0 0;
+    color: var(--muted);
+    font-size: 0.96rem;
+  }
+
+  .content {
+    display: grid;
     grid-template-columns: 1fr 320px;
-    gap:22px;
-    margin-top:18px;
-    align-items:start;
+    gap: 22px;
+    margin-top: 18px;
+    align-items: start;
   }
 
-  .text{
-    background:linear-gradient(180deg,#fff,#fbfdff);
-    padding:18px;
-    border-radius:12px;
-    border:1px solid rgba(11,18,34,0.03);
-    box-shadow: 0 8px 20px rgba(11,18,34,0.03);
+  .text {
+    background: linear-gradient(180deg, #fff, #fbfdff);
+    padding: 18px;
+    border-radius: 12px;
+    border: 1px solid rgba(11, 18, 34, 0.03);
+    box-shadow: 0 8px 20px rgba(11, 18, 34, 0.03);
   }
 
-  .text p{
-    margin:0 0 10px 0;
+  .text p {
+    margin: 0 0 10px 0;
     color: #16324f;
-    font-size:1rem;
-    line-height:1.45;
+    font-size: 1rem;
+    line-height: 1.45;
   }
-  .text .lead{
-    font-weight:700;
-    color:var(--ink);
-    margin-bottom:8px;
-  }
-
-  .aside{
-    background:linear-gradient(180deg,#fbfbff,#ffffff);
-    padding:16px;
-    border-radius:12px;
-    border:1px solid rgba(11,18,34,0.03);
-    height:100%;
+  
+  .text .lead {
+    font-weight: 700;
+    color: var(--ink);
+    margin-bottom: 8px;
   }
 
-  .aside h4{ margin:0 0 8px 0; font-size:1rem; color:var(--ink)}
-  .list{
-    margin:8px 0 12px;
-    padding:0;
-    list-style:none;
-  }
-  .list li{
-    display:flex;
-    gap:10px;
-    align-items:flex-start;
-    margin-bottom:10px;
-    color:var(--muted);
-    font-size:0.95rem;
-  }
-  .badge{
-    min-width:34px;
-    height:34px;
-    border-radius:10px;
-    display:inline-flex;
-    align-items:center;
-    justify-content:center;
-    font-weight:700;
-    color:#fff;
-    font-size:0.88rem;
-  }
-  .b1{ background: linear-gradient(180deg,var(--accent), #0a6bb8) }
-  .b2{ background: linear-gradient(180deg,var(--accent-2), #1fa85a) }
-
-  .note{
-    margin-top:14px;
-    font-size:0.88rem;
-    color:#6b7280;
+  .aside {
+    background: linear-gradient(180deg, #fbfbff, #ffffff);
+    padding: 16px;
+    border-radius: 12px;
+    border: 1px solid rgba(11, 18, 34, 0.03);
+    height: 100%;
   }
 
-  @media (max-width:880px){
-    .content{ grid-template-columns: 1fr; }
-    .top{ gap:14px }
-    .logo-wrap{ width:86px; height:86px; flex:0 0 86px }
+  .aside h4 {
+    margin: 0 0 8px 0;
+    font-size: 1rem;
+    color: var(--ink);
   }
-</style>
+  
+  .list {
+    margin: 8px 0 12px;
+    padding: 0;
+    list-style: none;
+  }
+  
+  .list li {
+    display: flex;
+    gap: 10px;
+    align-items: flex-start;
+    margin-bottom: 10px;
+    color: var(--muted);
+    font-size: 0.95rem;
+  }
+  
+  .badge {
+    min-width: 34px;
+    height: 34px;
+    border-radius: 10px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 700;
+    color: #fff;
+    font-size: 0.88rem;
+  }
+  
+  .b1 {
+    background: linear-gradient(180deg, var(--accent), #0a6bb8);
+  }
+  
+  .b2 {
+    background: linear-gradient(180deg, var(--accent-2), #1fa85a);
+  }
+
+  .note {
+    margin-top: 14px;
+    font-size: 0.88rem;
+    color: #6b7280;
+  }
+
+  @media (max-width: 880px) {
+    .content {
+      grid-template-columns: 1fr;
+    }
+    
+    .top {
+      gap: 14px;
+    }
+    
+    .logo-wrap {
+      width: 86px;
+      height: 86px;
+      flex: 0 0 86px;
+    }   </style>
+<div class="iupac-container">
 <article class="infocard" aria-labelledby="inf-title"><header class="top">
-<div class="logo-wrap" aria-hidden="true"><svg width="68" height="68" viewbox="0 0 120 120" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Logo estilizado IUPAC"> <g transform="translate(10,10)"> <polygon points="50,0 90,25 90,75 50,100 10,75 10,25" fill="#fff" stroke="#083a66" stroke-width="3" stroke-linejoin="round"></polygon> <circle cx="50" cy="6" r="7" fill="#ffd03a" stroke="#083a66" stroke-width="1.5"></circle> <circle cx="85" cy="28" r="7" fill="#35b5e6" stroke="#083a66" stroke-width="1.5"></circle> <circle cx="85" cy="68" r="7" fill="#5ad3a9" stroke="#083a66" stroke-width="1.5"></circle> <circle cx="50" cy="92" r="7" fill="#8b5cf6" stroke="#083a66" stroke-width="1.5"></circle> <circle cx="15" cy="68" r="7" fill="#2eb872" stroke="#083a66" stroke-width="1.5"></circle> <circle cx="15" cy="28" r="7" fill="#f04b57" stroke="#083a66" stroke-width="1.5"></circle> </g> </svg></div>
+<div class="logo-wrap" aria-hidden="true"><!-- Logo IUPAC --> <svg width="68" height="68" viewbox="0 0 120 120" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Logo estilizado IUPAC"> <g transform="translate(10,10)"> <polygon points="50,0 90,25 90,75 50,100 10,75 10,25" fill="#fff" stroke="#083a66" stroke-width="3" stroke-linejoin="round"></polygon> <circle cx="50" cy="6" r="7" fill="#ffd03a" stroke="#083a66" stroke-width="1.5"></circle> <circle cx="85" cy="28" r="7" fill="#35b5e6" stroke="#083a66" stroke-width="1.5"></circle> <circle cx="85" cy="68" r="7" fill="#5ad3a9" stroke="#083a66" stroke-width="1.5"></circle> <circle cx="50" cy="92" r="7" fill="#8b5cf6" stroke="#083a66" stroke-width="1.5"></circle> <circle cx="15" cy="68" r="7" fill="#2eb872" stroke="#083a66" stroke-width="1.5"></circle> <circle cx="15" cy="28" r="7" fill="#f04b57" stroke="#083a66" stroke-width="1.5"></circle> </g> </svg></div>
 <div style="flex: 1;">
 <h1 id="inf-title" class="title">IUPAC — ¿qué es y por qué importa?</h1>
 <p class="subtitle">Un lenguaje global para nombrar y entender sustancias químicas.</p>
@@ -240,9 +265,8 @@
 </header>
 <section class="content">
 <div class="text">
-<h2 class="lead">Definición breve</h2>
 <p>La <strong>IUPAC</strong> (Unión Internacional de Química Pura y Aplicada) es la organización científica fundada en <strong>1919</strong> que establece las reglas universales para nombrar, representar y clasificar las sustancias químicas.</p>
-<p>Gracias a estas reglas, los científicos y estudiantes de todo el mundo usan un mismo “idioma químico”, lo que evita confusiones y facilita la comunicación, la investigación y la regulación.</p>
+<p>Gracias a estas reglas, los científicos y estudiantes de todo el mundo usan un mismo "idioma químico", lo que evita confusiones y facilita la comunicación, la investigación y la regulación.</p>
 <p style="margin-top: 14px; font-weight: bold; color: var(--muted);">¿En esta unidad?</p>
 <ul style="margin: 8px 0px 0px 18px; color: #134063;">
 <li>Aprenderás a <strong>leer y escribir nombres IUPAC</strong> para hidrocarburos sencillos.</li>
@@ -256,26 +280,225 @@
 <li><span class="badge b2">2</span> Base para la nomenclatura orgánica (hidrocarburos, grupos funcionales).</li>
 <li><span class="badge b1">3</span> Útil para representar reacciones y mecanismos.</li>
 </ul>
-<p class="note">La IUPAC publica recomendaciones periódicas (como el “Libro Azul” para orgánica) y mantiene la lista de nombres oficiales para compuestos y elementos. Su trabajo facilita estándares internacionales en educación, industria y regulación.</p>
+<p class="note">La IUPAC publica recomendaciones periódicas (como el "Libro Azul" para orgánica) y mantiene la lista de nombres oficiales para compuestos y elementos. Su trabajo facilita estándares internacionales en educación, industria y regulación.</p>
 </aside>
 </section>
-</article></div>
+</article>
+</div>
+<!-- Aquí continuaría el resto de tu página -->
+<section></section>
+<section>
+<p></p>
+</section></div>
 </div>
 </div>
 </div>
 </div>
 </article>
-<article class="iDevice_wrapper textIdevice em_iDevice" id="id90">
-<div class="iDevice emphasis1" >
-<header class="iDevice_header iDevice_header_noIcon"><h1 class="iDeviceTitle">Desarrollo Teorico Carbon /Hidrogeno Reglas momenclatura IUPAC Hidrocarburos</h1></header>
-<div class="iDevice_inner">
-<div class="iDevice_content_wrapper">
-<div id="ta90_127_2" class="block iDevice_content">
-<div class="exe-text"><p>VIDEO HIDROGENO Y CARBONO CON TEXTO DE SUS CARACTERISTICAS CALVE A LA HORA DE LA FORMACION DE COMPUESTOS ORGANICOS </p>
+<article class="iDevice_wrapper textIdevice" id="id107">
+<div class="iDevice emphasis0" >
+<div id="ta107_139_2" class="block iDevice_content">
+<div class="exe-text"><div style="max-width: 1100px; margin: 0 auto; font-family: Arial, sans-serif; line-height: 1.6;">
+<h2 style="text-align: center; color: #2c3e50; margin-bottom: 20px;">🌍 Elementos base en la formación de compuestos orgánicos</h2>
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px;"><!-- Carbono -->
+<div style="background: #fff5f5; border: 2px solid #e07a7a; border-radius: 12px; padding: 16px; box-shadow: 0 6px 16px rgba(224,122,122,0.2);">
+<h3 style="text-align: center; color: #a83232; margin-bottom: 12px;"> Carbono</h3>
+<div style="display: flex; justify-content: center; margin-bottom: 12px;"><iframe width="100%" height="400" style="border-radius: 8px;" src="https://www.youtube.com/embed/_ytYQsP8Lxc?si=oPwGidZcGYoynLnU" title="Carbono - Thoisoi ES" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen">
+        </iframe></div>
+<p style="text-align: justify; color: #2c3e50; font-size: 0.95rem;">El <strong>carbono</strong> es el eje de la química orgánica. Posee <b>tetravalencia</b>, permitiendo formar cuatro enlaces. Gracias a la <b>catenación</b> puede enlazarse consigo mismo, formando cadenas y anillos. Sus hibridaciones (<i>sp³, sp², sp</i>) explican enlaces simples, dobles y triples, además de estructuras aromáticas. Por esta versatilidad, constituye la base de los <b>hidrocarburos</b>.</p>
+<p style="font-size: 13px; text-align: right; color: #7f8c8d;">Fuente: <i>Thoisoi ES, “El carbono” (YouTube, 2024)</i></p>
+</div>
+<!-- Hidrógeno -->
+<div style="background: #f5faff; border: 2px solid #6aa8e0; border-radius: 12px; padding: 16px; box-shadow: 0 6px 16px rgba(106,168,224,0.2);">
+<h3 style="text-align: center; color: #2c5ea3; margin-bottom: 12px;"> Hidrógeno</h3>
+<div style="display: flex; justify-content: center; margin-bottom: 12px;"><iframe width="100%" height="400" style="border-radius: 8px;" src="https://www.youtube.com/embed/fKUqz3cdT2Q?si=X9mVQ06BeVkp0skc" title="Hidrógeno - Thoisoi ES" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen">
+        </iframe></div>
+<p style="text-align: justify; color: #2c3e50; font-size: 0.95rem;">El <strong>hidrógeno</strong> es el elemento más abundante del universo y el más ligero. Tiene <b>valencia 1</b>, por lo que forma un único enlace covalente. En los hidrocarburos completa la valencia del carbono y determina la saturación o insaturación de la molécula. Además, es esencial como <b>combustible</b> y en procesos de <b>hidrogenación</b> en la industria química.</p>
+<p style="font-size: 13px; text-align: right; color: #7f8c8d;">Fuente: <i>Thoisoi ES, “El hidrógeno” (YouTube, 2024)</i></p>
+</div>
+</div>
+</div></div>
+</div>
+</div>
+</article>
+<article class="iDevice_wrapper textIdevice" id="id108">
+<div class="iDevice emphasis0" >
+<div id="ta108_140_2" class="block iDevice_content">
+<div class="exe-text"><p></p>
+<style>
+  body {
+    font-family: Arial, sans-serif;
+    color: #222;
+    margin: 20px;
+    background-color: #f9f9f9;
+  }
+
+  /* Contenedor específico para centrar solo el contenido de nomenclatura */
+  .nomenclatura-container {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    margin: 20px 0;
+  }
+
+  .layout {
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    gap: 20px;
+    max-width: 1200px;
+    width: 100%; /* Asegura que ocupe todo el ancho disponible */
+    margin: 0; /* Eliminamos el margin auto que causaba problemas */
+  }
+
+  section {
+    padding: 15px;
+    border: 1px solid #ccc;
+    background: #ffffff;
+    border-radius: 6px;
+  }
+
+  aside {
+    padding: 15px;
+    background: #fdfdfd;
+    border: 1px solid #ddd;
+    border-radius: 6px;
+  }
+
+  h2 {
+    color: #004080;
+    border-bottom: 2px solid #004080;
+    padding-bottom: 5px;
+  }
+
+  h3 {
+    color: #0066cc;
+    margin-top: 20px;
+  }
+
+  p, li {
+    line-height: 1.5;
+    font-size: 16px;
+  }
+
+  ul, ol {
+    margin-left: 20px;
+  }
+
+  .example {
+    background-color: #e6f0ff;
+    border-left: 4px solid #004080;
+    padding: 10px 15px;
+    margin: 15px 0;
+    font-style: italic;
+  }
+
+  sub {
+    font-size: 0.8em;
+  }
+
+  /* Estilos del panel lateral con diagramas */
+  .diagram {
+    background: #f8fbff;
+    border: 1px solid #ccd;
+    border-radius: 8px;
+    padding: 12px;
+    margin-bottom: 18px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+    text-align: center;
+  }
+
+  .diagram h4 {
+    margin-bottom: 8px;
+    color: #2c3e50;
+  }
+
+  .diagram img {
+    max-width: 100%;
+    border-radius: 6px;
+    border: 1px solid #ccc;
+    margin-bottom: 6px;
+  }
+
+  .diagram p {
+    font-size: 14px;
+    color: #444;
+    margin: 0;
+  }
+
+  @media (max-width: 768px) {
+    .layout {
+      grid-template-columns: 1fr;
+    }
+  }</style>
+<!-- Aquí iría el resto de tu página --><!-- Contenedor específico para el contenido de nomenclatura -->
+<div class="nomenclatura-container">
+<div class="layout"><!-- COLUMNA IZQUIERDA: TEXTO DE NOMENCLATURA -->
+<section>
+<h2>Nomenclatura de Hidrocarburos según la IUPAC</h2>
+<p>La nomenclatura IUPAC para hidrocarburos se basa en reglas específicas para nombrar cadenas de carbono e hidrógeno en alcanos, alquenos, alquinos y compuestos aromáticos.</p>
+<h3>1. Selección de la cadena principal</h3>
+<p>La cadena principal es la cadena continua más larga de átomos de carbono que contiene el grupo funcional principal (saturado o insaturado).</p>
+<h3>2. Numeración de la cadena principal</h3>
+<p>Se numera la cadena principal de manera que los sustituyentes y los enlaces múltiples reciban los números más bajos posibles.</p>
+<h3>3. Clasificación según tipo de hidrocarburo</h3>
+<ul>
+<li><strong>Alcanos:</strong> Hidrocarburos saturados con enlaces simples (C–C).</li>
+<li><strong>Alquenos:</strong> Hidrocarburos con uno o más enlaces dobles (C=C).</li>
+<li><strong>Alquinos:</strong> Hidrocarburos con uno o más enlaces triples (C≡C).</li>
+<li><strong>Aromáticos:</strong> Contienen un anillo bencénico u otro sistema aromático.</li>
+</ul>
+<h3>4. Reglas para nombrar alcanos</h3>
+<ol>
+<li>Identificar la cadena más larga de enlaces simples.</li>
+<li>Numerar la cadena de modo que los sustituyentes tengan el número más bajo.</li>
+<li>Nombrar los sustituyentes como grupos alquilo y ubicarlos con su número correspondiente.</li>
+<li>Usar prefijos para múltiplos sustituyentes (di-, tri-, tetra-, etc.).</li>
+<li>Finalizar con el sufijo <em>-ano</em> para indicar alcanos saturados.</li>
+</ol>
+<div class="example"><strong>Ejemplo:</strong> CH<sub>3</sub>-CH<sub>2</sub>-CH<sub>2</sub>-CH<sub>3</sub> es <em>butano</em>. Cadena lineal de cuatro carbonos con enlaces simples.</div>
+<h3>5. Reglas para nombrar alquenos y alquinos</h3>
+<ol>
+<li>Seleccionar la cadena más larga que incluya el enlace múltiple.</li>
+<li>Numerar la cadena desde el extremo más cercano al enlace múltiple.</li>
+<li>Indicar la posición del doble o triple enlace con un número.</li>
+<li>Utilizar los sufijos <em>-eno</em> para alquenos y <em>-ino</em> para alquinos.</li>
+</ol>
+<div class="example"><strong>Ejemplo alqueno:</strong> CH<sub>3</sub>-CH=CH-CH<sub>3</sub> es <em>but-2-eno</em>. Cadena de 4 carbonos con un doble enlace en posición 2.<br /><strong>Ejemplo alquino:</strong> CH≡C-CH<sub>2</sub>-CH<sub>3</sub> es <em>but-1-ino</em>. Cadena de 4 carbonos con triple enlace en posición 1.</div>
+<h3>6. Nomenclatura de compuestos aromáticos</h3>
+<p>Los compuestos aromáticos se nombran usando la base benceno, nombrando los sustituyentes y su posición en el anillo según orto (1,2), meta (1,3) y para (1,4).</p>
+<div class="example"><strong>Ejemplo:</strong> Benceno con un grupo metilo en posición 1 se llama <em>metilbenceno</em> o <em>tolueno</em>.</div>
+</section>
+<!-- COLUMNA DERECHA: DIAGRAMAS -->
+<aside>
+<h3 style="text-align: center; color: #004080;">Representaciones de hidrocarburos</h3>
+<div class="diagram">
+<h4>Estructura Lineal</h4>
+<p><img src="imagen_2025-09-25_131305992-removebg-preview.png" width="102" height="45" alt="" /></p>
 <p></p>
-<p>Molecula interactiva y cuadros o tablas para la nomenclatura en IUPAC de hidrocarburos </p></div><div class="iDevice_buttons feedback-button js-required"><input type="button" class="feedbackbutton" value="Materiales" /></div><div class="feedback js-feedback js-hidden"><p>Enlace con materiales de esta unidad</p></div>
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/58/Butane-2D-skeletal.png" alt="Estructura lineal de butano" />
+<p>Representación en forma de cadena continua. Ejemplo: butano.</p>
 </div>
+<div class="diagram">
+<h4>Estructura de Lewis</h4>
+<p><img src="imagen_2025-09-25_131410883-removebg-preview.png" width="264" height="296" alt="" /></p>
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Methane-2D-dot.png" alt="Estructura de Lewis del metano" />
+<p>Muestra electrones compartidos en enlaces covalentes. Ejemplo: metano.</p>
 </div>
+<div class="diagram">
+<h4>Estructura en 3D</h4>
+<p><img src="imagen_2025-09-25_131557952-removebg-preview.png" width="334" height="323" alt="" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Methane-3D-balls.png" alt="Modelo 3D del metano" />
+<p>Representación espacial con ángulos de enlace. Ejemplo: metano.</p>
+</div>
+<div class="diagram">
+<h4>Estructura aromática</h4>
+<p><img src="imagen_2025-09-25_131747422-removebg-preview.png" width="275" height="155" alt="" /></p>
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/9d/Benzene-2D-skeletal.png" alt="Estructura del benceno" />
+<p>Aros conjugados. Ejemplo: benceno.</p>
+</div>
+</aside>
+</div>
+</div></div>
 </div>
 </div>
 </article>
