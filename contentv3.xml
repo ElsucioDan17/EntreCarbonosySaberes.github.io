@@ -87,7 +87,7 @@
   <string role="key" value="_name"></string>
   <unicode value="AVA_HIDROCARBUROS_V1.1"></unicode>
   <string role="key" value="_nextIdeviceId"></string>
-  <int value="88"></int>
+  <int value="90"></int>
   <string role="key" value="_nextNodeId"></string>
   <int value="32"></int>
   <string role="key" value="_nodeIdDict"></string>
@@ -176,7 +176,7 @@
            <dictionary></dictionary>
            <string role="key" value="content_w_resourcePaths"></string>
            <unicode content="true" value="			&lt;div class=&quot;exe-interactive-video&quot;&gt;				&lt;p id=&quot;exe-interactive-video-file&quot; class=&quot;js-hidden&quot;&gt;					&lt;a href=&quot;https://www.youtube.com/watch?v=mMhiFnPx3ic&amp;t=2s&quot;&gt;com/watch?v=mMhiFnPx3ic&amp;t=2s&lt;/a&gt;				&lt;/p&gt;				&lt;script type=&quot;text/javascript&quot;&gt;//&lt;![CDATA[					
-var InteractiveVideo = {&quot;slides&quot;:[{&quot;type&quot;:&quot;cloze&quot;,&quot;text&quot;:&quot;&lt;p&gt;En ambientes acuáticos tranquilos como fiordos, bahías y lagos se acumularon restos &lt;span style=\&quot;text-decoration: line-through;\&quot;&gt;orgánicos&lt;/span&gt; de organismos muertos&lt;/p&gt;&quot;,&quot;startTime&quot;:71},{&quot;type&quot;:&quot;cloze&quot;,&quot;text&quot;:&quot;&lt;p&gt;La presión y la &lt;span style=\&quot;text-decoration: line-through;\&quot;&gt;temperatura&lt;/span&gt; fueron clave para transformar la materia orgánica en hidrocarburos.&lt;/p&gt;&quot;,&quot;startTime&quot;:134},{&quot;type&quot;:&quot;cloze&quot;,&quot;text&quot;:&quot;&lt;p&gt;El &lt;span style=\&quot;text-decoration: line-through;\&quot;&gt;gas&lt;/span&gt; y el &lt;span style=\&quot;text-decoration: line-through;\&quot;&gt;petróleo&lt;/span&gt; quedaron atrapados en trampas geológicas&lt;/p&gt;&quot;,&quot;startTime&quot;:232},{&quot;type&quot;:&quot;singleChoice&quot;,&quot;question&quot;:&quot;&lt;p&gt;&lt;strong&gt;&lt;em&gt;Pregunta de reflexión&lt;/em&gt; &lt;/strong&gt; El video explica que el fracking es parte del desarrollo no convencional. Aunque no se mencionan los impactos, ¿cuáles de estos podrían estar asociados?&lt;/p&gt;&quot;,&quot;answers&quot;:[[&quot;Contaminación de aguas subterráneas&quot;,0],[&quot;Sismos inducidos&quot;,0],[&quot;Conflictos sociales por uso de recursos&quot;,0],[&quot;Todas las anteriores&quot;,1]],&quot;startTime&quot;:266},{&quot;type&quot;:&quot;dropdown&quot;,&quot;text&quot;:&quot;&lt;p&gt;&lt;em&gt;&lt;strong&gt;Pregunta de reflexión  &lt;/strong&gt;&lt;/em&gt;Además de generar energía eléctrica y combustibles, los hidrocarburos tienen otros usos importantes. Completa el texto seleccionando la opción correcta.&lt;/p&gt;\n&lt;p&gt;Los hidrocarburos se utilizan en la fabricación de &lt;span style=\&quot;text-decoration: line-through;\&quot;&gt;plásticos&lt;/span&gt;  (bolsas, botellas, envases), en la producción de &lt;span style=\&quot;text-decoration: line-through;\&quot;&gt;medicinas&lt;/span&gt;, en la elaboración de &lt;span style=\&quot;text-decoration: line-through;\&quot;&gt;fertilizantes&lt;/span&gt; para el campo y también en productos  como las &lt;span style=\&quot;text-decoration: line-through;\&quot;&gt;pinturas&lt;/span&gt;  (esmaltes y recubrimientos) y en los &lt;span style=\&quot;text-decoration: line-through;\&quot;&gt;cosméticos&lt;/span&gt;&lt;em&gt;&lt;br /&gt;&lt;/em&gt;&lt;/p&gt;&quot;,&quot;startTime&quot;:312,&quot;additionalWords&quot;:[&quot;plásticos&quot;,&quot;medicinas&quot;,&quot;fertilizantes&quot;,&quot;pinturas&quot;,&quot;cosméticos&quot;,&quot;metales&quot;]}],&quot;i18n&quot;:{&quot;start&quot;:&quot;Inicio&quot;,&quot;results&quot;:&quot;Resultados&quot;,&quot;slide&quot;:&quot;Diapositiva (fotograma)&quot;,&quot;score&quot;:&quot;Puntuación&quot;,&quot;seen&quot;:&quot;Visto&quot;,&quot;total&quot;:&quot;Total&quot;,&quot;seeAll&quot;:&quot;debe ver todo el contenido y contestar a las preguntas&quot;,&quot;noSlides&quot;:&quot;El vídeo no tiene contenidos interactivos.&quot;,&quot;goOn&quot;:&quot;Continuar&quot;,&quot;error&quot;:&quot;Error&quot;,&quot;dataError&quot;:&quot;Código no compatible&quot;,&quot;onlyOne&quot;:&quot;Sólo un vídeo interactivo por página.&quot;,&quot;cover&quot;:&quot;Portada&quot;,&quot;fsWarning&quot;:&quot;Salga del modo pantalla completa (tecla Esc) para ver la diapositiva&quot;,&quot;right&quot;:&quot;¡Correcto!&quot;,&quot;wrong&quot;:&quot;Incorrecto&quot;,&quot;sortableListInstructions&quot;:&quot;Pinche y arrastre o use las flechas.&quot;,&quot;up&quot;:&quot;Subir&quot;,&quot;down&quot;:&quot;Bajar&quot;,&quot;rightAnswer&quot;:&quot;Respuesta correcta:&quot;,&quot;notAnswered&quot;:&quot;Por favor termine la actividad&quot;,&quot;check&quot;:&quot;Comprobar&quot;,&quot;newWindow&quot;:&quot;Ventana nueva&quot;,&quot;msgOnlySaveAuto&quot;:&quot;Su puntuación se guardará después de cada pregunta. Sólo puede jugar una vez.&quot;,&quot;msgSaveAuto&quot;:&quot;Su puntuación se guardará automáticamente después de cada pregunta.&quot;,&quot;msgYouScore&quot;:&quot;Su puntuación&quot;,&quot;msgScoreScorm&quot;:&quot;La puntuación no se puede guardar porque esta página no forma parte  de un paquete SCORM.&quot;,&quot;msgYouLastScore&quot;:&quot;La última puntuación guardada es&quot;,&quot;msgActityComply&quot;:&quot;Ya ha realizado esta actividad.&quot;,&quot;msgPlaySeveralTimes&quot;:&quot;Puede realizar esta actividad cuantas veces quiera&quot;,&quot;msgEndGameScore&quot;:&quot;Antes de guardar la puntuación comience la partida.&quot;,&quot;msgSeveralScore&quot;:&quot;Puede guardar la puntuación tantas veces como quiera&quot;,&quot;msgOnlySaveScore&quot;:&quot;¡Sólo puede guardar la puntuación una vez!&quot;,&quot;msgOnlySave&quot;:&quot;Sólo puede guardar una vez&quot;,&quot;msgUncompletedActivity&quot;:&quot;Actividad no completada&quot;,&quot;msgSuccessfulActivity&quot;:&quot;Actividad superada. Puntuación: %s&quot;,&quot;msgUnsuccessfulActivity&quot;:&quot;Actividad no superada. Puntuación: %s&quot;,&quot;msgTypeGame&quot;:&quot;Vídeo interactivo&quot;},&quot;scorm&quot;:{&quot;isScorm&quot;:0,&quot;textButtonScorm&quot;:&quot;Guardar la puntuación&quot;,&quot;repeatActivity&quot;:false},&quot;scoreNIA&quot;:false,&quot;evaluation&quot;:false,&quot;evaluationID&quot;:&quot;&quot;,&quot;ideviceID&quot;:&quot;2025922164618360&quot;,&quot;title&quot;:&quot;El Origen de los Hidrocarburos. por Instituto Argentino de Gas y Petróleo&quot;,&quot;description&quot;:&quot;&lt;div style=\&quot;border: 2px solid #f1c40f; background-color: #fff8dc; padding: 15px; border-radius: 10px; font-family: Arial, sans-serif;\&quot;&gt;\n&lt;p style=\&quot;text-align: center; font-size: 20px; font-weight: bold; color: #2c3e50; margin-bottom: 10px;\&quot;&gt;🎬 INSTRUCCIONES&lt;/p&gt;\n&lt;ol style=\&quot;color: #2c3e50; font-size: 16px; line-height: 1.6;\&quot;&gt;\n&lt;li&gt;Mira el video con atención.&lt;/li&gt;\n&lt;li&gt;Responde las preguntas que aparecerán en los momentos señalados.&lt;/li&gt;\n&lt;/ol&gt;\n&lt;p style=\&quot;background-color: #f9e79f; border: 1px dashed #f39c12; padding: 10px; border-radius: 8px; font-size: 15px; color: #7d6608; margin-top: 15px; text-align: center;\&quot;&gt;⚠️ &lt;strong&gt;No pongas el video en pantalla completa&lt;/strong&gt;, ya que podrías perder la interacción con las preguntas.&lt;/p&gt;\n&lt;p style=\&quot;background-color: #d6eaf8; border: 1px dashed #2980b9; padding: 10px; border-radius: 8px; font-size: 14px; color: #1b4f72; margin-top: 15px;\&quot;&gt;📒 &lt;em&gt;Recuerda: algunas palabras de las preguntas llevan tilde. Presta atención a la ortografía al responder.&lt;/em&gt;&lt;/p&gt;\n&lt;/div&gt;&quot;,&quot;coverType&quot;:&quot;text&quot;}				//]]&gt;&lt;/script&gt;			&lt;/div&gt;"></unicode>
+var InteractiveVideo = {&quot;slides&quot;:[{&quot;type&quot;:&quot;cloze&quot;,&quot;text&quot;:&quot;&lt;p&gt;En ambientes acuáticos tranquilos como fiordos, bahías y lagos se acumularon restos &lt;span style=\&quot;text-decoration: line-through;\&quot;&gt;orgánicos&lt;/span&gt; de organismos muertos&lt;/p&gt;&quot;,&quot;startTime&quot;:71},{&quot;type&quot;:&quot;cloze&quot;,&quot;text&quot;:&quot;&lt;p&gt;La presión y la &lt;span style=\&quot;text-decoration: line-through;\&quot;&gt;temperatura&lt;/span&gt; fueron clave para transformar la materia orgánica en hidrocarburos.&lt;/p&gt;&quot;,&quot;startTime&quot;:134},{&quot;type&quot;:&quot;cloze&quot;,&quot;text&quot;:&quot;&lt;p&gt;El &lt;span style=\&quot;text-decoration: line-through;\&quot;&gt;gas&lt;/span&gt; y el &lt;span style=\&quot;text-decoration: line-through;\&quot;&gt;petróleo&lt;/span&gt; quedaron atrapados en trampas geológicas&lt;/p&gt;&quot;,&quot;startTime&quot;:232},{&quot;type&quot;:&quot;singleChoice&quot;,&quot;question&quot;:&quot;&lt;p&gt;&lt;strong&gt;&lt;em&gt;Pregunta de reflexión&lt;/em&gt; &lt;/strong&gt; El video explica que el fracking es parte del desarrollo no convencional. Aunque no se mencionan los impactos, ¿cuáles de estos podrían estar asociados?&lt;/p&gt;&quot;,&quot;answers&quot;:[[&quot;Contaminación de aguas subterráneas&quot;,0],[&quot;Sismos inducidos&quot;,0],[&quot;Conflictos sociales por uso de recursos&quot;,0],[&quot;Todas las anteriores&quot;,1]],&quot;startTime&quot;:266},{&quot;type&quot;:&quot;dropdown&quot;,&quot;text&quot;:&quot;&lt;p&gt;&lt;em&gt;&lt;strong&gt;Pregunta de reflexión  &lt;/strong&gt;&lt;/em&gt;Además de generar energía eléctrica y combustibles, los hidrocarburos tienen otros usos importantes. Completa el texto seleccionando la opción correcta.&lt;/p&gt;\n&lt;p&gt;Los hidrocarburos se utilizan en la fabricación de &lt;span style=\&quot;text-decoration: line-through;\&quot;&gt;plásticos&lt;/span&gt;  (bolsas, botellas, envases), en la producción de &lt;span style=\&quot;text-decoration: line-through;\&quot;&gt;medicinas&lt;/span&gt;, en la elaboración de &lt;span style=\&quot;text-decoration: line-through;\&quot;&gt;fertilizantes&lt;/span&gt; para el campo y también en productos  como las &lt;span style=\&quot;text-decoration: line-through;\&quot;&gt;pinturas&lt;/span&gt;  (esmaltes y recubrimientos) y en los &lt;span style=\&quot;text-decoration: line-through;\&quot;&gt;cosméticos&lt;/span&gt;&lt;em&gt;&lt;br /&gt;&lt;/em&gt;&lt;/p&gt;&quot;,&quot;startTime&quot;:312,&quot;additionalWords&quot;:[&quot;plásticos&quot;,&quot;medicinas&quot;,&quot;fertilizantes&quot;,&quot;pinturas&quot;,&quot;cosméticos&quot;,&quot;metales&quot;]}],&quot;i18n&quot;:{&quot;start&quot;:&quot;Inicio&quot;,&quot;results&quot;:&quot;Resultados&quot;,&quot;slide&quot;:&quot;Diapositiva (fotograma)&quot;,&quot;score&quot;:&quot;Puntuación&quot;,&quot;seen&quot;:&quot;Visto&quot;,&quot;total&quot;:&quot;Total&quot;,&quot;seeAll&quot;:&quot;debe ver todo el contenido y contestar a las preguntas&quot;,&quot;noSlides&quot;:&quot;El vídeo no tiene contenidos interactivos.&quot;,&quot;goOn&quot;:&quot;Continuar&quot;,&quot;error&quot;:&quot;Error&quot;,&quot;dataError&quot;:&quot;Código no compatible&quot;,&quot;onlyOne&quot;:&quot;Sólo un vídeo interactivo por página.&quot;,&quot;cover&quot;:&quot;Portada&quot;,&quot;fsWarning&quot;:&quot;Salga del modo pantalla completa (tecla Esc) para ver la diapositiva&quot;,&quot;right&quot;:&quot;¡Correcto!&quot;,&quot;wrong&quot;:&quot;Incorrecto&quot;,&quot;sortableListInstructions&quot;:&quot;Pinche y arrastre o use las flechas.&quot;,&quot;up&quot;:&quot;Subir&quot;,&quot;down&quot;:&quot;Bajar&quot;,&quot;rightAnswer&quot;:&quot;Respuesta correcta:&quot;,&quot;notAnswered&quot;:&quot;Por favor termine la actividad&quot;,&quot;check&quot;:&quot;Comprobar&quot;,&quot;newWindow&quot;:&quot;Ventana nueva&quot;,&quot;msgOnlySaveAuto&quot;:&quot;Su puntuación se guardará después de cada pregunta. Sólo puede jugar una vez.&quot;,&quot;msgSaveAuto&quot;:&quot;Su puntuación se guardará automáticamente después de cada pregunta.&quot;,&quot;msgYouScore&quot;:&quot;Su puntuación&quot;,&quot;msgScoreScorm&quot;:&quot;La puntuación no se puede guardar porque esta página no forma parte  de un paquete SCORM.&quot;,&quot;msgYouLastScore&quot;:&quot;La última puntuación guardada es&quot;,&quot;msgActityComply&quot;:&quot;Ya ha realizado esta actividad.&quot;,&quot;msgPlaySeveralTimes&quot;:&quot;Puede realizar esta actividad cuantas veces quiera&quot;,&quot;msgEndGameScore&quot;:&quot;Antes de guardar la puntuación comience la partida.&quot;,&quot;msgSeveralScore&quot;:&quot;Puede guardar la puntuación tantas veces como quiera&quot;,&quot;msgOnlySaveScore&quot;:&quot;¡Sólo puede guardar la puntuación una vez!&quot;,&quot;msgOnlySave&quot;:&quot;Sólo puede guardar una vez&quot;,&quot;msgUncompletedActivity&quot;:&quot;Actividad no completada&quot;,&quot;msgSuccessfulActivity&quot;:&quot;Actividad superada. Puntuación: %s&quot;,&quot;msgUnsuccessfulActivity&quot;:&quot;Actividad no superada. Puntuación: %s&quot;,&quot;msgTypeGame&quot;:&quot;Vídeo interactivo&quot;},&quot;scorm&quot;:{&quot;isScorm&quot;:0,&quot;textButtonScorm&quot;:&quot;Guardar la puntuación&quot;,&quot;repeatActivity&quot;:false},&quot;scoreNIA&quot;:false,&quot;evaluation&quot;:false,&quot;evaluationID&quot;:&quot;&quot;,&quot;ideviceID&quot;:&quot;2025922164618360&quot;,&quot;title&quot;:&quot;El Origen de los Hidrocarburos. por Instituto Argentino de Gas y Petróleo&quot;,&quot;description&quot;:&quot;&lt;div style=\&quot;border: 2px solid #f1c40f; background-color: #fff8dc; padding: 15px; border-radius: 10px; font-family: Arial, sans-serif;\&quot;&gt;\n&lt;p style=\&quot;text-align: center; font-size: 20px; font-weight: bold; color: #2c3e50; margin-bottom: 10px;\&quot;&gt;🎬 INSTRUCCIONES&lt;/p&gt;\n&lt;ol style=\&quot;color: #2c3e50; font-size: 16px; line-height: 1.6;\&quot;&gt;\n&lt;li&gt;Mira el video con atención.&lt;/li&gt;\n&lt;li&gt;Responde las preguntas que aparecerán en los momentos señalados.&lt;/li&gt;\n&lt;/ol&gt;\n&lt;p style=\&quot;background-color: #f9e79f; border: 1px dashed #f39c12; padding: 10px; border-radius: 8px; font-size: 15px; color: #7d6608; margin-top: 15px; text-align: center;\&quot;&gt;⚠️ &lt;strong&gt;No pongas el video en pantalla completa&lt;/strong&gt;, ya que podrías perder la interacción con las preguntas.&lt;/p&gt;\n&lt;p style=\&quot;background-color: #d6eaf8; border: 1px dashed #2980b9; padding: 10px; border-radius: 8px; font-size: 14px; color: #1b4f72; margin-top: 15px;\&quot;&gt;📒 &lt;em&gt;Recuerda: algunas palabras de las preguntas llevan tilde. Presta atención a la ortografía al responder.&lt;/em&gt;&lt;/p&gt;\n&lt;/div&gt;&quot;,&quot;coverType&quot;:&quot;text&quot;}				//]]&gt;&lt;/script&gt;			&lt;/div&gt;"></unicode>
            <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
            <int value="4"></int>
            <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
@@ -452,7 +452,7 @@ var InteractiveVideo = {&quot;slides&quot;:[{&quot;type&quot;:&quot;cloze&quot;,
                          <instance class="exe.engine.field.TextField">
                           <dictionary>
                            <string role="key" value="_id"></string>
-                           <int value="252"></int>
+                           <int value="380"></int>
                            <string role="key" value="_idevice"></string>
                            <none></none>
                            <string role="key" value="_instruc"></string>
@@ -466,7 +466,7 @@ var InteractiveVideo = {&quot;slides&quot;:[{&quot;type&quot;:&quot;cloze&quot;,
                           </dictionary>
                          </instance>
                          <string role="key" value="_id"></string>
-                         <unicode value="18_127_2.3"></unicode>
+                         <unicode value="18_127_2.6"></unicode>
                          <string role="key" value="_imageResource"></string>
                          <instance class="exe.engine.resource.Resource" reference="10">
                           <dictionary>
@@ -477,7 +477,7 @@ var InteractiveVideo = {&quot;slides&quot;:[{&quot;type&quot;:&quot;cloze&quot;,
                            <string role="key" value="_storageName"></string>
                            <string value="imagen_2025-09-17_150851892-removebg-preview.png"></string>
                            <string role="key" value="_userName"></string>
-                           <string value="c:\\users\\cocol\\appdata\\local\\temp\\tmpbvvsh5\\imagen_2025-09-17_150851892-removebg-preview.png"></string>
+                           <string value="c:\\users\\cocol\\appdata\\local\\temp\\tmpf2snz8\\imagen_2025-09-17_150851892-removebg-preview.png"></string>
                            <string role="key" value="checksum"></string>
                            <string value="8c884e53cb67bb7339e5681012e9dd4f"></string>
                            <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -506,14 +506,14 @@ var InteractiveVideo = {&quot;slides&quot;:[{&quot;type&quot;:&quot;cloze&quot;,
                     <string role="key" value="intlinks_to_anchors"></string>
                     <dictionary></dictionary>
                     <string role="key" value="nextImageId"></string>
-                    <int value="4"></int>
+                    <int value="7"></int>
                     <string role="key" value="parentNode"></string>
                     <reference key="9"></reference>
                    </dictionary>
                   </instance>
                  </list>
                  <string role="key" value="icon"></string>
-                 <unicode value=""></unicode>
+                 <unicode value="info_black"></unicode>
                  <string role="key" value="id"></string>
                  <unicode value="18"></unicode>
                  <string role="key" value="ideviceCategory"></string>
@@ -787,7 +787,7 @@ var InteractiveVideo = {&quot;slides&quot;:[{&quot;type&quot;:&quot;cloze&quot;,
                          <instance class="exe.engine.field.TextField">
                           <dictionary>
                            <string role="key" value="_id"></string>
-                           <int value="251"></int>
+                           <int value="379"></int>
                            <string role="key" value="_idevice"></string>
                            <none></none>
                            <string role="key" value="_instruc"></string>
@@ -801,7 +801,7 @@ var InteractiveVideo = {&quot;slides&quot;:[{&quot;type&quot;:&quot;cloze&quot;,
                           </dictionary>
                          </instance>
                          <string role="key" value="_id"></string>
-                         <unicode value="20_129_2.4"></unicode>
+                         <unicode value="20_129_2.7"></unicode>
                          <string role="key" value="_imageResource"></string>
                          <instance class="exe.engine.resource.Resource" reference="67">
                           <dictionary>
@@ -812,7 +812,7 @@ var InteractiveVideo = {&quot;slides&quot;:[{&quot;type&quot;:&quot;cloze&quot;,
                            <string role="key" value="_storageName"></string>
                            <string value="imagen_2025-09-17_103320911-removebg-preview.png"></string>
                            <string role="key" value="_userName"></string>
-                           <string value="c:\\users\\cocol\\appdata\\local\\temp\\tmpbvvsh5\\imagen_2025-09-17_103320911-removebg-preview.png"></string>
+                           <string value="c:\\users\\cocol\\appdata\\local\\temp\\tmpf2snz8\\imagen_2025-09-17_103320911-removebg-preview.png"></string>
                            <string role="key" value="checksum"></string>
                            <string value="aff65f3995a09c41e25a924c76c65113"></string>
                            <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1598,6 +1598,8 @@ var InteractiveVideo = {&quot;slides&quot;:[{&quot;type&quot;:&quot;cloze&quot;,
                              <string value=""></string>
                              <string role="key" value="anchor_names"></string>
                              <list></list>
+                             <string role="key" value="anchors_linked_from_fields"></string>
+                             <dictionary></dictionary>
                              <string role="key" value="content_w_resourcePaths"></string>
                              <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p&gt;&lt;a href=&quot;exe-node:Introducci%C3%B3n:Hidrocarburos:Actividades#auto_top&quot;&gt;&lt;img src=&quot;resources/imagen_2025-09-22_133553977-removebg-preview.png&quot; alt=&quot;&quot; width=&quot;484&quot; height=&quot;187&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;"></unicode>
                              <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
@@ -1619,7 +1621,7 @@ var InteractiveVideo = {&quot;slides&quot;:[{&quot;type&quot;:&quot;cloze&quot;,
                                   <instance class="exe.engine.field.TextField">
                                    <dictionary>
                                     <string role="key" value="_id"></string>
-                                    <int value="253"></int>
+                                    <int value="381"></int>
                                     <string role="key" value="_idevice"></string>
                                     <none></none>
                                     <string role="key" value="_instruc"></string>
@@ -1633,7 +1635,7 @@ var InteractiveVideo = {&quot;slides&quot;:[{&quot;type&quot;:&quot;cloze&quot;,
                                    </dictionary>
                                   </instance>
                                   <string role="key" value="_id"></string>
-                                  <unicode value="81_129_2.0"></unicode>
+                                  <unicode value="81_129_2.3"></unicode>
                                   <string role="key" value="_imageResource"></string>
                                   <instance class="exe.engine.resource.Resource" reference="66">
                                    <dictionary>
@@ -1644,7 +1646,7 @@ var InteractiveVideo = {&quot;slides&quot;:[{&quot;type&quot;:&quot;cloze&quot;,
                                     <string role="key" value="_storageName"></string>
                                     <string value="imagen_2025-09-22_133553977-removebg-preview.png"></string>
                                     <string role="key" value="_userName"></string>
-                                    <string value="c:\\users\\cocol\\appdata\\local\\temp\\tmptkchnk.eXe\\previews\\allyourbase\\imagen_2025-09-22_133553977-removebg-preview.png"></string>
+                                    <string value="c:\\users\\cocol\\appdata\\local\\temp\\tmpf2snz8\\imagen_2025-09-22_133553977-removebg-preview.png"></string>
                                     <string role="key" value="checksum"></string>
                                     <string value="0c14f49289b51e963cd2bf9730f2f91e"></string>
                                     <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2338,7 +2340,7 @@ var InteractiveVideo = {&quot;slides&quot;:[{&quot;type&quot;:&quot;cloze&quot;,
                                            <instance class="exe.engine.field.TextField">
                                             <dictionary>
                                              <string role="key" value="_id"></string>
-                                             <int value="254"></int>
+                                             <int value="373"></int>
                                              <string role="key" value="_idevice"></string>
                                              <none></none>
                                              <string role="key" value="_instruc"></string>
@@ -2352,7 +2354,7 @@ var InteractiveVideo = {&quot;slides&quot;:[{&quot;type&quot;:&quot;cloze&quot;,
                                             </dictionary>
                                            </instance>
                                            <string role="key" value="_id"></string>
-                                           <unicode value="52_159_2.0"></unicode>
+                                           <unicode value="52_159_2.12"></unicode>
                                            <string role="key" value="_imageResource"></string>
                                            <instance class="exe.engine.resource.Resource" reference="29">
                                             <dictionary>
@@ -2361,113 +2363,9 @@ var InteractiveVideo = {&quot;slides&quot;:[{&quot;type&quot;:&quot;cloze&quot;,
                                              <string role="key" value="_package"></string>
                                              <reference key="7"></reference>
                                              <string role="key" value="_storageName"></string>
-                                             <string value="imagen_2025-09-22_134955063-removebg-preview.png"></string>
-                                             <string role="key" value="_userName"></string>
-                                             <string value="c:\\users\\cocol\\appdata\\local\\temp\\tmptkchnk.eXe\\previews\\allyourbase\\imagen_2025-09-22_134955063-removebg-preview.png"></string>
-                                             <string role="key" value="checksum"></string>
-                                             <string value="d98546c21562427e39b076393478a736"></string>
-                                             <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
-                                             <int value="2"></int>
-                                             <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
-                                             <int value="2"></int>
-                                             <string role="key" value="warningMsg"></string>
-                                             <string value=""></string>
-                                            </dictionary>
-                                           </instance>
-                                           <string role="key" value="_parent"></string>
-                                           <reference key="28"></reference>
-                                           <string role="key" value="_thumbnailResource"></string>
-                                           <none></none>
-                                           <string role="key" value="exe.engine.galleryidevice.GalleryImage.persistenceVersion"></string>
-                                           <int value="3"></int>
-                                           <string role="key" value="makeThumbnail"></string>
-                                           <bool value="0"></bool>
-                                          </dictionary>
-                                         </instance>
-                                         <instance class="exe.engine.galleryidevice.GalleryImage">
-                                          <dictionary>
-                                           <string role="key" value="_caption"></string>
-                                           <instance class="exe.engine.field.TextField">
-                                            <dictionary>
-                                             <string role="key" value="_id"></string>
-                                             <int value="255"></int>
-                                             <string role="key" value="_idevice"></string>
-                                             <none></none>
-                                             <string role="key" value="_instruc"></string>
-                                             <string value=""></string>
-                                             <string role="key" value="_name"></string>
-                                             <string value=""></string>
-                                             <string role="key" value="content"></string>
-                                             <string value=""></string>
-                                             <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
-                                             <int value="4"></int>
-                                            </dictionary>
-                                           </instance>
-                                           <string role="key" value="_id"></string>
-                                           <unicode value="52_159_2.1"></unicode>
-                                           <string role="key" value="_imageResource"></string>
-                                           <instance class="exe.engine.resource.Resource" reference="30">
-                                            <dictionary>
-                                             <string role="key" value="_idevice"></string>
-                                             <reference key="27"></reference>
-                                             <string role="key" value="_package"></string>
-                                             <reference key="7"></reference>
-                                             <string role="key" value="_storageName"></string>
-                                             <string value="eteno.png"></string>
-                                             <string role="key" value="_userName"></string>
-                                             <string value="c:\\users\\cocol\\appdata\\local\\temp\\tmptkchnk.eXe\\previews\\allyourbase\\eteno.png"></string>
-                                             <string role="key" value="checksum"></string>
-                                             <string value="8ca31d3bd80db356d8ee1db4127bb8e1"></string>
-                                             <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
-                                             <int value="2"></int>
-                                             <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
-                                             <int value="2"></int>
-                                             <string role="key" value="warningMsg"></string>
-                                             <string value=""></string>
-                                            </dictionary>
-                                           </instance>
-                                           <string role="key" value="_parent"></string>
-                                           <reference key="28"></reference>
-                                           <string role="key" value="_thumbnailResource"></string>
-                                           <none></none>
-                                           <string role="key" value="exe.engine.galleryidevice.GalleryImage.persistenceVersion"></string>
-                                           <int value="3"></int>
-                                           <string role="key" value="makeThumbnail"></string>
-                                           <bool value="0"></bool>
-                                          </dictionary>
-                                         </instance>
-                                         <instance class="exe.engine.galleryidevice.GalleryImage">
-                                          <dictionary>
-                                           <string role="key" value="_caption"></string>
-                                           <instance class="exe.engine.field.TextField">
-                                            <dictionary>
-                                             <string role="key" value="_id"></string>
-                                             <int value="256"></int>
-                                             <string role="key" value="_idevice"></string>
-                                             <none></none>
-                                             <string role="key" value="_instruc"></string>
-                                             <string value=""></string>
-                                             <string role="key" value="_name"></string>
-                                             <string value=""></string>
-                                             <string role="key" value="content"></string>
-                                             <string value=""></string>
-                                             <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
-                                             <int value="4"></int>
-                                            </dictionary>
-                                           </instance>
-                                           <string role="key" value="_id"></string>
-                                           <unicode value="52_159_2.2"></unicode>
-                                           <string role="key" value="_imageResource"></string>
-                                           <instance class="exe.engine.resource.Resource" reference="31">
-                                            <dictionary>
-                                             <string role="key" value="_idevice"></string>
-                                             <reference key="27"></reference>
-                                             <string role="key" value="_package"></string>
-                                             <reference key="7"></reference>
-                                             <string role="key" value="_storageName"></string>
                                              <string value="acetileno.png"></string>
                                              <string role="key" value="_userName"></string>
-                                             <string value="c:\\users\\cocol\\appdata\\local\\temp\\tmptkchnk.eXe\\previews\\allyourbase\\acetileno.png"></string>
+                                             <string value="c:\\users\\cocol\\appdata\\local\\temp\\tmpf2snz8\\acetileno.png"></string>
                                              <string role="key" value="checksum"></string>
                                              <string value="560f9a19ff467fbbf4519a5c2b260e32"></string>
                                              <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2494,7 +2392,7 @@ var InteractiveVideo = {&quot;slides&quot;:[{&quot;type&quot;:&quot;cloze&quot;,
                                            <instance class="exe.engine.field.TextField">
                                             <dictionary>
                                              <string role="key" value="_id"></string>
-                                             <int value="257"></int>
+                                             <int value="374"></int>
                                              <string role="key" value="_idevice"></string>
                                              <none></none>
                                              <string role="key" value="_instruc"></string>
@@ -2508,9 +2406,9 @@ var InteractiveVideo = {&quot;slides&quot;:[{&quot;type&quot;:&quot;cloze&quot;,
                                             </dictionary>
                                            </instance>
                                            <string role="key" value="_id"></string>
-                                           <unicode value="52_159_2.3"></unicode>
+                                           <unicode value="52_159_2.13"></unicode>
                                            <string role="key" value="_imageResource"></string>
-                                           <instance class="exe.engine.resource.Resource" reference="32">
+                                           <instance class="exe.engine.resource.Resource" reference="30">
                                             <dictionary>
                                              <string role="key" value="_idevice"></string>
                                              <reference key="27"></reference>
@@ -2519,9 +2417,113 @@ var InteractiveVideo = {&quot;slides&quot;:[{&quot;type&quot;:&quot;cloze&quot;,
                                              <string role="key" value="_storageName"></string>
                                              <string value="benceno.png"></string>
                                              <string role="key" value="_userName"></string>
-                                             <string value="c:\\users\\cocol\\appdata\\local\\temp\\tmptkchnk.eXe\\previews\\allyourbase\\benceno.png"></string>
+                                             <string value="c:\\users\\cocol\\appdata\\local\\temp\\tmpf2snz8\\benceno.png"></string>
                                              <string role="key" value="checksum"></string>
                                              <string value="d174aadc1bcc3b5d4dacd85a0224f10d"></string>
+                                             <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
+                                             <int value="2"></int>
+                                             <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
+                                             <int value="2"></int>
+                                             <string role="key" value="warningMsg"></string>
+                                             <string value=""></string>
+                                            </dictionary>
+                                           </instance>
+                                           <string role="key" value="_parent"></string>
+                                           <reference key="28"></reference>
+                                           <string role="key" value="_thumbnailResource"></string>
+                                           <none></none>
+                                           <string role="key" value="exe.engine.galleryidevice.GalleryImage.persistenceVersion"></string>
+                                           <int value="3"></int>
+                                           <string role="key" value="makeThumbnail"></string>
+                                           <bool value="0"></bool>
+                                          </dictionary>
+                                         </instance>
+                                         <instance class="exe.engine.galleryidevice.GalleryImage">
+                                          <dictionary>
+                                           <string role="key" value="_caption"></string>
+                                           <instance class="exe.engine.field.TextField">
+                                            <dictionary>
+                                             <string role="key" value="_id"></string>
+                                             <int value="377"></int>
+                                             <string role="key" value="_idevice"></string>
+                                             <none></none>
+                                             <string role="key" value="_instruc"></string>
+                                             <string value=""></string>
+                                             <string role="key" value="_name"></string>
+                                             <string value=""></string>
+                                             <string role="key" value="content"></string>
+                                             <string value=""></string>
+                                             <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
+                                             <int value="4"></int>
+                                            </dictionary>
+                                           </instance>
+                                           <string role="key" value="_id"></string>
+                                           <unicode value="52_159_2.14"></unicode>
+                                           <string role="key" value="_imageResource"></string>
+                                           <instance class="exe.engine.resource.Resource" reference="31">
+                                            <dictionary>
+                                             <string role="key" value="_idevice"></string>
+                                             <reference key="27"></reference>
+                                             <string role="key" value="_package"></string>
+                                             <reference key="7"></reference>
+                                             <string role="key" value="_storageName"></string>
+                                             <string value="eteno.png"></string>
+                                             <string role="key" value="_userName"></string>
+                                             <string value="c:\\users\\cocol\\appdata\\local\\temp\\tmpf2snz8\\eteno.png"></string>
+                                             <string role="key" value="checksum"></string>
+                                             <string value="8ca31d3bd80db356d8ee1db4127bb8e1"></string>
+                                             <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
+                                             <int value="2"></int>
+                                             <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
+                                             <int value="2"></int>
+                                             <string role="key" value="warningMsg"></string>
+                                             <string value=""></string>
+                                            </dictionary>
+                                           </instance>
+                                           <string role="key" value="_parent"></string>
+                                           <reference key="28"></reference>
+                                           <string role="key" value="_thumbnailResource"></string>
+                                           <none></none>
+                                           <string role="key" value="exe.engine.galleryidevice.GalleryImage.persistenceVersion"></string>
+                                           <int value="3"></int>
+                                           <string role="key" value="makeThumbnail"></string>
+                                           <bool value="0"></bool>
+                                          </dictionary>
+                                         </instance>
+                                         <instance class="exe.engine.galleryidevice.GalleryImage">
+                                          <dictionary>
+                                           <string role="key" value="_caption"></string>
+                                           <instance class="exe.engine.field.TextField">
+                                            <dictionary>
+                                             <string role="key" value="_id"></string>
+                                             <int value="382"></int>
+                                             <string role="key" value="_idevice"></string>
+                                             <none></none>
+                                             <string role="key" value="_instruc"></string>
+                                             <string value=""></string>
+                                             <string role="key" value="_name"></string>
+                                             <string value=""></string>
+                                             <string role="key" value="content"></string>
+                                             <string value=""></string>
+                                             <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
+                                             <int value="4"></int>
+                                            </dictionary>
+                                           </instance>
+                                           <string role="key" value="_id"></string>
+                                           <unicode value="52_159_2.15"></unicode>
+                                           <string role="key" value="_imageResource"></string>
+                                           <instance class="exe.engine.resource.Resource" reference="32">
+                                            <dictionary>
+                                             <string role="key" value="_idevice"></string>
+                                             <reference key="27"></reference>
+                                             <string role="key" value="_package"></string>
+                                             <reference key="7"></reference>
+                                             <string role="key" value="_storageName"></string>
+                                             <string value="imagen_2025-09-22_134955063-removebg-preview.png"></string>
+                                             <string role="key" value="_userName"></string>
+                                             <string value="c:\\users\\cocol\\appdata\\local\\temp\\tmpf2snz8\\imagen_2025-09-22_134955063-removebg-preview.png"></string>
+                                             <string role="key" value="checksum"></string>
+                                             <string value="d98546c21562427e39b076393478a736"></string>
                                              <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
                                              <int value="2"></int>
                                              <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
@@ -2548,7 +2550,7 @@ var InteractiveVideo = {&quot;slides&quot;:[{&quot;type&quot;:&quot;cloze&quot;,
                                       <string role="key" value="intlinks_to_anchors"></string>
                                       <dictionary></dictionary>
                                       <string role="key" value="nextImageId"></string>
-                                      <int value="4"></int>
+                                      <int value="16"></int>
                                       <string role="key" value="parentNode"></string>
                                       <reference key="26"></reference>
                                      </dictionary>
@@ -2722,7 +2724,7 @@ var InteractiveVideo = {&quot;slides&quot;:[{&quot;type&quot;:&quot;cloze&quot;,
                                            <instance class="exe.engine.field.TextField">
                                             <dictionary>
                                              <string role="key" value="_id"></string>
-                                             <int value="258"></int>
+                                             <int value="383"></int>
                                              <string role="key" value="_idevice"></string>
                                              <none></none>
                                              <string role="key" value="_instruc"></string>
@@ -2736,7 +2738,7 @@ var InteractiveVideo = {&quot;slides&quot;:[{&quot;type&quot;:&quot;cloze&quot;,
                                             </dictionary>
                                            </instance>
                                            <string role="key" value="_id"></string>
-                                           <unicode value="56_163_2.0"></unicode>
+                                           <unicode value="56_163_2.3"></unicode>
                                            <string role="key" value="_imageResource"></string>
                                            <instance class="exe.engine.resource.Resource" reference="65">
                                             <dictionary>
@@ -2747,7 +2749,7 @@ var InteractiveVideo = {&quot;slides&quot;:[{&quot;type&quot;:&quot;cloze&quot;,
                                              <string role="key" value="_storageName"></string>
                                              <string value="imagen_2025-09-22_135632677-removebg-preview.png"></string>
                                              <string role="key" value="_userName"></string>
-                                             <string value="c:\\users\\cocol\\appdata\\local\\temp\\tmptkchnk.eXe\\previews\\allyourbase\\imagen_2025-09-22_135632677-removebg-preview.png"></string>
+                                             <string value="c:\\users\\cocol\\appdata\\local\\temp\\tmpf2snz8\\imagen_2025-09-22_135632677-removebg-preview.png"></string>
                                              <string role="key" value="checksum"></string>
                                              <string value="ea71cf18ebe10d469c1431d542e00dfa"></string>
                                              <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2839,6 +2841,8 @@ as these can tend to be ambiguous."></unicode>
                                                  <unicode value="Question:"></unicode>
                                                  <string role="key" value="anchor_names"></string>
                                                  <list></list>
+                                                 <string role="key" value="anchors_linked_from_fields"></string>
+                                                 <dictionary></dictionary>
                                                  <string role="key" value="content_w_resourcePaths"></string>
                                                  <unicode content="true" value="&lt;p style=&quot;text-align: center;&quot;&gt;&lt;em&gt;&lt;strong&gt;Un hidrocarburo que tiene enlaces simples entre sus átomos de carbono se denomina&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;"></unicode>
                                                  <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
@@ -2863,7 +2867,7 @@ as these can tend to be ambiguous."></unicode>
                                                  <string role="key" value="nextImageId"></string>
                                                  <int value="0"></int>
                                                  <string role="key" value="parentNode"></string>
-                                                 <none></none>
+                                                 <reference key="35"></reference>
                                                 </dictionary>
                                                </instance>
                                                <string role="key" value="_correctAnswerInstruc"></string>
@@ -2902,6 +2906,8 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
                                                     <unicode value="Option"></unicode>
                                                     <string role="key" value="anchor_names"></string>
                                                     <list></list>
+                                                    <string role="key" value="anchors_linked_from_fields"></string>
+                                                    <dictionary></dictionary>
                                                     <string role="key" value="content_w_resourcePaths"></string>
                                                     <unicode content="true" value="&lt;p&gt;Alqueno&lt;/p&gt;"></unicode>
                                                     <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
@@ -2926,7 +2932,7 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
                                                     <string role="key" value="nextImageId"></string>
                                                     <int value="0"></int>
                                                     <string role="key" value="parentNode"></string>
-                                                    <none></none>
+                                                    <reference key="35"></reference>
                                                    </dictionary>
                                                   </instance>
                                                   <string role="key" value="idevice"></string>
@@ -2954,6 +2960,8 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
                                                     <unicode value="Option"></unicode>
                                                     <string role="key" value="anchor_names"></string>
                                                     <list></list>
+                                                    <string role="key" value="anchors_linked_from_fields"></string>
+                                                    <dictionary></dictionary>
                                                     <string role="key" value="content_w_resourcePaths"></string>
                                                     <unicode content="true" value="&lt;p&gt;Alquino&lt;/p&gt;"></unicode>
                                                     <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
@@ -2978,7 +2986,7 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
                                                     <string role="key" value="nextImageId"></string>
                                                     <int value="0"></int>
                                                     <string role="key" value="parentNode"></string>
-                                                    <none></none>
+                                                    <reference key="35"></reference>
                                                    </dictionary>
                                                   </instance>
                                                   <string role="key" value="idevice"></string>
@@ -3006,6 +3014,8 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
                                                     <unicode value="Option"></unicode>
                                                     <string role="key" value="anchor_names"></string>
                                                     <list></list>
+                                                    <string role="key" value="anchors_linked_from_fields"></string>
+                                                    <dictionary></dictionary>
                                                     <string role="key" value="content_w_resourcePaths"></string>
                                                     <unicode content="true" value="&lt;p&gt;Alcano&lt;/p&gt;"></unicode>
                                                     <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
@@ -3030,7 +3040,7 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
                                                     <string role="key" value="nextImageId"></string>
                                                     <int value="0"></int>
                                                     <string role="key" value="parentNode"></string>
-                                                    <none></none>
+                                                    <reference key="35"></reference>
                                                    </dictionary>
                                                   </instance>
                                                   <string role="key" value="idevice"></string>
@@ -3063,6 +3073,8 @@ as these can tend to be ambiguous."></unicode>
                                                  <unicode value="Question:"></unicode>
                                                  <string role="key" value="anchor_names"></string>
                                                  <list></list>
+                                                 <string role="key" value="anchors_linked_from_fields"></string>
+                                                 <dictionary></dictionary>
                                                  <string role="key" value="content_w_resourcePaths"></string>
                                                  <unicode content="true" value="&lt;p style=&quot;text-align: center;&quot;&gt;&lt;em&gt;&lt;strong&gt;Un hidrocarburo que tiene dobles enlaces entre sus átomos de carbono se denomina&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;"></unicode>
                                                  <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
@@ -3087,7 +3099,7 @@ as these can tend to be ambiguous."></unicode>
                                                  <string role="key" value="nextImageId"></string>
                                                  <int value="0"></int>
                                                  <string role="key" value="parentNode"></string>
-                                                 <none></none>
+                                                 <reference key="35"></reference>
                                                 </dictionary>
                                                </instance>
                                                <string role="key" value="_correctAnswerInstruc"></string>
@@ -3126,6 +3138,8 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
                                                     <unicode value="Option"></unicode>
                                                     <string role="key" value="anchor_names"></string>
                                                     <list></list>
+                                                    <string role="key" value="anchors_linked_from_fields"></string>
+                                                    <dictionary></dictionary>
                                                     <string role="key" value="content_w_resourcePaths"></string>
                                                     <unicode content="true" value="&lt;p&gt;Alcano&lt;/p&gt;"></unicode>
                                                     <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
@@ -3150,7 +3164,7 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
                                                     <string role="key" value="nextImageId"></string>
                                                     <int value="0"></int>
                                                     <string role="key" value="parentNode"></string>
-                                                    <none></none>
+                                                    <reference key="35"></reference>
                                                    </dictionary>
                                                   </instance>
                                                   <string role="key" value="idevice"></string>
@@ -3178,6 +3192,8 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
                                                     <unicode value="Option"></unicode>
                                                     <string role="key" value="anchor_names"></string>
                                                     <list></list>
+                                                    <string role="key" value="anchors_linked_from_fields"></string>
+                                                    <dictionary></dictionary>
                                                     <string role="key" value="content_w_resourcePaths"></string>
                                                     <unicode content="true" value="&lt;p&gt;Alqueno&lt;/p&gt;"></unicode>
                                                     <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
@@ -3202,7 +3218,7 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
                                                     <string role="key" value="nextImageId"></string>
                                                     <int value="0"></int>
                                                     <string role="key" value="parentNode"></string>
-                                                    <none></none>
+                                                    <reference key="35"></reference>
                                                    </dictionary>
                                                   </instance>
                                                   <string role="key" value="idevice"></string>
@@ -3230,6 +3246,8 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
                                                     <unicode value="Option"></unicode>
                                                     <string role="key" value="anchor_names"></string>
                                                     <list></list>
+                                                    <string role="key" value="anchors_linked_from_fields"></string>
+                                                    <dictionary></dictionary>
                                                     <string role="key" value="content_w_resourcePaths"></string>
                                                     <unicode content="true" value="&lt;p&gt;Alquino&lt;/p&gt;"></unicode>
                                                     <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
@@ -3254,7 +3272,7 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
                                                     <string role="key" value="nextImageId"></string>
                                                     <int value="0"></int>
                                                     <string role="key" value="parentNode"></string>
-                                                    <none></none>
+                                                    <reference key="35"></reference>
                                                    </dictionary>
                                                   </instance>
                                                   <string role="key" value="idevice"></string>
@@ -3287,6 +3305,8 @@ as these can tend to be ambiguous."></unicode>
                                                  <unicode value="Question:"></unicode>
                                                  <string role="key" value="anchor_names"></string>
                                                  <list></list>
+                                                 <string role="key" value="anchors_linked_from_fields"></string>
+                                                 <dictionary></dictionary>
                                                  <string role="key" value="content_w_resourcePaths"></string>
                                                  <unicode content="true" value="&lt;p style=&quot;text-align: center;&quot;&gt;&lt;em&gt;&lt;strong&gt;Un hidrocarburo que tiene triples enlaces entre sus átomos de carbono se denomina&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;"></unicode>
                                                  <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
@@ -3311,7 +3331,7 @@ as these can tend to be ambiguous."></unicode>
                                                  <string role="key" value="nextImageId"></string>
                                                  <int value="0"></int>
                                                  <string role="key" value="parentNode"></string>
-                                                 <none></none>
+                                                 <reference key="35"></reference>
                                                 </dictionary>
                                                </instance>
                                                <string role="key" value="_correctAnswerInstruc"></string>
@@ -3350,6 +3370,8 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
                                                     <unicode value="Option"></unicode>
                                                     <string role="key" value="anchor_names"></string>
                                                     <list></list>
+                                                    <string role="key" value="anchors_linked_from_fields"></string>
+                                                    <dictionary></dictionary>
                                                     <string role="key" value="content_w_resourcePaths"></string>
                                                     <unicode content="true" value="&lt;p&gt;Alquino&lt;/p&gt;"></unicode>
                                                     <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
@@ -3374,7 +3396,7 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
                                                     <string role="key" value="nextImageId"></string>
                                                     <int value="0"></int>
                                                     <string role="key" value="parentNode"></string>
-                                                    <none></none>
+                                                    <reference key="35"></reference>
                                                    </dictionary>
                                                   </instance>
                                                   <string role="key" value="idevice"></string>
@@ -3402,6 +3424,8 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
                                                     <unicode value="Option"></unicode>
                                                     <string role="key" value="anchor_names"></string>
                                                     <list></list>
+                                                    <string role="key" value="anchors_linked_from_fields"></string>
+                                                    <dictionary></dictionary>
                                                     <string role="key" value="content_w_resourcePaths"></string>
                                                     <unicode content="true" value="&lt;p&gt;Alcano&lt;/p&gt;"></unicode>
                                                     <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
@@ -3426,7 +3450,7 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
                                                     <string role="key" value="nextImageId"></string>
                                                     <int value="0"></int>
                                                     <string role="key" value="parentNode"></string>
-                                                    <none></none>
+                                                    <reference key="35"></reference>
                                                    </dictionary>
                                                   </instance>
                                                   <string role="key" value="idevice"></string>
@@ -3454,6 +3478,8 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
                                                     <unicode value="Option"></unicode>
                                                     <string role="key" value="anchor_names"></string>
                                                     <list></list>
+                                                    <string role="key" value="anchors_linked_from_fields"></string>
+                                                    <dictionary></dictionary>
                                                     <string role="key" value="content_w_resourcePaths"></string>
                                                     <unicode content="true" value="&lt;p style=&quot;text-align: left;&quot;&gt;Alqueno&lt;/p&gt;"></unicode>
                                                     <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
@@ -3478,7 +3504,7 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
                                                     <string role="key" value="nextImageId"></string>
                                                     <int value="0"></int>
                                                     <string role="key" value="parentNode"></string>
-                                                    <none></none>
+                                                    <reference key="35"></reference>
                                                    </dictionary>
                                                   </instance>
                                                   <string role="key" value="idevice"></string>
@@ -3511,6 +3537,8 @@ as these can tend to be ambiguous."></unicode>
                                                  <unicode value="Question:"></unicode>
                                                  <string role="key" value="anchor_names"></string>
                                                  <list></list>
+                                                 <string role="key" value="anchors_linked_from_fields"></string>
+                                                 <dictionary></dictionary>
                                                  <string role="key" value="content_w_resourcePaths"></string>
                                                  <unicode content="true" value="&lt;p style=&quot;text-align: center;&quot;&gt;&lt;em&gt;&lt;strong&gt;¿Cuál de las siguientes fórmulas corresponde a un alqueno?&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;"></unicode>
                                                  <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
@@ -3535,7 +3563,7 @@ as these can tend to be ambiguous."></unicode>
                                                  <string role="key" value="nextImageId"></string>
                                                  <int value="0"></int>
                                                  <string role="key" value="parentNode"></string>
-                                                 <none></none>
+                                                 <reference key="35"></reference>
                                                 </dictionary>
                                                </instance>
                                                <string role="key" value="_correctAnswerInstruc"></string>
@@ -3574,6 +3602,8 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
                                                     <unicode value="Option"></unicode>
                                                     <string role="key" value="anchor_names"></string>
                                                     <list></list>
+                                                    <string role="key" value="anchors_linked_from_fields"></string>
+                                                    <dictionary></dictionary>
                                                     <string role="key" value="content_w_resourcePaths"></string>
                                                     <unicode content="true" value="&lt;p style=&quot;text-align: left;&quot;&gt;&lt;em&gt;&lt;strong&gt;C₂H₂&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
 &lt;p style=&quot;text-align: center;&quot;&gt;&lt;em&gt;&lt;strong&gt;&lt;img src=&quot;resources/C2H2.PNG&quot; alt=&quot;&quot; width=&quot;200&quot; height=&quot;187&quot; style=&quot;float: left;&quot; /&gt;&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;"></unicode>
@@ -3596,7 +3626,7 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
                                                          <instance class="exe.engine.field.TextField">
                                                           <dictionary>
                                                            <string role="key" value="_id"></string>
-                                                           <int value="344"></int>
+                                                           <int value="375"></int>
                                                            <string role="key" value="_idevice"></string>
                                                            <none></none>
                                                            <string role="key" value="_instruc"></string>
@@ -3610,7 +3640,7 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
                                                           </dictionary>
                                                          </instance>
                                                          <string role="key" value="_id"></string>
-                                                         <unicode value="85_341.0"></unicode>
+                                                         <unicode value="85_341.3"></unicode>
                                                          <string role="key" value="_imageResource"></string>
                                                          <instance class="exe.engine.resource.Resource" reference="62">
                                                           <dictionary>
@@ -3621,7 +3651,7 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
                                                            <string role="key" value="_storageName"></string>
                                                            <string value="C2H2.PNG"></string>
                                                            <string role="key" value="_userName"></string>
-                                                           <string value="c:\\users\\cocol\\appdata\\local\\temp\\tmptkchnk.eXe\\previews\\allyourbase\\C2H2.PNG"></string>
+                                                           <string value="c:\\users\\cocol\\appdata\\local\\temp\\tmpf2snz8\\C2H2.PNG"></string>
                                                            <string role="key" value="checksum"></string>
                                                            <string value="2890a2821d833e91fe4e289b4366bdbf"></string>
                                                            <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -3650,7 +3680,7 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
                                                     <string role="key" value="intlinks_to_anchors"></string>
                                                     <dictionary></dictionary>
                                                     <string role="key" value="nextImageId"></string>
-                                                    <int value="1"></int>
+                                                    <int value="4"></int>
                                                     <string role="key" value="parentNode"></string>
                                                     <reference key="35"></reference>
                                                    </dictionary>
@@ -3680,6 +3710,8 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
                                                     <unicode value="Option"></unicode>
                                                     <string role="key" value="anchor_names"></string>
                                                     <list></list>
+                                                    <string role="key" value="anchors_linked_from_fields"></string>
+                                                    <dictionary></dictionary>
                                                     <string role="key" value="content_w_resourcePaths"></string>
                                                     <unicode content="true" value="&lt;p style=&quot;text-align: left;&quot;&gt;&lt;em&gt;&lt;strong&gt;C₂H₆&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
 &lt;p style=&quot;text-align: center;&quot;&gt;&lt;em&gt;&lt;strong&gt;&lt;img src=&quot;resources/C2H6.jpg&quot; alt=&quot;&quot; width=&quot;445&quot; height=&quot;336&quot; style=&quot;float: left;&quot; /&gt;&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;"></unicode>
@@ -3702,7 +3734,7 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
                                                          <instance class="exe.engine.field.TextField">
                                                           <dictionary>
                                                            <string role="key" value="_id"></string>
-                                                           <int value="345"></int>
+                                                           <int value="376"></int>
                                                            <string role="key" value="_idevice"></string>
                                                            <none></none>
                                                            <string role="key" value="_instruc"></string>
@@ -3716,7 +3748,7 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
                                                           </dictionary>
                                                          </instance>
                                                          <string role="key" value="_id"></string>
-                                                         <unicode value="85_342.0"></unicode>
+                                                         <unicode value="85_342.3"></unicode>
                                                          <string role="key" value="_imageResource"></string>
                                                          <instance class="exe.engine.resource.Resource" reference="63">
                                                           <dictionary>
@@ -3727,7 +3759,7 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
                                                            <string role="key" value="_storageName"></string>
                                                            <string value="C2H6.jpg"></string>
                                                            <string role="key" value="_userName"></string>
-                                                           <string value="c:\\users\\cocol\\appdata\\local\\temp\\tmptkchnk.eXe\\previews\\allyourbase\\C2H6.jpg"></string>
+                                                           <string value="c:\\users\\cocol\\appdata\\local\\temp\\tmpf2snz8\\C2H6.jpg"></string>
                                                            <string role="key" value="checksum"></string>
                                                            <string value="58ffa0bf6bb0ca4ae56a9db566a8e00b"></string>
                                                            <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -3756,7 +3788,7 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
                                                     <string role="key" value="intlinks_to_anchors"></string>
                                                     <dictionary></dictionary>
                                                     <string role="key" value="nextImageId"></string>
-                                                    <int value="1"></int>
+                                                    <int value="4"></int>
                                                     <string role="key" value="parentNode"></string>
                                                     <reference key="35"></reference>
                                                    </dictionary>
@@ -3786,6 +3818,8 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
                                                     <unicode value="Option"></unicode>
                                                     <string role="key" value="anchor_names"></string>
                                                     <list></list>
+                                                    <string role="key" value="anchors_linked_from_fields"></string>
+                                                    <dictionary></dictionary>
                                                     <string role="key" value="content_w_resourcePaths"></string>
                                                     <unicode content="true" value="&lt;p style=&quot;text-align: left;&quot;&gt;&lt;em&gt;&lt;strong&gt;C₂H₄&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
 &lt;p style=&quot;text-align: center;&quot;&gt;&lt;em&gt;&lt;strong&gt;&lt;img src=&quot;resources/eteno.png&quot; alt=&quot;&quot; width=&quot;200&quot; height=&quot;187&quot; style=&quot;float: left;&quot; /&gt;&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;"></unicode>
@@ -3808,7 +3842,7 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
                                                          <instance class="exe.engine.field.TextField">
                                                           <dictionary>
                                                            <string role="key" value="_id"></string>
-                                                           <int value="349"></int>
+                                                           <int value="378"></int>
                                                            <string role="key" value="_idevice"></string>
                                                            <none></none>
                                                            <string role="key" value="_instruc"></string>
@@ -3822,7 +3856,7 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
                                                           </dictionary>
                                                          </instance>
                                                          <string role="key" value="_id"></string>
-                                                         <unicode value="85_343.0"></unicode>
+                                                         <unicode value="85_343.3"></unicode>
                                                          <string role="key" value="_imageResource"></string>
                                                          <instance class="exe.engine.resource.Resource" reference="64">
                                                           <dictionary>
@@ -3833,7 +3867,7 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
                                                            <string role="key" value="_storageName"></string>
                                                            <string value="eteno.png"></string>
                                                            <string role="key" value="_userName"></string>
-                                                           <string value="c:\\users\\cocol\\appdata\\local\\temp\\tmptkchnk.eXe\\previews\\allyourbase\\eteno.png"></string>
+                                                           <string value="c:\\users\\cocol\\appdata\\local\\temp\\tmpf2snz8\\eteno.png"></string>
                                                            <string role="key" value="checksum"></string>
                                                            <string value="8ca31d3bd80db356d8ee1db4127bb8e1"></string>
                                                            <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -3862,7 +3896,7 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
                                                     <string role="key" value="intlinks_to_anchors"></string>
                                                     <dictionary></dictionary>
                                                     <string role="key" value="nextImageId"></string>
-                                                    <int value="1"></int>
+                                                    <int value="4"></int>
                                                     <string role="key" value="parentNode"></string>
                                                     <reference key="35"></reference>
                                                    </dictionary>
@@ -3897,6 +3931,8 @@ as these can tend to be ambiguous."></unicode>
                                                  <unicode value="Question:"></unicode>
                                                  <string role="key" value="anchor_names"></string>
                                                  <list></list>
+                                                 <string role="key" value="anchors_linked_from_fields"></string>
+                                                 <dictionary></dictionary>
                                                  <string role="key" value="content_w_resourcePaths"></string>
                                                  <unicode content="true" value="&lt;p style=&quot;text-align: center;&quot;&gt;&lt;em&gt;&lt;strong&gt;El benceno (C₆H₆) es un ejemplo de hidrocarburo&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;"></unicode>
                                                  <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
@@ -3921,7 +3957,7 @@ as these can tend to be ambiguous."></unicode>
                                                  <string role="key" value="nextImageId"></string>
                                                  <int value="0"></int>
                                                  <string role="key" value="parentNode"></string>
-                                                 <none></none>
+                                                 <reference key="35"></reference>
                                                 </dictionary>
                                                </instance>
                                                <string role="key" value="_correctAnswerInstruc"></string>
@@ -3960,6 +3996,8 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
                                                     <unicode value="Option"></unicode>
                                                     <string role="key" value="anchor_names"></string>
                                                     <list></list>
+                                                    <string role="key" value="anchors_linked_from_fields"></string>
+                                                    <dictionary></dictionary>
                                                     <string role="key" value="content_w_resourcePaths"></string>
                                                     <unicode content="true" value="&lt;p&gt;Aromático&lt;/p&gt;"></unicode>
                                                     <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
@@ -3984,7 +4022,7 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
                                                     <string role="key" value="nextImageId"></string>
                                                     <int value="0"></int>
                                                     <string role="key" value="parentNode"></string>
-                                                    <none></none>
+                                                    <reference key="35"></reference>
                                                    </dictionary>
                                                   </instance>
                                                   <string role="key" value="idevice"></string>
@@ -4012,6 +4050,8 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
                                                     <unicode value="Option"></unicode>
                                                     <string role="key" value="anchor_names"></string>
                                                     <list></list>
+                                                    <string role="key" value="anchors_linked_from_fields"></string>
+                                                    <dictionary></dictionary>
                                                     <string role="key" value="content_w_resourcePaths"></string>
                                                     <unicode content="true" value="&lt;p&gt;Saturado&lt;/p&gt;"></unicode>
                                                     <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
@@ -4036,7 +4076,7 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
                                                     <string role="key" value="nextImageId"></string>
                                                     <int value="0"></int>
                                                     <string role="key" value="parentNode"></string>
-                                                    <none></none>
+                                                    <reference key="35"></reference>
                                                    </dictionary>
                                                   </instance>
                                                   <string role="key" value="idevice"></string>
@@ -4064,6 +4104,8 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
                                                     <unicode value="Option"></unicode>
                                                     <string role="key" value="anchor_names"></string>
                                                     <list></list>
+                                                    <string role="key" value="anchors_linked_from_fields"></string>
+                                                    <dictionary></dictionary>
                                                     <string role="key" value="content_w_resourcePaths"></string>
                                                     <unicode content="true" value="&lt;p&gt;Insaturado&lt;/p&gt;"></unicode>
                                                     <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
@@ -4088,7 +4130,7 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
                                                     <string role="key" value="nextImageId"></string>
                                                     <int value="0"></int>
                                                     <string role="key" value="parentNode"></string>
-                                                    <none></none>
+                                                    <reference key="35"></reference>
                                                    </dictionary>
                                                   </instance>
                                                   <string role="key" value="idevice"></string>
@@ -4115,66 +4157,6 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
                                             <bool value="1"></bool>
                                             <string role="key" value="userResources"></string>
                                             <list>
-                                             <instance class="exe.engine.resource.Resource" reference="110">
-                                              <dictionary>
-                                               <string role="key" value="_idevice"></string>
-                                               <reference key="36"></reference>
-                                               <string role="key" value="_package"></string>
-                                               <reference key="7"></reference>
-                                               <string role="key" value="_storageName"></string>
-                                               <string value="C2H2.PNG"></string>
-                                               <string role="key" value="_userName"></string>
-                                               <string value="c:\\users\\cocol\\appdata\\local\\temp\\tmptkchnk.eXe\\previews\\allyourbase\\C2H2.PNG"></string>
-                                               <string role="key" value="checksum"></string>
-                                               <string value="2890a2821d833e91fe4e289b4366bdbf"></string>
-                                               <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
-                                               <int value="2"></int>
-                                               <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
-                                               <int value="2"></int>
-                                               <string role="key" value="warningMsg"></string>
-                                               <string value=""></string>
-                                              </dictionary>
-                                             </instance>
-                                             <instance class="exe.engine.resource.Resource" reference="111">
-                                              <dictionary>
-                                               <string role="key" value="_idevice"></string>
-                                               <reference key="36"></reference>
-                                               <string role="key" value="_package"></string>
-                                               <reference key="7"></reference>
-                                               <string role="key" value="_storageName"></string>
-                                               <string value="C2H6.jpg"></string>
-                                               <string role="key" value="_userName"></string>
-                                               <string value="c:\\users\\cocol\\appdata\\local\\temp\\tmptkchnk.eXe\\previews\\allyourbase\\C2H6.jpg"></string>
-                                               <string role="key" value="checksum"></string>
-                                               <string value="58ffa0bf6bb0ca4ae56a9db566a8e00b"></string>
-                                               <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
-                                               <int value="2"></int>
-                                               <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
-                                               <int value="2"></int>
-                                               <string role="key" value="warningMsg"></string>
-                                               <string value=""></string>
-                                              </dictionary>
-                                             </instance>
-                                             <instance class="exe.engine.resource.Resource" reference="112">
-                                              <dictionary>
-                                               <string role="key" value="_idevice"></string>
-                                               <reference key="36"></reference>
-                                               <string role="key" value="_package"></string>
-                                               <reference key="7"></reference>
-                                               <string role="key" value="_storageName"></string>
-                                               <string value="eteno.png"></string>
-                                               <string role="key" value="_userName"></string>
-                                               <string value="c:\\users\\cocol\\appdata\\local\\temp\\tmptkchnk.eXe\\previews\\allyourbase\\eteno.png"></string>
-                                               <string role="key" value="checksum"></string>
-                                               <string value="8ca31d3bd80db356d8ee1db4127bb8e1"></string>
-                                               <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
-                                               <int value="2"></int>
-                                               <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
-                                               <int value="2"></int>
-                                               <string role="key" value="warningMsg"></string>
-                                               <string value=""></string>
-                                              </dictionary>
-                                             </instance>
                                              <reference key="62"></reference>
                                              <reference key="63"></reference>
                                              <reference key="64"></reference>
@@ -4208,7 +4190,7 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
                                        </instance>
                                       </dictionary>
                                       <string role="key" value="nextImageId"></string>
-                                      <int value="1"></int>
+                                      <int value="4"></int>
                                       <string role="key" value="parentNode"></string>
                                       <reference key="26"></reference>
                                      </dictionary>
@@ -4265,7 +4247,7 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
                               </instance>
                              </dictionary>
                              <string role="key" value="nextImageId"></string>
-                             <int value="1"></int>
+                             <int value="4"></int>
                              <string role="key" value="parentNode"></string>
                              <reference key="17"></reference>
                             </dictionary>
@@ -4322,7 +4304,7 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
                      </instance>
                     </dictionary>
                     <string role="key" value="nextImageId"></string>
-                    <int value="5"></int>
+                    <int value="8"></int>
                     <string role="key" value="parentNode"></string>
                     <reference key="9"></reference>
                    </dictionary>
@@ -4516,7 +4498,6 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
               <dictionary></dictionary>
               <string role="key" value="content_w_resourcePaths"></string>
               <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;OBJETIVO&lt;/p&gt;
 &lt;p&gt;DESARROLLO TEORICO &lt;/p&gt;&lt;/div&gt;"></unicode>
               <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
               <int value="4"></int>
@@ -4568,6 +4549,307 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
            <int value="0"></int>
           </dictionary>
          </instance>
+         <instance class="exe.engine.jsidevice.JsIdevice" reference="71">
+          <dictionary>
+           <string role="key" value="_title"></string>
+           <unicode value="Nomenclatura de Hidrocarburos"></unicode>
+           <string role="key" value="_attributes"></string>
+           <list>
+            <tuple>
+             <string value="title"></string>
+             <list>
+              <string value="Title"></string>
+              <int value="0"></int>
+              <int value="0"></int>
+             </list>
+            </tuple>
+            <tuple>
+             <string value="category"></string>
+             <list>
+              <string value="Category"></string>
+              <int value="0"></int>
+              <int value="1"></int>
+             </list>
+            </tuple>
+            <tuple>
+             <string value="css-class"></string>
+             <list>
+              <string value="CSS class"></string>
+              <int value="0"></int>
+              <int value="2"></int>
+             </list>
+            </tuple>
+            <tuple>
+             <string value="icon"></string>
+             <list>
+              <string value="Icon"></string>
+              <int value="0"></int>
+              <int value="3"></int>
+             </list>
+            </tuple>
+           </list>
+           <string role="key" value="_author"></string>
+           <string value=""></string>
+           <string role="key" value="_iDeviceDir"></string>
+           <string value="text"></string>
+           <string role="key" value="_purpose"></string>
+           <string value=""></string>
+           <string role="key" value="_tip"></string>
+           <string value=""></string>
+           <string role="key" value="_typeName"></string>
+           <unicode value="Text"></unicode>
+           <string role="key" value="_valid"></string>
+           <bool value="1"></bool>
+           <string role="key" value="class_"></string>
+           <unicode value="text"></unicode>
+           <string role="key" value="edit"></string>
+           <bool value="0"></bool>
+           <string role="key" value="emphasis"></string>
+           <int value="1"></int>
+           <string role="key" value="exe.engine.jsidevice.JsIdevice.persistenceVersion"></string>
+           <int value="1"></int>
+           <string role="key" value="fields"></string>
+           <list>
+            <instance class="exe.engine.field.TextAreaField" reference="72">
+             <dictionary>
+              <string role="key" value="_id"></string>
+              <unicode value="128_2"></unicode>
+              <string role="key" value="_idevice"></string>
+              <reference key="71"></reference>
+              <string role="key" value="_instruc"></string>
+              <string value=""></string>
+              <string role="key" value="_name"></string>
+              <string value=""></string>
+              <string role="key" value="anchor_names"></string>
+              <list></list>
+              <string role="key" value="anchors_linked_from_fields"></string>
+              <dictionary></dictionary>
+              <string role="key" value="content_w_resourcePaths"></string>
+              <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;hr /&gt;
+&lt;p&gt;&lt;span style=&quot;color: #ff0000;&quot;&gt;&lt;strong&gt;Objetivo:&lt;/strong&gt;&lt;/span&gt; &lt;em&gt;&lt;strong&gt;Reconocer y aplicar las reglas de la IUPAC para nombrar hidrocarburos, relacionando la estructura del carbono con la formación de moléculas orgánicas, y analizando cómo estos compuestos se vinculan con el aprovechamiento de los recursos naturales y la obtención de energía para diferentes usos en la vida cotidiana.&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;iDevice_buttons feedback-button js-required&quot;&gt;&lt;input type=&quot;button&quot; class=&quot;feedbackbutton&quot; value=&quot;¿Qué es la IUPAC?&quot; /&gt;&lt;/div&gt;&lt;div class=&quot;feedback js-feedback js-hidden&quot;&gt;&lt;p&gt;&lt;/p&gt;
+&lt;style&gt;
+  *{box-sizing:border-box}
+  html,body{height:100%; margin:0; font-family:Inter, system-ui, -apple-system, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial; color:#0f172a}
+  img{max-width:100%; display:block}
+
+  :root{
+    --bg:#FBF8F4;
+    --panel:#FFFFFF;
+    --ink:#0f172a;
+    --muted:#475569;
+    --accent:#0b74c9;
+    --accent-2:#2eb872;
+    --card-radius:14px;
+    --shadow: 0 12px 30px rgba(11,18,34,0.08);
+  }
+
+  body{
+    background:linear-gradient(180deg, var(--bg) 0%, #fff 40%);
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    padding:28px;
+  }
+
+  .infocard{
+    width:100%;
+    max-width:920px;
+    background:var(--panel);
+    border-radius:var(--card-radius);
+    padding:28px;
+    box-shadow:var(--shadow);
+    border:1px solid rgba(15,23,42,0.04);
+  }
+
+  .top{
+    display:flex;
+    gap:20px;
+    align-items:center;
+    margin-bottom:12px;
+  }
+
+  .logo-wrap{
+    width:108px;
+    height:108px;
+    flex:0 0 108px;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    border-radius:14px;
+    background:linear-gradient(135deg,#f7fbff, #eef9ff);
+    box-shadow: 0 8px 20px rgba(11,118,201,0.06);
+  }
+
+  .title{
+    font-size:1.6rem;
+    font-weight:800;
+    color:var(--ink);
+    margin:0;
+    line-height:1.05;
+  }
+  .subtitle{
+    margin:6px 0 0;
+    color:var(--muted);
+    font-size:0.96rem;
+  }
+
+  .content{
+    display:grid;
+    grid-template-columns: 1fr 320px;
+    gap:22px;
+    margin-top:18px;
+    align-items:start;
+  }
+
+  .text{
+    background:linear-gradient(180deg,#fff,#fbfdff);
+    padding:18px;
+    border-radius:12px;
+    border:1px solid rgba(11,18,34,0.03);
+    box-shadow: 0 8px 20px rgba(11,18,34,0.03);
+  }
+
+  .text p{
+    margin:0 0 10px 0;
+    color: #16324f;
+    font-size:1rem;
+    line-height:1.45;
+  }
+  .text .lead{
+    font-weight:700;
+    color:var(--ink);
+    margin-bottom:8px;
+  }
+
+  .aside{
+    background:linear-gradient(180deg,#fbfbff,#ffffff);
+    padding:16px;
+    border-radius:12px;
+    border:1px solid rgba(11,18,34,0.03);
+    height:100%;
+  }
+
+  .aside h4{ margin:0 0 8px 0; font-size:1rem; color:var(--ink)}
+  .list{
+    margin:8px 0 12px;
+    padding:0;
+    list-style:none;
+  }
+  .list li{
+    display:flex;
+    gap:10px;
+    align-items:flex-start;
+    margin-bottom:10px;
+    color:var(--muted);
+    font-size:0.95rem;
+  }
+  .badge{
+    min-width:34px;
+    height:34px;
+    border-radius:10px;
+    display:inline-flex;
+    align-items:center;
+    justify-content:center;
+    font-weight:700;
+    color:#fff;
+    font-size:0.88rem;
+  }
+  .b1{ background: linear-gradient(180deg,var(--accent), #0a6bb8) }
+  .b2{ background: linear-gradient(180deg,var(--accent-2), #1fa85a) }
+
+  .note{
+    margin-top:14px;
+    font-size:0.88rem;
+    color:#6b7280;
+  }
+
+  @media (max-width:880px){
+    .content{ grid-template-columns: 1fr; }
+    .top{ gap:14px }
+    .logo-wrap{ width:86px; height:86px; flex:0 0 86px }
+  }
+&lt;/style&gt;
+&lt;article class=&quot;infocard&quot; aria-labelledby=&quot;inf-title&quot;&gt;&lt;header class=&quot;top&quot;&gt;
+&lt;div class=&quot;logo-wrap&quot; aria-hidden=&quot;true&quot;&gt;&lt;svg width=&quot;68&quot; height=&quot;68&quot; viewbox=&quot;0 0 120 120&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot; role=&quot;img&quot; aria-label=&quot;Logo estilizado IUPAC&quot;&gt; &lt;g transform=&quot;translate(10,10)&quot;&gt; &lt;polygon points=&quot;50,0 90,25 90,75 50,100 10,75 10,25&quot; fill=&quot;#fff&quot; stroke=&quot;#083a66&quot; stroke-width=&quot;3&quot; stroke-linejoin=&quot;round&quot;&gt;&lt;/polygon&gt; &lt;circle cx=&quot;50&quot; cy=&quot;6&quot; r=&quot;7&quot; fill=&quot;#ffd03a&quot; stroke=&quot;#083a66&quot; stroke-width=&quot;1.5&quot;&gt;&lt;/circle&gt; &lt;circle cx=&quot;85&quot; cy=&quot;28&quot; r=&quot;7&quot; fill=&quot;#35b5e6&quot; stroke=&quot;#083a66&quot; stroke-width=&quot;1.5&quot;&gt;&lt;/circle&gt; &lt;circle cx=&quot;85&quot; cy=&quot;68&quot; r=&quot;7&quot; fill=&quot;#5ad3a9&quot; stroke=&quot;#083a66&quot; stroke-width=&quot;1.5&quot;&gt;&lt;/circle&gt; &lt;circle cx=&quot;50&quot; cy=&quot;92&quot; r=&quot;7&quot; fill=&quot;#8b5cf6&quot; stroke=&quot;#083a66&quot; stroke-width=&quot;1.5&quot;&gt;&lt;/circle&gt; &lt;circle cx=&quot;15&quot; cy=&quot;68&quot; r=&quot;7&quot; fill=&quot;#2eb872&quot; stroke=&quot;#083a66&quot; stroke-width=&quot;1.5&quot;&gt;&lt;/circle&gt; &lt;circle cx=&quot;15&quot; cy=&quot;28&quot; r=&quot;7&quot; fill=&quot;#f04b57&quot; stroke=&quot;#083a66&quot; stroke-width=&quot;1.5&quot;&gt;&lt;/circle&gt; &lt;/g&gt; &lt;/svg&gt;&lt;/div&gt;
+&lt;div style=&quot;flex: 1;&quot;&gt;
+&lt;h1 id=&quot;inf-title&quot; class=&quot;title&quot;&gt;IUPAC — ¿qué es y por qué importa?&lt;/h1&gt;
+&lt;p class=&quot;subtitle&quot;&gt;Un lenguaje global para nombrar y entender sustancias químicas.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/header&gt;
+&lt;section class=&quot;content&quot;&gt;
+&lt;div class=&quot;text&quot;&gt;
+&lt;h2 class=&quot;lead&quot;&gt;Definición breve&lt;/h2&gt;
+&lt;p&gt;La &lt;strong&gt;IUPAC&lt;/strong&gt; (Unión Internacional de Química Pura y Aplicada) es la organización científica fundada en &lt;strong&gt;1919&lt;/strong&gt; que establece las reglas universales para nombrar, representar y clasificar las sustancias químicas.&lt;/p&gt;
+&lt;p&gt;Gracias a estas reglas, los científicos y estudiantes de todo el mundo usan un mismo “idioma químico”, lo que evita confusiones y facilita la comunicación, la investigación y la regulación.&lt;/p&gt;
+&lt;p style=&quot;margin-top: 14px; font-weight: bold; color: var(--muted);&quot;&gt;¿En esta unidad?&lt;/p&gt;
+&lt;ul style=&quot;margin: 8px 0px 0px 18px; color: #134063;&quot;&gt;
+&lt;li&gt;Aprenderás a &lt;strong&gt;leer y escribir nombres IUPAC&lt;/strong&gt; para hidrocarburos sencillos.&lt;/li&gt;
+&lt;li&gt;Relacionarás la &lt;strong&gt;estructura del carbono&lt;/strong&gt; con las propiedades y usos energéticos de estos compuestos.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;aside class=&quot;aside&quot;&gt;
+&lt;h4&gt;Puntos clave&lt;/h4&gt;
+&lt;ul class=&quot;list&quot;&gt;
+&lt;li&gt;&lt;span class=&quot;badge b1&quot;&gt;1&lt;/span&gt; Reglas globales: evitan ambigüedades en nombres químicos.&lt;/li&gt;
+&lt;li&gt;&lt;span class=&quot;badge b2&quot;&gt;2&lt;/span&gt; Base para la nomenclatura orgánica (hidrocarburos, grupos funcionales).&lt;/li&gt;
+&lt;li&gt;&lt;span class=&quot;badge b1&quot;&gt;3&lt;/span&gt; Útil para representar reacciones y mecanismos.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p class=&quot;note&quot;&gt;La IUPAC publica recomendaciones periódicas (como el “Libro Azul” para orgánica) y mantiene la lista de nombres oficiales para compuestos y elementos. Su trabajo facilita estándares internacionales en educación, industria y regulación.&lt;/p&gt;
+&lt;/aside&gt;
+&lt;/section&gt;
+&lt;/article&gt;&lt;/div&gt;"></unicode>
+              <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
+              <int value="4"></int>
+              <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
+              <int value="2"></int>
+              <string role="key" value="exe.engine.field.TextAreaField.persistenceVersion"></string>
+              <int value="3"></int>
+              <string role="key" value="htmlTag"></string>
+              <string value="div"></string>
+              <string role="key" value="images"></string>
+              <instance class="exe.engine.galleryidevice.GalleryImages">
+               <dictionary>
+                <string role="key" value=".listitems"></string>
+                <list></list>
+                <string role="key" value="idevice"></string>
+                <reference key="72"></reference>
+               </dictionary>
+              </instance>
+              <string role="key" value="intlinks_to_anchors"></string>
+              <dictionary></dictionary>
+              <string role="key" value="nextImageId"></string>
+              <int value="0"></int>
+              <string role="key" value="parentNode"></string>
+              <reference key="70"></reference>
+             </dictionary>
+            </instance>
+           </list>
+           <string role="key" value="icon"></string>
+           <unicode value="info_black"></unicode>
+           <string role="key" value="id"></string>
+           <unicode value="89"></unicode>
+           <string role="key" value="ideviceCategory"></string>
+           <unicode value="Text and Tasks"></unicode>
+           <string role="key" value="lastIdevice"></string>
+           <bool value="0"></bool>
+           <string role="key" value="nextFieldId"></string>
+           <int value="3"></int>
+           <string role="key" value="originalicon"></string>
+           <string value=""></string>
+           <string role="key" value="parentNode"></string>
+           <reference key="70"></reference>
+           <string role="key" value="systemResources"></string>
+           <list></list>
+           <string role="key" value="undo"></string>
+           <bool value="1"></bool>
+           <string role="key" value="userResources"></string>
+           <list></list>
+           <string role="key" value="version"></string>
+           <int value="0"></int>
+          </dictionary>
+         </instance>
         </list>
         <string role="key" value="_id"></string>
         <unicode value="2"></unicode>
@@ -4587,13 +4869,13 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
         <list></list>
         <string role="key" value="children"></string>
         <list>
-         <instance class="exe.engine.node.Node" reference="73">
+         <instance class="exe.engine.node.Node" reference="75">
           <dictionary>
            <string role="key" value="_title"></string>
            <unicode value="Materiales"></unicode>
            <string role="key" value="idevices"></string>
            <list>
-            <instance class="exe.engine.jsidevice.JsIdevice" reference="71">
+            <instance class="exe.engine.jsidevice.JsIdevice" reference="73">
              <dictionary>
               <string role="key" value="_title"></string>
               <unicode value="¿Como se llaman estas moleculas?"></unicode>
@@ -4654,12 +4936,12 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
               <int value="1"></int>
               <string role="key" value="fields"></string>
               <list>
-               <instance class="exe.engine.field.TextAreaField" reference="72">
+               <instance class="exe.engine.field.TextAreaField" reference="74">
                 <dictionary>
                  <string role="key" value="_id"></string>
                  <unicode value="151_2"></unicode>
                  <string role="key" value="_idevice"></string>
-                 <reference key="71"></reference>
+                 <reference key="73"></reference>
                  <string role="key" value="_instruc"></string>
                  <string value=""></string>
                  <string role="key" value="_name"></string>
@@ -5107,7 +5389,7 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
                    <string role="key" value=".listitems"></string>
                    <list></list>
                    <string role="key" value="idevice"></string>
-                   <reference key="72"></reference>
+                   <reference key="74"></reference>
                   </dictionary>
                  </instance>
                  <string role="key" value="intlinks_to_anchors"></string>
@@ -5115,7 +5397,7 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
                  <string role="key" value="nextImageId"></string>
                  <int value="0"></int>
                  <string role="key" value="parentNode"></string>
-                 <reference key="73"></reference>
+                 <reference key="75"></reference>
                 </dictionary>
                </instance>
               </list>
@@ -5132,7 +5414,7 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
               <string role="key" value="originalicon"></string>
               <string value=""></string>
               <string role="key" value="parentNode"></string>
-              <reference key="73"></reference>
+              <reference key="75"></reference>
               <string role="key" value="systemResources"></string>
               <list></list>
               <string role="key" value="undo"></string>
@@ -5164,13 +5446,13 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
            <list></list>
           </dictionary>
          </instance>
-         <instance class="exe.engine.node.Node" reference="76">
+         <instance class="exe.engine.node.Node" reference="78">
           <dictionary>
            <string role="key" value="_title"></string>
            <unicode value="Actividades"></unicode>
            <string role="key" value="idevices"></string>
            <list>
-            <instance class="exe.engine.jsidevice.JsIdevice" reference="74">
+            <instance class="exe.engine.jsidevice.JsIdevice" reference="76">
              <dictionary>
               <string role="key" value="_title"></string>
               <unicode value=""></unicode>
@@ -5231,12 +5513,12 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
               <int value="1"></int>
               <string role="key" value="fields"></string>
               <list>
-               <instance class="exe.engine.field.TextAreaField" reference="75">
+               <instance class="exe.engine.field.TextAreaField" reference="77">
                 <dictionary>
                  <string role="key" value="_id"></string>
                  <unicode value="166_2"></unicode>
                  <string role="key" value="_idevice"></string>
-                 <reference key="74"></reference>
+                 <reference key="76"></reference>
                  <string role="key" value="_instruc"></string>
                  <string value=""></string>
                  <string role="key" value="_name"></string>
@@ -5384,7 +5666,7 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
                    <string role="key" value=".listitems"></string>
                    <list></list>
                    <string role="key" value="idevice"></string>
-                   <reference key="75"></reference>
+                   <reference key="77"></reference>
                   </dictionary>
                  </instance>
                  <string role="key" value="intlinks_to_anchors"></string>
@@ -5392,7 +5674,7 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
                  <string role="key" value="nextImageId"></string>
                  <int value="0"></int>
                  <string role="key" value="parentNode"></string>
-                 <reference key="76"></reference>
+                 <reference key="78"></reference>
                 </dictionary>
                </instance>
               </list>
@@ -5409,7 +5691,7 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
               <string role="key" value="originalicon"></string>
               <string value=""></string>
               <string role="key" value="parentNode"></string>
-              <reference key="76"></reference>
+              <reference key="78"></reference>
               <string role="key" value="systemResources"></string>
               <list></list>
               <string role="key" value="undo"></string>
@@ -5441,13 +5723,13 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
            <list></list>
           </dictionary>
          </instance>
-         <instance class="exe.engine.node.Node" reference="79">
+         <instance class="exe.engine.node.Node" reference="81">
           <dictionary>
            <string role="key" value="_title"></string>
            <unicode value="Quiz"></unicode>
            <string role="key" value="idevices"></string>
            <list>
-            <instance class="exe.engine.jsidevice.JsIdevice" reference="77">
+            <instance class="exe.engine.jsidevice.JsIdevice" reference="79">
              <dictionary>
               <string role="key" value="_title"></string>
               <unicode value=""></unicode>
@@ -5508,12 +5790,12 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
               <int value="1"></int>
               <string role="key" value="fields"></string>
               <list>
-               <instance class="exe.engine.field.TextAreaField" reference="78">
+               <instance class="exe.engine.field.TextAreaField" reference="80">
                 <dictionary>
                  <string role="key" value="_id"></string>
                  <unicode value="178_2"></unicode>
                  <string role="key" value="_idevice"></string>
-                 <reference key="77"></reference>
+                 <reference key="79"></reference>
                  <string role="key" value="_instruc"></string>
                  <string value=""></string>
                  <string role="key" value="_name"></string>
@@ -5538,7 +5820,7 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
                    <string role="key" value=".listitems"></string>
                    <list></list>
                    <string role="key" value="idevice"></string>
-                   <reference key="78"></reference>
+                   <reference key="80"></reference>
                   </dictionary>
                  </instance>
                  <string role="key" value="intlinks_to_anchors"></string>
@@ -5546,7 +5828,7 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
                  <string role="key" value="nextImageId"></string>
                  <int value="0"></int>
                  <string role="key" value="parentNode"></string>
-                 <reference key="79"></reference>
+                 <reference key="81"></reference>
                 </dictionary>
                </instance>
               </list>
@@ -5563,7 +5845,7 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
               <string role="key" value="originalicon"></string>
               <string value=""></string>
               <string role="key" value="parentNode"></string>
-              <reference key="79"></reference>
+              <reference key="81"></reference>
               <string role="key" value="systemResources"></string>
               <list></list>
               <string role="key" value="undo"></string>
@@ -5598,13 +5880,13 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
         </list>
        </dictionary>
       </instance>
-      <instance class="exe.engine.node.Node" reference="82">
+      <instance class="exe.engine.node.Node" reference="84">
        <dictionary>
         <string role="key" value="_title"></string>
         <unicode value="Representación"></unicode>
         <string role="key" value="idevices"></string>
         <list>
-         <instance class="exe.engine.jsidevice.JsIdevice" reference="80">
+         <instance class="exe.engine.jsidevice.JsIdevice" reference="82">
           <dictionary>
            <string role="key" value="_title"></string>
            <unicode value="pRESENTACION DE LA TEMATICA"></unicode>
@@ -5665,12 +5947,12 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
            <int value="1"></int>
            <string role="key" value="fields"></string>
            <list>
-            <instance class="exe.engine.field.TextAreaField" reference="81">
+            <instance class="exe.engine.field.TextAreaField" reference="83">
              <dictionary>
               <string role="key" value="_id"></string>
               <unicode value="176_2"></unicode>
               <string role="key" value="_idevice"></string>
-              <reference key="80"></reference>
+              <reference key="82"></reference>
               <string role="key" value="_instruc"></string>
               <string value=""></string>
               <string role="key" value="_name"></string>
@@ -5697,7 +5979,7 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
                 <string role="key" value=".listitems"></string>
                 <list></list>
                 <string role="key" value="idevice"></string>
-                <reference key="81"></reference>
+                <reference key="83"></reference>
                </dictionary>
               </instance>
               <string role="key" value="intlinks_to_anchors"></string>
@@ -5705,7 +5987,7 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
               <string role="key" value="nextImageId"></string>
               <int value="0"></int>
               <string role="key" value="parentNode"></string>
-              <reference key="82"></reference>
+              <reference key="84"></reference>
              </dictionary>
             </instance>
            </list>
@@ -5722,7 +6004,7 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
            <string role="key" value="originalicon"></string>
            <string value=""></string>
            <string role="key" value="parentNode"></string>
-           <reference key="82"></reference>
+           <reference key="84"></reference>
            <string role="key" value="systemResources"></string>
            <list></list>
            <string role="key" value="undo"></string>
@@ -5752,13 +6034,13 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
         <list></list>
         <string role="key" value="children"></string>
         <list>
-         <instance class="exe.engine.node.Node" reference="85">
+         <instance class="exe.engine.node.Node" reference="87">
           <dictionary>
            <string role="key" value="_title"></string>
            <unicode value="Materiales"></unicode>
            <string role="key" value="idevices"></string>
            <list>
-            <instance class="exe.engine.jsidevice.JsIdevice" reference="83">
+            <instance class="exe.engine.jsidevice.JsIdevice" reference="85">
              <dictionary>
               <string role="key" value="_title"></string>
               <unicode value="Videos. infografias documentos y demas material"></unicode>
@@ -5819,12 +6101,12 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
               <int value="1"></int>
               <string role="key" value="fields"></string>
               <list>
-               <instance class="exe.engine.field.TextAreaField" reference="84">
+               <instance class="exe.engine.field.TextAreaField" reference="86">
                 <dictionary>
                  <string role="key" value="_id"></string>
                  <unicode value="175_2"></unicode>
                  <string role="key" value="_idevice"></string>
-                 <reference key="83"></reference>
+                 <reference key="85"></reference>
                  <string role="key" value="_instruc"></string>
                  <string value=""></string>
                  <string role="key" value="_name"></string>
@@ -5849,7 +6131,7 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
                    <string role="key" value=".listitems"></string>
                    <list></list>
                    <string role="key" value="idevice"></string>
-                   <reference key="84"></reference>
+                   <reference key="86"></reference>
                   </dictionary>
                  </instance>
                  <string role="key" value="intlinks_to_anchors"></string>
@@ -5857,7 +6139,7 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
                  <string role="key" value="nextImageId"></string>
                  <int value="0"></int>
                  <string role="key" value="parentNode"></string>
-                 <reference key="85"></reference>
+                 <reference key="87"></reference>
                 </dictionary>
                </instance>
               </list>
@@ -5874,7 +6156,7 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
               <string role="key" value="originalicon"></string>
               <string value=""></string>
               <string role="key" value="parentNode"></string>
-              <reference key="85"></reference>
+              <reference key="87"></reference>
               <string role="key" value="systemResources"></string>
               <list></list>
               <string role="key" value="undo"></string>
@@ -5899,20 +6181,20 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
            <string role="key" value="last_full_node_path"></string>
            <string value="exe-node:Introducci%C3%B3n:Representaci%C3%B3n:Materiales"></string>
            <string role="key" value="parent"></string>
-           <reference key="82"></reference>
+           <reference key="84"></reference>
            <string role="key" value="top_anchors_linked_from_fields"></string>
            <list></list>
            <string role="key" value="children"></string>
            <list></list>
           </dictionary>
          </instance>
-         <instance class="exe.engine.node.Node" reference="88">
+         <instance class="exe.engine.node.Node" reference="90">
           <dictionary>
            <string role="key" value="_title"></string>
            <unicode value="Actividades"></unicode>
            <string role="key" value="idevices"></string>
            <list>
-            <instance class="exe.engine.jsidevice.JsIdevice" reference="86">
+            <instance class="exe.engine.jsidevice.JsIdevice" reference="88">
              <dictionary>
               <string role="key" value="_title"></string>
               <unicode value=""></unicode>
@@ -5973,12 +6255,12 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
               <int value="1"></int>
               <string role="key" value="fields"></string>
               <list>
-               <instance class="exe.engine.field.TextAreaField" reference="87">
+               <instance class="exe.engine.field.TextAreaField" reference="89">
                 <dictionary>
                  <string role="key" value="_id"></string>
                  <unicode value="174_2"></unicode>
                  <string role="key" value="_idevice"></string>
-                 <reference key="86"></reference>
+                 <reference key="88"></reference>
                  <string role="key" value="_instruc"></string>
                  <string value=""></string>
                  <string role="key" value="_name"></string>
@@ -6003,7 +6285,7 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
                    <string role="key" value=".listitems"></string>
                    <list></list>
                    <string role="key" value="idevice"></string>
-                   <reference key="87"></reference>
+                   <reference key="89"></reference>
                   </dictionary>
                  </instance>
                  <string role="key" value="intlinks_to_anchors"></string>
@@ -6011,7 +6293,7 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
                  <string role="key" value="nextImageId"></string>
                  <int value="0"></int>
                  <string role="key" value="parentNode"></string>
-                 <reference key="88"></reference>
+                 <reference key="90"></reference>
                 </dictionary>
                </instance>
               </list>
@@ -6028,7 +6310,7 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
               <string role="key" value="originalicon"></string>
               <string value=""></string>
               <string role="key" value="parentNode"></string>
-              <reference key="88"></reference>
+              <reference key="90"></reference>
               <string role="key" value="systemResources"></string>
               <list></list>
               <string role="key" value="undo"></string>
@@ -6053,20 +6335,20 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
            <string role="key" value="last_full_node_path"></string>
            <string value="exe-node:Introducci%C3%B3n:Representaci%C3%B3n:Actividades"></string>
            <string role="key" value="parent"></string>
-           <reference key="82"></reference>
+           <reference key="84"></reference>
            <string role="key" value="top_anchors_linked_from_fields"></string>
            <list></list>
            <string role="key" value="children"></string>
            <list></list>
           </dictionary>
          </instance>
-         <instance class="exe.engine.node.Node" reference="91">
+         <instance class="exe.engine.node.Node" reference="93">
           <dictionary>
            <string role="key" value="_title"></string>
            <unicode value="Evaluación final"></unicode>
            <string role="key" value="idevices"></string>
            <list>
-            <instance class="exe.engine.jsidevice.JsIdevice" reference="89">
+            <instance class="exe.engine.jsidevice.JsIdevice" reference="91">
              <dictionary>
               <string role="key" value="_title"></string>
               <unicode value="Evaluacion "></unicode>
@@ -6127,12 +6409,12 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
               <int value="1"></int>
               <string role="key" value="fields"></string>
               <list>
-               <instance class="exe.engine.field.TextAreaField" reference="90">
+               <instance class="exe.engine.field.TextAreaField" reference="92">
                 <dictionary>
                  <string role="key" value="_id"></string>
                  <unicode value="173_2"></unicode>
                  <string role="key" value="_idevice"></string>
-                 <reference key="89"></reference>
+                 <reference key="91"></reference>
                  <string role="key" value="_instruc"></string>
                  <string value=""></string>
                  <string role="key" value="_name"></string>
@@ -6157,7 +6439,7 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
                    <string role="key" value=".listitems"></string>
                    <list></list>
                    <string role="key" value="idevice"></string>
-                   <reference key="90"></reference>
+                   <reference key="92"></reference>
                   </dictionary>
                  </instance>
                  <string role="key" value="intlinks_to_anchors"></string>
@@ -6165,7 +6447,7 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
                  <string role="key" value="nextImageId"></string>
                  <int value="0"></int>
                  <string role="key" value="parentNode"></string>
-                 <reference key="91"></reference>
+                 <reference key="93"></reference>
                 </dictionary>
                </instance>
               </list>
@@ -6182,7 +6464,7 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
               <string role="key" value="originalicon"></string>
               <string value=""></string>
               <string role="key" value="parentNode"></string>
-              <reference key="91"></reference>
+              <reference key="93"></reference>
               <string role="key" value="systemResources"></string>
               <list></list>
               <string role="key" value="undo"></string>
@@ -6207,7 +6489,7 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
            <string role="key" value="last_full_node_path"></string>
            <string value="exe-node:Introducci%C3%B3n:Representaci%C3%B3n:Evaluaci%C3%B3n%20final"></string>
            <string role="key" value="parent"></string>
-           <reference key="82"></reference>
+           <reference key="84"></reference>
            <string role="key" value="top_anchors_linked_from_fields"></string>
            <list></list>
            <string role="key" value="children"></string>
@@ -6217,13 +6499,13 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
         </list>
        </dictionary>
       </instance>
-      <instance class="exe.engine.node.Node" reference="94">
+      <instance class="exe.engine.node.Node" reference="96">
        <dictionary>
         <string role="key" value="_title"></string>
         <unicode value="Hidrocarburos en la vida cotidiana e industria"></unicode>
         <string role="key" value="idevices"></string>
         <list>
-         <instance class="exe.engine.jsidevice.JsIdevice" reference="92">
+         <instance class="exe.engine.jsidevice.JsIdevice" reference="94">
           <dictionary>
            <string role="key" value="_title"></string>
            <unicode value="pRESENTACION DE LA TEMATICA"></unicode>
@@ -6284,12 +6566,12 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
            <int value="1"></int>
            <string role="key" value="fields"></string>
            <list>
-            <instance class="exe.engine.field.TextAreaField" reference="93">
+            <instance class="exe.engine.field.TextAreaField" reference="95">
              <dictionary>
               <string role="key" value="_id"></string>
               <unicode value="172_2"></unicode>
               <string role="key" value="_idevice"></string>
-              <reference key="92"></reference>
+              <reference key="94"></reference>
               <string role="key" value="_instruc"></string>
               <string value=""></string>
               <string role="key" value="_name"></string>
@@ -6315,7 +6597,7 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
                 <string role="key" value=".listitems"></string>
                 <list></list>
                 <string role="key" value="idevice"></string>
-                <reference key="93"></reference>
+                <reference key="95"></reference>
                </dictionary>
               </instance>
               <string role="key" value="intlinks_to_anchors"></string>
@@ -6323,7 +6605,7 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
               <string role="key" value="nextImageId"></string>
               <int value="0"></int>
               <string role="key" value="parentNode"></string>
-              <reference key="94"></reference>
+              <reference key="96"></reference>
              </dictionary>
             </instance>
            </list>
@@ -6340,7 +6622,7 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
            <string role="key" value="originalicon"></string>
            <string value=""></string>
            <string role="key" value="parentNode"></string>
-           <reference key="94"></reference>
+           <reference key="96"></reference>
            <string role="key" value="systemResources"></string>
            <list></list>
            <string role="key" value="undo"></string>
@@ -6370,13 +6652,13 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
         <list></list>
         <string role="key" value="children"></string>
         <list>
-         <instance class="exe.engine.node.Node" reference="97">
+         <instance class="exe.engine.node.Node" reference="99">
           <dictionary>
            <string role="key" value="_title"></string>
            <unicode value="Materiales"></unicode>
            <string role="key" value="idevices"></string>
            <list>
-            <instance class="exe.engine.jsidevice.JsIdevice" reference="95">
+            <instance class="exe.engine.jsidevice.JsIdevice" reference="97">
              <dictionary>
               <string role="key" value="_title"></string>
               <unicode value="Videos. infografias documentos y demas material"></unicode>
@@ -6437,12 +6719,12 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
               <int value="1"></int>
               <string role="key" value="fields"></string>
               <list>
-               <instance class="exe.engine.field.TextAreaField" reference="96">
+               <instance class="exe.engine.field.TextAreaField" reference="98">
                 <dictionary>
                  <string role="key" value="_id"></string>
                  <unicode value="171_2"></unicode>
                  <string role="key" value="_idevice"></string>
-                 <reference key="95"></reference>
+                 <reference key="97"></reference>
                  <string role="key" value="_instruc"></string>
                  <string value=""></string>
                  <string role="key" value="_name"></string>
@@ -6467,7 +6749,7 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
                    <string role="key" value=".listitems"></string>
                    <list></list>
                    <string role="key" value="idevice"></string>
-                   <reference key="96"></reference>
+                   <reference key="98"></reference>
                   </dictionary>
                  </instance>
                  <string role="key" value="intlinks_to_anchors"></string>
@@ -6475,7 +6757,7 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
                  <string role="key" value="nextImageId"></string>
                  <int value="0"></int>
                  <string role="key" value="parentNode"></string>
-                 <reference key="97"></reference>
+                 <reference key="99"></reference>
                 </dictionary>
                </instance>
               </list>
@@ -6492,7 +6774,7 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
               <string role="key" value="originalicon"></string>
               <string value=""></string>
               <string role="key" value="parentNode"></string>
-              <reference key="97"></reference>
+              <reference key="99"></reference>
               <string role="key" value="systemResources"></string>
               <list></list>
               <string role="key" value="undo"></string>
@@ -6517,20 +6799,20 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
            <string role="key" value="last_full_node_path"></string>
            <string value="exe-node:Introducci%C3%B3n:Hidrocarburos%20en%20la%20vida%20cotidiana%20e%20industria:Materiales"></string>
            <string role="key" value="parent"></string>
-           <reference key="94"></reference>
+           <reference key="96"></reference>
            <string role="key" value="top_anchors_linked_from_fields"></string>
            <list></list>
            <string role="key" value="children"></string>
            <list></list>
           </dictionary>
          </instance>
-         <instance class="exe.engine.node.Node" reference="100">
+         <instance class="exe.engine.node.Node" reference="102">
           <dictionary>
            <string role="key" value="_title"></string>
            <unicode value="Actividad"></unicode>
            <string role="key" value="idevices"></string>
            <list>
-            <instance class="exe.engine.jsidevice.JsIdevice" reference="98">
+            <instance class="exe.engine.jsidevice.JsIdevice" reference="100">
              <dictionary>
               <string role="key" value="_title"></string>
               <unicode value="iNVESTIGAR Y SUBIR "></unicode>
@@ -6591,12 +6873,12 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
               <int value="1"></int>
               <string role="key" value="fields"></string>
               <list>
-               <instance class="exe.engine.field.TextAreaField" reference="99">
+               <instance class="exe.engine.field.TextAreaField" reference="101">
                 <dictionary>
                  <string role="key" value="_id"></string>
                  <unicode value="167_2"></unicode>
                  <string role="key" value="_idevice"></string>
-                 <reference key="98"></reference>
+                 <reference key="100"></reference>
                  <string role="key" value="_instruc"></string>
                  <string value=""></string>
                  <string role="key" value="_name"></string>
@@ -6621,7 +6903,7 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
                    <string role="key" value=".listitems"></string>
                    <list></list>
                    <string role="key" value="idevice"></string>
-                   <reference key="99"></reference>
+                   <reference key="101"></reference>
                   </dictionary>
                  </instance>
                  <string role="key" value="intlinks_to_anchors"></string>
@@ -6629,7 +6911,7 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
                  <string role="key" value="nextImageId"></string>
                  <int value="0"></int>
                  <string role="key" value="parentNode"></string>
-                 <reference key="100"></reference>
+                 <reference key="102"></reference>
                 </dictionary>
                </instance>
               </list>
@@ -6646,7 +6928,7 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
               <string role="key" value="originalicon"></string>
               <string value=""></string>
               <string role="key" value="parentNode"></string>
-              <reference key="100"></reference>
+              <reference key="102"></reference>
               <string role="key" value="systemResources"></string>
               <list></list>
               <string role="key" value="undo"></string>
@@ -6671,7 +6953,7 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
            <string role="key" value="last_full_node_path"></string>
            <string value="exe-node:Introducci%C3%B3n:Hidrocarburos%20en%20la%20vida%20cotidiana%20e%20industria:Actividad"></string>
            <string role="key" value="parent"></string>
-           <reference key="94"></reference>
+           <reference key="96"></reference>
            <string role="key" value="top_anchors_linked_from_fields"></string>
            <list></list>
            <string role="key" value="children"></string>
@@ -6681,13 +6963,13 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
         </list>
        </dictionary>
       </instance>
-      <instance class="exe.engine.node.Node" reference="103">
+      <instance class="exe.engine.node.Node" reference="105">
        <dictionary>
         <string role="key" value="_title"></string>
         <unicode value="Impacto ambiental y social"></unicode>
         <string role="key" value="idevices"></string>
         <list>
-         <instance class="exe.engine.jsidevice.JsIdevice" reference="101">
+         <instance class="exe.engine.jsidevice.JsIdevice" reference="103">
           <dictionary>
            <string role="key" value="_title"></string>
            <unicode value="pRESENTACION DE LA TEMATICA "></unicode>
@@ -6748,12 +7030,12 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
            <int value="1"></int>
            <string role="key" value="fields"></string>
            <list>
-            <instance class="exe.engine.field.TextAreaField" reference="102">
+            <instance class="exe.engine.field.TextAreaField" reference="104">
              <dictionary>
               <string role="key" value="_id"></string>
               <unicode value="170_2"></unicode>
               <string role="key" value="_idevice"></string>
-              <reference key="101"></reference>
+              <reference key="103"></reference>
               <string role="key" value="_instruc"></string>
               <string value=""></string>
               <string role="key" value="_name"></string>
@@ -6779,7 +7061,7 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
                 <string role="key" value=".listitems"></string>
                 <list></list>
                 <string role="key" value="idevice"></string>
-                <reference key="102"></reference>
+                <reference key="104"></reference>
                </dictionary>
               </instance>
               <string role="key" value="intlinks_to_anchors"></string>
@@ -6787,7 +7069,7 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
               <string role="key" value="nextImageId"></string>
               <int value="0"></int>
               <string role="key" value="parentNode"></string>
-              <reference key="103"></reference>
+              <reference key="105"></reference>
              </dictionary>
             </instance>
            </list>
@@ -6804,7 +7086,7 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
            <string role="key" value="originalicon"></string>
            <string value=""></string>
            <string role="key" value="parentNode"></string>
-           <reference key="103"></reference>
+           <reference key="105"></reference>
            <string role="key" value="systemResources"></string>
            <list></list>
            <string role="key" value="undo"></string>
@@ -6834,13 +7116,13 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
         <list></list>
         <string role="key" value="children"></string>
         <list>
-         <instance class="exe.engine.node.Node" reference="106">
+         <instance class="exe.engine.node.Node" reference="108">
           <dictionary>
            <string role="key" value="_title"></string>
            <unicode value="Materiales"></unicode>
            <string role="key" value="idevices"></string>
            <list>
-            <instance class="exe.engine.jsidevice.JsIdevice" reference="104">
+            <instance class="exe.engine.jsidevice.JsIdevice" reference="106">
              <dictionary>
               <string role="key" value="_title"></string>
               <unicode value="Videos. infografias documentos y demas material"></unicode>
@@ -6901,12 +7183,12 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
               <int value="1"></int>
               <string role="key" value="fields"></string>
               <list>
-               <instance class="exe.engine.field.TextAreaField" reference="105">
+               <instance class="exe.engine.field.TextAreaField" reference="107">
                 <dictionary>
                  <string role="key" value="_id"></string>
                  <unicode value="169_2"></unicode>
                  <string role="key" value="_idevice"></string>
-                 <reference key="104"></reference>
+                 <reference key="106"></reference>
                  <string role="key" value="_instruc"></string>
                  <string value=""></string>
                  <string role="key" value="_name"></string>
@@ -6931,7 +7213,7 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
                    <string role="key" value=".listitems"></string>
                    <list></list>
                    <string role="key" value="idevice"></string>
-                   <reference key="105"></reference>
+                   <reference key="107"></reference>
                   </dictionary>
                  </instance>
                  <string role="key" value="intlinks_to_anchors"></string>
@@ -6939,7 +7221,7 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
                  <string role="key" value="nextImageId"></string>
                  <int value="0"></int>
                  <string role="key" value="parentNode"></string>
-                 <reference key="106"></reference>
+                 <reference key="108"></reference>
                 </dictionary>
                </instance>
               </list>
@@ -6956,7 +7238,7 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
               <string role="key" value="originalicon"></string>
               <string value=""></string>
               <string role="key" value="parentNode"></string>
-              <reference key="106"></reference>
+              <reference key="108"></reference>
               <string role="key" value="systemResources"></string>
               <list></list>
               <string role="key" value="undo"></string>
@@ -6981,20 +7263,20 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
            <string role="key" value="last_full_node_path"></string>
            <string value="exe-node:Introducci%C3%B3n:Impacto%20ambiental%20y%20social:Materiales"></string>
            <string role="key" value="parent"></string>
-           <reference key="103"></reference>
+           <reference key="105"></reference>
            <string role="key" value="top_anchors_linked_from_fields"></string>
            <list></list>
            <string role="key" value="children"></string>
            <list></list>
           </dictionary>
          </instance>
-         <instance class="exe.engine.node.Node" reference="109">
+         <instance class="exe.engine.node.Node" reference="111">
           <dictionary>
            <string role="key" value="_title"></string>
            <unicode value="Actividad"></unicode>
            <string role="key" value="idevices"></string>
            <list>
-            <instance class="exe.engine.jsidevice.JsIdevice" reference="107">
+            <instance class="exe.engine.jsidevice.JsIdevice" reference="109">
              <dictionary>
               <string role="key" value="_title"></string>
               <unicode value="Trabajo en grupo o  ABP o proyectos"></unicode>
@@ -7055,12 +7337,12 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
               <int value="1"></int>
               <string role="key" value="fields"></string>
               <list>
-               <instance class="exe.engine.field.TextAreaField" reference="108">
+               <instance class="exe.engine.field.TextAreaField" reference="110">
                 <dictionary>
                  <string role="key" value="_id"></string>
                  <unicode value="168_2"></unicode>
                  <string role="key" value="_idevice"></string>
-                 <reference key="107"></reference>
+                 <reference key="109"></reference>
                  <string role="key" value="_instruc"></string>
                  <string value=""></string>
                  <string role="key" value="_name"></string>
@@ -7086,7 +7368,7 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
                    <string role="key" value=".listitems"></string>
                    <list></list>
                    <string role="key" value="idevice"></string>
-                   <reference key="108"></reference>
+                   <reference key="110"></reference>
                   </dictionary>
                  </instance>
                  <string role="key" value="intlinks_to_anchors"></string>
@@ -7094,7 +7376,7 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
                  <string role="key" value="nextImageId"></string>
                  <int value="0"></int>
                  <string role="key" value="parentNode"></string>
-                 <reference key="109"></reference>
+                 <reference key="111"></reference>
                 </dictionary>
                </instance>
               </list>
@@ -7111,7 +7393,7 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
               <string role="key" value="originalicon"></string>
               <string value=""></string>
               <string role="key" value="parentNode"></string>
-              <reference key="109"></reference>
+              <reference key="111"></reference>
               <string role="key" value="systemResources"></string>
               <list></list>
               <string role="key" value="undo"></string>
@@ -7136,7 +7418,7 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
            <string role="key" value="last_full_node_path"></string>
            <string value="exe-node:Introducci%C3%B3n:Impacto%20ambiental%20y%20social:Actividad"></string>
            <string role="key" value="parent"></string>
-           <reference key="103"></reference>
+           <reference key="105"></reference>
            <string role="key" value="top_anchors_linked_from_fields"></string>
            <list></list>
            <string role="key" value="children"></string>
@@ -7152,39 +7434,39 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
    <unicode role="key" value="1"></unicode>
    <reference key="9"></reference>
    <unicode role="key" value="10"></unicode>
-   <reference key="79"></reference>
+   <reference key="81"></reference>
    <unicode role="key" value="11"></unicode>
    <reference key="17"></reference>
    <unicode role="key" value="12"></unicode>
-   <reference key="73"></reference>
+   <reference key="75"></reference>
    <unicode role="key" value="13"></unicode>
-   <reference key="85"></reference>
+   <reference key="87"></reference>
    <unicode role="key" value="15"></unicode>
-   <reference key="88"></reference>
+   <reference key="90"></reference>
    <unicode role="key" value="16"></unicode>
-   <reference key="91"></reference>
+   <reference key="93"></reference>
    <unicode role="key" value="17"></unicode>
-   <reference key="97"></reference>
+   <reference key="99"></reference>
    <unicode role="key" value="19"></unicode>
-   <reference key="100"></reference>
+   <reference key="102"></reference>
    <unicode role="key" value="2"></unicode>
    <reference key="70"></reference>
    <unicode role="key" value="21"></unicode>
-   <reference key="106"></reference>
+   <reference key="108"></reference>
    <unicode role="key" value="25"></unicode>
-   <reference key="109"></reference>
+   <reference key="111"></reference>
    <unicode role="key" value="3"></unicode>
-   <reference key="82"></reference>
+   <reference key="84"></reference>
    <unicode role="key" value="31"></unicode>
    <reference key="35"></reference>
    <unicode role="key" value="4"></unicode>
-   <reference key="94"></reference>
+   <reference key="96"></reference>
    <unicode role="key" value="5"></unicode>
-   <reference key="103"></reference>
+   <reference key="105"></reference>
    <unicode role="key" value="6"></unicode>
    <reference key="26"></reference>
    <unicode role="key" value="9"></unicode>
-   <reference key="76"></reference>
+   <reference key="78"></reference>
   </dictionary>
   <string role="key" value="_objectives"></string>
   <unicode value="Reconocer y clasificar hidrocarburos en saturados, insaturados y aromáticos.
@@ -7211,7 +7493,7 @@ Representaciones químicas: fórmula molecular, estructural y semidesarrollada."
   <string role="key" value="backgroundImgTile"></string>
   <bool value="1"></bool>
   <string role="key" value="currentNode"></string>
-  <reference key="3"></reference>
+  <reference key="75"></reference>
   <string role="key" value="dublinCore"></string>
   <instance class="exe.engine.package.DublinCore">
    <dictionary>
@@ -8551,16 +8833,14 @@ Elaborar propuestas comunicativas digitales para sensibilizar sobre el consumo r
    </list>
    <string role="key" value="2890a2821d833e91fe4e289b4366bdbf"></string>
    <list>
-    <reference key="110"></reference>
     <reference key="62"></reference>
    </list>
    <string role="key" value="560f9a19ff467fbbf4519a5c2b260e32"></string>
    <list>
-    <reference key="31"></reference>
+    <reference key="29"></reference>
    </list>
    <string role="key" value="58ffa0bf6bb0ca4ae56a9db566a8e00b"></string>
    <list>
-    <reference key="111"></reference>
     <reference key="63"></reference>
    </list>
    <string role="key" value="8c884e53cb67bb7339e5681012e9dd4f"></string>
@@ -8569,8 +8849,7 @@ Elaborar propuestas comunicativas digitales para sensibilizar sobre el consumo r
    </list>
    <string role="key" value="8ca31d3bd80db356d8ee1db4127bb8e1"></string>
    <list>
-    <reference key="30"></reference>
-    <reference key="112"></reference>
+    <reference key="31"></reference>
     <reference key="64"></reference>
    </list>
    <string role="key" value="aff65f3995a09c41e25a924c76c65113"></string>
@@ -8579,11 +8858,11 @@ Elaborar propuestas comunicativas digitales para sensibilizar sobre el consumo r
    </list>
    <string role="key" value="d174aadc1bcc3b5d4dacd85a0224f10d"></string>
    <list>
-    <reference key="32"></reference>
+    <reference key="30"></reference>
    </list>
    <string role="key" value="d98546c21562427e39b076393478a736"></string>
    <list>
-    <reference key="29"></reference>
+    <reference key="32"></reference>
    </list>
    <string role="key" value="ea71cf18ebe10d469c1431d542e00dfa"></string>
    <list>
