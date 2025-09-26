@@ -9467,36 +9467,40 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
               <list></list>
               <string role="key" value="content_w_resourcePaths"></string>
               <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;style&gt;
-.chatframe-wrapper {
-  display: flex;
-  justify-content: center; /* centra horizontalmente */
-  align-items: center;     /* (opcional) centra verticalmente dentro del contenedor padre */
-  padding: 20px;            /* espacio alrededor */
-  background-color: #f9f9f9; /* color de fondo suave */
-}
+  html, body {
+    height: 100%;
+    margin: 0;
+  }
+  .chatframe-wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    background-color: #f9f9f9;
+  }
 
-.chatframe-container {
-  width: 100%;
-  max-width: 1200px;
-  position: relative;
-  padding-top: 50%;  /* relación 2:1 (600 / 1200 = 0.5 = 50%) */
-  background: #fff;
-  border-radius: 8px;            /* bordes redondeados */
-  box-shadow: 0 4px 12px rgba(0,0,0,0.1);  /* sombra suave */
-  overflow: hidden;
-}
+  .chatframe-container {
+    width: 100%;
+    max-width: 1200px;
+    position: relative;
+    padding-top: 50%;  /* proporción 2:1 */
+    background: #fff;
+    border-radius: 8px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+  }
 
-.chatframe-container iframe {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  border: none;
-}
+  .chatframe-container iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border: none;
+  }
 &lt;/style&gt;
 &lt;div class=&quot;chatframe-wrapper&quot;&gt;
-&lt;div class=&quot;chatframe-container&quot;&gt;&lt;iframe width=&quot;300&quot; height=&quot;150&quot; src=&quot;https://www.agenthost.ai/chat/elsuciodan17-github-io?embed=true&amp;amp;hide_sidebar=true&quot; allowfullscreen=&quot;allowfullscreen&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+&lt;div class=&quot;chatframe-container&quot;&gt;&lt;iframe width=&quot;300&quot; height=&quot;150&quot; src=&quot;https://www.agenthost.ai/chat/iacarbonosysaberes?embed=true&amp;amp;hide_sidebar=true&quot; allowfullscreen=&quot;allowfullscreen&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
 &lt;/div&gt;&lt;/div&gt;"></unicode>
               <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
               <int value="4"></int>
@@ -9566,30 +9570,7 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
         <string role="key" value="top_anchors_linked_from_fields"></string>
         <list></list>
         <string role="key" value="children"></string>
-        <list>
-         <instance class="exe.engine.node.Node" reference="130">
-          <dictionary>
-           <string role="key" value="_title"></string>
-           <string value=""></string>
-           <string role="key" value="idevices"></string>
-           <list></list>
-           <string role="key" value="_id"></string>
-           <unicode value="33"></unicode>
-           <string role="key" value="_package"></string>
-           <reference key="7"></reference>
-           <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
-           <int value="2"></int>
-           <string role="key" value="exportType"></string>
-           <string value="website"></string>
-           <string role="key" value="last_full_node_path"></string>
-           <string value="exe-node:Introducci%C3%B3n:Asistente%20Virtual%20:Secci%C3%B3n"></string>
-           <string role="key" value="parent"></string>
-           <reference key="129"></reference>
-           <string role="key" value="children"></string>
-           <list></list>
-          </dictionary>
-         </instance>
-        </list>
+        <list></list>
        </dictionary>
       </instance>
      </list>
@@ -9625,8 +9606,6 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
    <reference key="35"></reference>
    <unicode role="key" value="32"></unicode>
    <reference key="129"></reference>
-   <unicode role="key" value="33"></unicode>
-   <reference key="130"></reference>
    <unicode role="key" value="4"></unicode>
    <reference key="109"></reference>
    <unicode role="key" value="5"></unicode>
@@ -9661,7 +9640,7 @@ Representaciones químicas: fórmula molecular, estructural y semidesarrollada."
   <string role="key" value="backgroundImgTile"></string>
   <bool value="1"></bool>
   <string role="key" value="currentNode"></string>
-  <reference key="130"></reference>
+  <reference key="129"></reference>
   <string role="key" value="dublinCore"></string>
   <instance class="exe.engine.package.DublinCore">
    <dictionary>
