@@ -67,14 +67,682 @@
 <div id="main-wrapper">
 <section id="main">
 <header id="nodeDecoration"><h1 id="nodeTitle">Evaluación final</h1></header>
-<article class="iDevice_wrapper textIdevice em_iDevice" id="id66">
+<article class="iDevice_wrapper QuizTestIdevice em_iDevice em_iDevice_question" id="id120">
+<script type="text/javascript">/*<![CDATA[*/
+var numQuestions = 10;
+var rawScore = 0;
+var actualScore = 0;
+var question0;
+var question1;
+var question2;
+var question3;
+var question4;
+var question5;
+var question6;
+var question7;
+var question8;
+var question9;
+var key0 = 0;
+var key1 = 1;
+var key2 = 2;
+var key3 = 1;
+var key4 = 1;
+var key5 = 1;
+var key6 = 0;
+var key7 = 2;
+var key8 = 3;
+var key9 = 0;
+function getAnswer()
+        {
+            for (var i=0; i < 4; i++)
+            {
+               if (document.getElementById("quizForm120").key0b120[i].checked)
+               {
+                  question0 = document.getElementById("quizForm120").key0b120[i].value;
+                  break;
+               }
+            }
+            
+            for (var i=0; i < 4; i++)
+            {
+               if (document.getElementById("quizForm120").key1b120[i].checked)
+               {
+                  question1 = document.getElementById("quizForm120").key1b120[i].value;
+                  break;
+               }
+            }
+            
+            for (var i=0; i < 4; i++)
+            {
+               if (document.getElementById("quizForm120").key2b120[i].checked)
+               {
+                  question2 = document.getElementById("quizForm120").key2b120[i].value;
+                  break;
+               }
+            }
+            
+            for (var i=0; i < 4; i++)
+            {
+               if (document.getElementById("quizForm120").key3b120[i].checked)
+               {
+                  question3 = document.getElementById("quizForm120").key3b120[i].value;
+                  break;
+               }
+            }
+            
+            for (var i=0; i < 4; i++)
+            {
+               if (document.getElementById("quizForm120").key4b120[i].checked)
+               {
+                  question4 = document.getElementById("quizForm120").key4b120[i].value;
+                  break;
+               }
+            }
+            
+            for (var i=0; i < 4; i++)
+            {
+               if (document.getElementById("quizForm120").key5b120[i].checked)
+               {
+                  question5 = document.getElementById("quizForm120").key5b120[i].value;
+                  break;
+               }
+            }
+            
+            for (var i=0; i < 4; i++)
+            {
+               if (document.getElementById("quizForm120").key6b120[i].checked)
+               {
+                  question6 = document.getElementById("quizForm120").key6b120[i].value;
+                  break;
+               }
+            }
+            
+            for (var i=0; i < 4; i++)
+            {
+               if (document.getElementById("quizForm120").key7b120[i].checked)
+               {
+                  question7 = document.getElementById("quizForm120").key7b120[i].value;
+                  break;
+               }
+            }
+            
+            for (var i=0; i < 4; i++)
+            {
+               if (document.getElementById("quizForm120").key8b120[i].checked)
+               {
+                  question8 = document.getElementById("quizForm120").key8b120[i].value;
+                  break;
+               }
+            }
+            
+            for (var i=0; i < 4; i++)
+            {
+               if (document.getElementById("quizForm120").key9b120[i].checked)
+               {
+                  question9 = document.getElementById("quizForm120").key9b120[i].value;
+                  break;
+               }
+            }
+            }
+        function calcRawScore(){
+
+            if (question0 == key0)
+            {
+               rawScore++;
+            }
+            if (question1 == key1)
+            {
+               rawScore++;
+            }
+            if (question2 == key2)
+            {
+               rawScore++;
+            }
+            if (question3 == key3)
+            {
+               rawScore++;
+            }
+            if (question4 == key4)
+            {
+               rawScore++;
+            }
+            if (question5 == key5)
+            {
+               rawScore++;
+            }
+            if (question6 == key6)
+            {
+               rawScore++;
+            }
+            if (question7 == key7)
+            {
+               rawScore++;
+            }
+            if (question8 == key8)
+            {
+               rawScore++;
+            }
+            if (question9 == key9)
+            {
+               rawScore++;
+            }
+        
+        }
+        
+        function calcScore2()
+        {
+            getAnswer();
+     
+            calcRawScore();
+            actualScore =  Math.round(rawScore / numQuestions * 100);
+            var id = "120";
+            document.getElementById("quizForm"+id).submitB.disabled = true;
+            var s = document.getElementById("quizFormScore"+id);
+                        var msg_str ="Su puntuación es %d%%";            msg_str = msg_str.replace("%d",actualScore).replace("%%","%");            if (s) { s.innerHTML = "<div class='feedback'><p>"+msg_str+"</p></div>"; } else { alert(msg_str); }
+           
+        }
+    /*]]>*/</script>
 <div class="iDevice emphasis1" >
-<header class="iDevice_header iDevice_header_noIcon"><h1 class="iDeviceTitle">Evaluacion </h1></header>
+<header class="iDevice_header"><h1 class="iDeviceTitle">Cuestionario SCORM</h1></header>
 <div class="iDevice_inner">
 <div class="iDevice_content_wrapper">
-<div id="ta66_173_2" class="block iDevice_content">
-<div class="exe-text"><p>idevice 15  pregunta 5 por cada una de las 3 tematicas</p></div>
+<form name="quizForm120" id="quizForm120" action="#" class="quiz-test-form">
+<input type="hidden" name="passrate" id="passrate-120" value="50" />
+<section class="question">
+<h1 class="js-sr-av">Pregunta</h1>
+<div id="taquestion0b120" class="block iDevice_content">
+<p>¿Qué es un hidrocarburo?</p>
 </div>
+<section class="iDevice_answers">
+<h1 class="js-sr-av">Respuestas</h1>
+<section class="iDevice_answer">
+<p class="iDevice_answer-field js-required">
+<label for="key0b1201" class="sr-av"><a href="#answer-key0b1201">Opción 1</a></label><input type="radio" name="key0b120" id="key0b1201" value="0" />
+</p>
+<div class="iDevice_answer-content" id="answer-key0b1201">
+<div id="taoptionAnswer0q0b120" class="block iDevice_content">
+<p>Un compuesto formado solo por carbono e hidrógeno</p>
+</div>
+</div>
+</section>
+<section class="iDevice_answer">
+<p class="iDevice_answer-field js-required">
+<label for="key0b1202" class="sr-av"><a href="#answer-key0b1202">Opción 2</a></label><input type="radio" name="key0b120" id="key0b1202" value="1" />
+</p>
+<div class="iDevice_answer-content" id="answer-key0b1202">
+<div id="taoptionAnswer1q0b120" class="block iDevice_content">
+<p>Un compuesto que contiene oxígeno y nitrógeno</p>
+</div>
+</div>
+</section>
+<section class="iDevice_answer">
+<p class="iDevice_answer-field js-required">
+<label for="key0b1203" class="sr-av"><a href="#answer-key0b1203">Opción 3</a></label><input type="radio" name="key0b120" id="key0b1203" value="2" />
+</p>
+<div class="iDevice_answer-content" id="answer-key0b1203">
+<div id="taoptionAnswer2q0b120" class="block iDevice_content">
+<p>Una mezcla de gases combustibles</p>
+</div>
+</div>
+</section>
+<section class="iDevice_answer">
+<p class="iDevice_answer-field js-required">
+<label for="key0b1204" class="sr-av"><a href="#answer-key0b1204">Opción 4</a></label><input type="radio" name="key0b120" id="key0b1204" value="3" />
+</p>
+<div class="iDevice_answer-content" id="answer-key0b1204">
+<div id="taoptionAnswer3q0b120" class="block iDevice_content">
+<p>Un polímero derivado del petróleo</p>
+</div>
+</div>
+</section>
+</section>
+</section>
+<section class="question">
+<h1 class="js-sr-av">Pregunta</h1>
+<div id="taquestion1b120" class="block iDevice_content">
+<p>Los hidrocarburos se clasifican en:</p>
+</div>
+<section class="iDevice_answers">
+<h1 class="js-sr-av">Respuestas</h1>
+<section class="iDevice_answer">
+<p class="iDevice_answer-field js-required">
+<label for="key1b1201" class="sr-av"><a href="#answer-key1b1201">Opción 1</a></label><input type="radio" name="key1b120" id="key1b1201" value="0" />
+</p>
+<div class="iDevice_answer-content" id="answer-key1b1201">
+<div id="taoptionAnswer0q1b120" class="block iDevice_content">
+<p>Orgánicos e inorgánicos</p>
+</div>
+</div>
+</section>
+<section class="iDevice_answer">
+<p class="iDevice_answer-field js-required">
+<label for="key1b1202" class="sr-av"><a href="#answer-key1b1202">Opción 2</a></label><input type="radio" name="key1b120" id="key1b1202" value="1" />
+</p>
+<div class="iDevice_answer-content" id="answer-key1b1202">
+<div id="taoptionAnswer1q1b120" class="block iDevice_content">
+<p>Saturados e insaturados</p>
+</div>
+</div>
+</section>
+<section class="iDevice_answer">
+<p class="iDevice_answer-field js-required">
+<label for="key1b1203" class="sr-av"><a href="#answer-key1b1203">Opción 3</a></label><input type="radio" name="key1b120" id="key1b1203" value="2" />
+</p>
+<div class="iDevice_answer-content" id="answer-key1b1203">
+<div id="taoptionAnswer2q1b120" class="block iDevice_content">
+<p>Polares y apolares</p>
+</div>
+</div>
+</section>
+<section class="iDevice_answer">
+<p class="iDevice_answer-field js-required">
+<label for="key1b1204" class="sr-av"><a href="#answer-key1b1204">Opción 4</a></label><input type="radio" name="key1b120" id="key1b1204" value="3" />
+</p>
+<div class="iDevice_answer-content" id="answer-key1b1204">
+<div id="taoptionAnswer3q1b120" class="block iDevice_content">
+<p>Naturales y sintéticos</p>
+</div>
+</div>
+</section>
+</section>
+</section>
+<section class="question">
+<h1 class="js-sr-av">Pregunta</h1>
+<div id="taquestion2b120" class="block iDevice_content">
+<p>¿Cuál de los siguientes corresponde a un hidrocarburo insaturado?</p>
+</div>
+<section class="iDevice_answers">
+<h1 class="js-sr-av">Respuestas</h1>
+<section class="iDevice_answer">
+<p class="iDevice_answer-field js-required">
+<label for="key2b1201" class="sr-av"><a href="#answer-key2b1201">Opción 1</a></label><input type="radio" name="key2b120" id="key2b1201" value="0" />
+</p>
+<div class="iDevice_answer-content" id="answer-key2b1201">
+<div id="taoptionAnswer0q2b120" class="block iDevice_content">
+<p>Propano</p>
+</div>
+</div>
+</section>
+<section class="iDevice_answer">
+<p class="iDevice_answer-field js-required">
+<label for="key2b1202" class="sr-av"><a href="#answer-key2b1202">Opción 2</a></label><input type="radio" name="key2b120" id="key2b1202" value="1" />
+</p>
+<div class="iDevice_answer-content" id="answer-key2b1202">
+<div id="taoptionAnswer1q2b120" class="block iDevice_content">
+<p>Butano</p>
+</div>
+</div>
+</section>
+<section class="iDevice_answer">
+<p class="iDevice_answer-field js-required">
+<label for="key2b1203" class="sr-av"><a href="#answer-key2b1203">Opción 3</a></label><input type="radio" name="key2b120" id="key2b1203" value="2" />
+</p>
+<div class="iDevice_answer-content" id="answer-key2b1203">
+<div id="taoptionAnswer2q2b120" class="block iDevice_content">
+<p>Propeno</p>
+</div>
+</div>
+</section>
+<section class="iDevice_answer">
+<p class="iDevice_answer-field js-required">
+<label for="key2b1204" class="sr-av"><a href="#answer-key2b1204">Opción 4</a></label><input type="radio" name="key2b120" id="key2b1204" value="3" />
+</p>
+<div class="iDevice_answer-content" id="answer-key2b1204">
+<div id="taoptionAnswer3q2b120" class="block iDevice_content">
+<p>Metano</p>
+</div>
+</div>
+</section>
+</section>
+</section>
+<section class="question">
+<h1 class="js-sr-av">Pregunta</h1>
+<div id="taquestion3b120" class="block iDevice_content">
+<p>El sufijo –eno en la nomenclatura IUPAC indica:</p>
+</div>
+<section class="iDevice_answers">
+<h1 class="js-sr-av">Respuestas</h1>
+<section class="iDevice_answer">
+<p class="iDevice_answer-field js-required">
+<label for="key3b1201" class="sr-av"><a href="#answer-key3b1201">Opción 1</a></label><input type="radio" name="key3b120" id="key3b1201" value="0" />
+</p>
+<div class="iDevice_answer-content" id="answer-key3b1201">
+<div id="taoptionAnswer0q3b120" class="block iDevice_content">
+<p>Alcano</p>
+</div>
+</div>
+</section>
+<section class="iDevice_answer">
+<p class="iDevice_answer-field js-required">
+<label for="key3b1202" class="sr-av"><a href="#answer-key3b1202">Opción 2</a></label><input type="radio" name="key3b120" id="key3b1202" value="1" />
+</p>
+<div class="iDevice_answer-content" id="answer-key3b1202">
+<div id="taoptionAnswer1q3b120" class="block iDevice_content">
+<p>Alqueno</p>
+</div>
+</div>
+</section>
+<section class="iDevice_answer">
+<p class="iDevice_answer-field js-required">
+<label for="key3b1203" class="sr-av"><a href="#answer-key3b1203">Opción 3</a></label><input type="radio" name="key3b120" id="key3b1203" value="2" />
+</p>
+<div class="iDevice_answer-content" id="answer-key3b1203">
+<div id="taoptionAnswer2q3b120" class="block iDevice_content">
+<p>Alquino</p>
+</div>
+</div>
+</section>
+<section class="iDevice_answer">
+<p class="iDevice_answer-field js-required">
+<label for="key3b1204" class="sr-av"><a href="#answer-key3b1204">Opción 4</a></label><input type="radio" name="key3b120" id="key3b1204" value="3" />
+</p>
+<div class="iDevice_answer-content" id="answer-key3b1204">
+<div id="taoptionAnswer3q3b120" class="block iDevice_content">
+<p>Aromático</p>
+</div>
+</div>
+</section>
+</section>
+</section>
+<section class="question">
+<h1 class="js-sr-av">Pregunta</h1>
+<div id="taquestion4b120" class="block iDevice_content">
+<p>El nombre correcto para la molécula CH₃–CH₂–CH₃ es:</p>
+</div>
+<section class="iDevice_answers">
+<h1 class="js-sr-av">Respuestas</h1>
+<section class="iDevice_answer">
+<p class="iDevice_answer-field js-required">
+<label for="key4b1201" class="sr-av"><a href="#answer-key4b1201">Opción 1</a></label><input type="radio" name="key4b120" id="key4b1201" value="0" />
+</p>
+<div class="iDevice_answer-content" id="answer-key4b1201">
+<div id="taoptionAnswer0q4b120" class="block iDevice_content">
+<p>Etano</p>
+</div>
+</div>
+</section>
+<section class="iDevice_answer">
+<p class="iDevice_answer-field js-required">
+<label for="key4b1202" class="sr-av"><a href="#answer-key4b1202">Opción 2</a></label><input type="radio" name="key4b120" id="key4b1202" value="1" />
+</p>
+<div class="iDevice_answer-content" id="answer-key4b1202">
+<div id="taoptionAnswer1q4b120" class="block iDevice_content">
+<p>Propano</p>
+</div>
+</div>
+</section>
+<section class="iDevice_answer">
+<p class="iDevice_answer-field js-required">
+<label for="key4b1203" class="sr-av"><a href="#answer-key4b1203">Opción 3</a></label><input type="radio" name="key4b120" id="key4b1203" value="2" />
+</p>
+<div class="iDevice_answer-content" id="answer-key4b1203">
+<div id="taoptionAnswer2q4b120" class="block iDevice_content">
+<p>Butano</p>
+</div>
+</div>
+</section>
+<section class="iDevice_answer">
+<p class="iDevice_answer-field js-required">
+<label for="key4b1204" class="sr-av"><a href="#answer-key4b1204">Opción 4</a></label><input type="radio" name="key4b120" id="key4b1204" value="3" />
+</p>
+<div class="iDevice_answer-content" id="answer-key4b1204">
+<div id="taoptionAnswer3q4b120" class="block iDevice_content">
+<p>Metano</p>
+</div>
+</div>
+</section>
+</section>
+</section>
+<section class="question">
+<h1 class="js-sr-av">Pregunta</h1>
+<div id="taquestion5b120" class="block iDevice_content">
+<p>La molécula CH₃–C≡CH se denomina:</p>
+</div>
+<section class="iDevice_answers">
+<h1 class="js-sr-av">Respuestas</h1>
+<section class="iDevice_answer">
+<p class="iDevice_answer-field js-required">
+<label for="key5b1201" class="sr-av"><a href="#answer-key5b1201">Opción 1</a></label><input type="radio" name="key5b120" id="key5b1201" value="0" />
+</p>
+<div class="iDevice_answer-content" id="answer-key5b1201">
+<div id="taoptionAnswer0q5b120" class="block iDevice_content">
+<p>Eteno</p>
+</div>
+</div>
+</section>
+<section class="iDevice_answer">
+<p class="iDevice_answer-field js-required">
+<label for="key5b1202" class="sr-av"><a href="#answer-key5b1202">Opción 2</a></label><input type="radio" name="key5b120" id="key5b1202" value="1" />
+</p>
+<div class="iDevice_answer-content" id="answer-key5b1202">
+<div id="taoptionAnswer1q5b120" class="block iDevice_content">
+<p>Propino</p>
+</div>
+</div>
+</section>
+<section class="iDevice_answer">
+<p class="iDevice_answer-field js-required">
+<label for="key5b1203" class="sr-av"><a href="#answer-key5b1203">Opción 3</a></label><input type="radio" name="key5b120" id="key5b1203" value="2" />
+</p>
+<div class="iDevice_answer-content" id="answer-key5b1203">
+<div id="taoptionAnswer2q5b120" class="block iDevice_content">
+<p>Propano</p>
+</div>
+</div>
+</section>
+<section class="iDevice_answer">
+<p class="iDevice_answer-field js-required">
+<label for="key5b1204" class="sr-av"><a href="#answer-key5b1204">Opción 4</a></label><input type="radio" name="key5b120" id="key5b1204" value="3" />
+</p>
+<div class="iDevice_answer-content" id="answer-key5b1204">
+<div id="taoptionAnswer3q5b120" class="block iDevice_content">
+<p>Propeno</p>
+</div>
+</div>
+</section>
+</section>
+</section>
+<section class="question">
+<h1 class="js-sr-av">Pregunta</h1>
+<div id="taquestion6b120" class="block iDevice_content">
+<p>El compuesto C₆H₆, con un anillo de seis carbonos y enlaces conjugados, se nombra como:</p>
+</div>
+<section class="iDevice_answers">
+<h1 class="js-sr-av">Respuestas</h1>
+<section class="iDevice_answer">
+<p class="iDevice_answer-field js-required">
+<label for="key6b1201" class="sr-av"><a href="#answer-key6b1201">Opción 1</a></label><input type="radio" name="key6b120" id="key6b1201" value="0" />
+</p>
+<div class="iDevice_answer-content" id="answer-key6b1201">
+<div id="taoptionAnswer0q6b120" class="block iDevice_content">
+<p>Benceno</p>
+</div>
+</div>
+</section>
+<section class="iDevice_answer">
+<p class="iDevice_answer-field js-required">
+<label for="key6b1202" class="sr-av"><a href="#answer-key6b1202">Opción 2</a></label><input type="radio" name="key6b120" id="key6b1202" value="1" />
+</p>
+<div class="iDevice_answer-content" id="answer-key6b1202">
+<div id="taoptionAnswer1q6b120" class="block iDevice_content">
+<p>Hexino</p>
+</div>
+</div>
+</section>
+<section class="iDevice_answer">
+<p class="iDevice_answer-field js-required">
+<label for="key6b1203" class="sr-av"><a href="#answer-key6b1203">Opción 3</a></label><input type="radio" name="key6b120" id="key6b1203" value="2" />
+</p>
+<div class="iDevice_answer-content" id="answer-key6b1203">
+<div id="taoptionAnswer2q6b120" class="block iDevice_content">
+<p>Ciclohexano</p>
+</div>
+</div>
+</section>
+<section class="iDevice_answer">
+<p class="iDevice_answer-field js-required">
+<label for="key6b1204" class="sr-av"><a href="#answer-key6b1204">Opción 4</a></label><input type="radio" name="key6b120" id="key6b1204" value="3" />
+</p>
+<div class="iDevice_answer-content" id="answer-key6b1204">
+<div id="taoptionAnswer3q6b120" class="block iDevice_content">
+<p>Hexeno</p>
+</div>
+</div>
+</section>
+</section>
+</section>
+<section class="question">
+<h1 class="js-sr-av">Pregunta</h1>
+<div id="taquestion7b120" class="block iDevice_content">
+<p>La representación en la que cada enlace se muestra con líneas y cada átomo de carbono e hidrógeno aparece explícito se llama:</p>
+</div>
+<section class="iDevice_answers">
+<h1 class="js-sr-av">Respuestas</h1>
+<section class="iDevice_answer">
+<p class="iDevice_answer-field js-required">
+<label for="key7b1201" class="sr-av"><a href="#answer-key7b1201">Opción 1</a></label><input type="radio" name="key7b120" id="key7b1201" value="0" />
+</p>
+<div class="iDevice_answer-content" id="answer-key7b1201">
+<div id="taoptionAnswer0q7b120" class="block iDevice_content">
+<p>Fórmula condensada</p>
+</div>
+</div>
+</section>
+<section class="iDevice_answer">
+<p class="iDevice_answer-field js-required">
+<label for="key7b1202" class="sr-av"><a href="#answer-key7b1202">Opción 2</a></label><input type="radio" name="key7b120" id="key7b1202" value="1" />
+</p>
+<div class="iDevice_answer-content" id="answer-key7b1202">
+<div id="taoptionAnswer1q7b120" class="block iDevice_content">
+<p>Fórmula molecular</p>
+</div>
+</div>
+</section>
+<section class="iDevice_answer">
+<p class="iDevice_answer-field js-required">
+<label for="key7b1203" class="sr-av"><a href="#answer-key7b1203">Opción 3</a></label><input type="radio" name="key7b120" id="key7b1203" value="2" />
+</p>
+<div class="iDevice_answer-content" id="answer-key7b1203">
+<div id="taoptionAnswer2q7b120" class="block iDevice_content">
+<p>Fórmula desarrollada</p>
+</div>
+</div>
+</section>
+<section class="iDevice_answer">
+<p class="iDevice_answer-field js-required">
+<label for="key7b1204" class="sr-av"><a href="#answer-key7b1204">Opción 4</a></label><input type="radio" name="key7b120" id="key7b1204" value="3" />
+</p>
+<div class="iDevice_answer-content" id="answer-key7b1204">
+<div id="taoptionAnswer3q7b120" class="block iDevice_content">
+<p>Fórmula semidesarrollada</p>
+</div>
+</div>
+</section>
+</section>
+</section>
+<section class="question">
+<h1 class="js-sr-av">Pregunta</h1>
+<div id="taquestion8b120" class="block iDevice_content">
+<p>La fórmula molecular del butano es</p>
+</div>
+<section class="iDevice_answers">
+<h1 class="js-sr-av">Respuestas</h1>
+<section class="iDevice_answer">
+<p class="iDevice_answer-field js-required">
+<label for="key8b1201" class="sr-av"><a href="#answer-key8b1201">Opción 1</a></label><input type="radio" name="key8b120" id="key8b1201" value="0" />
+</p>
+<div class="iDevice_answer-content" id="answer-key8b1201">
+<div id="taoptionAnswer0q8b120" class="block iDevice_content">
+<p>C₃H₈</p>
+</div>
+</div>
+</section>
+<section class="iDevice_answer">
+<p class="iDevice_answer-field js-required">
+<label for="key8b1202" class="sr-av"><a href="#answer-key8b1202">Opción 2</a></label><input type="radio" name="key8b120" id="key8b1202" value="1" />
+</p>
+<div class="iDevice_answer-content" id="answer-key8b1202">
+<div id="taoptionAnswer1q8b120" class="block iDevice_content">
+<p>C₅H₁₂</p>
+</div>
+</div>
+</section>
+<section class="iDevice_answer">
+<p class="iDevice_answer-field js-required">
+<label for="key8b1203" class="sr-av"><a href="#answer-key8b1203">Opción 3</a></label><input type="radio" name="key8b120" id="key8b1203" value="2" />
+</p>
+<div class="iDevice_answer-content" id="answer-key8b1203">
+<div id="taoptionAnswer2q8b120" class="block iDevice_content">
+<p>C₆H₆</p>
+</div>
+</div>
+</section>
+<section class="iDevice_answer">
+<p class="iDevice_answer-field js-required">
+<label for="key8b1204" class="sr-av"><a href="#answer-key8b1204">Opción 4</a></label><input type="radio" name="key8b120" id="key8b1204" value="3" />
+</p>
+<div class="iDevice_answer-content" id="answer-key8b1204">
+<div id="taoptionAnswer3q8b120" class="block iDevice_content">
+<p>C₄H₁₀</p>
+</div>
+</div>
+</section>
+</section>
+</section>
+<section class="question">
+<h1 class="js-sr-av">Pregunta</h1>
+<div id="taquestion9b120" class="block iDevice_content">
+<p>La siguiente estructura corresponde a qué tipo de representación?</p>
+</div>
+<section class="iDevice_answers">
+<h1 class="js-sr-av">Respuestas</h1>
+<section class="iDevice_answer">
+<p class="iDevice_answer-field js-required">
+<label for="key9b1201" class="sr-av"><a href="#answer-key9b1201">Opción 1</a></label><input type="radio" name="key9b120" id="key9b1201" value="0" />
+</p>
+<div class="iDevice_answer-content" id="answer-key9b1201">
+<div id="taoptionAnswer0q9b120" class="block iDevice_content">
+<p>Fórmula semidesarrollada</p>
+</div>
+</div>
+</section>
+<section class="iDevice_answer">
+<p class="iDevice_answer-field js-required">
+<label for="key9b1202" class="sr-av"><a href="#answer-key9b1202">Opción 2</a></label><input type="radio" name="key9b120" id="key9b1202" value="1" />
+</p>
+<div class="iDevice_answer-content" id="answer-key9b1202">
+<div id="taoptionAnswer1q9b120" class="block iDevice_content">
+<p>Fórmula molecular</p>
+</div>
+</div>
+</section>
+<section class="iDevice_answer">
+<p class="iDevice_answer-field js-required">
+<label for="key9b1203" class="sr-av"><a href="#answer-key9b1203">Opción 3</a></label><input type="radio" name="key9b120" id="key9b1203" value="2" />
+</p>
+<div class="iDevice_answer-content" id="answer-key9b1203">
+<div id="taoptionAnswer2q9b120" class="block iDevice_content">
+<p>Fórmula desarrollada</p>
+</div>
+</div>
+</section>
+<section class="iDevice_answer">
+<p class="iDevice_answer-field js-required">
+<label for="key9b1204" class="sr-av"><a href="#answer-key9b1204">Opción 4</a></label><input type="radio" name="key9b120" id="key9b1204" value="3" />
+</p>
+<div class="iDevice_answer-content" id="answer-key9b1204">
+<div id="taoptionAnswer3q9b120" class="block iDevice_content">
+<p>Fórmula geométrica</p>
+</div>
+</div>
+</section>
+</section>
+</section>
+<div class="block iDevice_buttons">
+<p><input type="submit" name="submitB" value="ENVIAR RESPUESTAS" /> <span class="js-hidden js-warning">Habilitar JavaScript</span></p>
+</div>
+<div id="quizFormScore120"></div>
+</form>
 </div>
 </div>
 </div>

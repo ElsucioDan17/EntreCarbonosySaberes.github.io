@@ -67,10 +67,555 @@
 <div id="main-wrapper">
 <section id="main">
 <header id="nodeDecoration"><h1 id="nodeTitle">Quiz</h1></header>
-<article class="iDevice_wrapper textIdevice" id="id71">
-<div class="iDevice emphasis0" >
-<div id="ta71_178_2" class="block iDevice_content">
-<div class="exe-text"><p>opcion multiple 10 preguntas 5 de la tematica anterior +  5 de esta tematica</p></div>
+<article class="iDevice_wrapper QuizTestIdevice em_iDevice em_iDevice_question" id="id119">
+<script type="text/javascript">/*<![CDATA[*/
+var numQuestions = 8;
+var rawScore = 0;
+var actualScore = 0;
+var question0;
+var question1;
+var question2;
+var question3;
+var question4;
+var question5;
+var question6;
+var question7;
+var key0 = 1;
+var key1 = 2;
+var key2 = 2;
+var key3 = 1;
+var key4 = 1;
+var key5 = 1;
+var key6 = 1;
+var key7 = 1;
+function getAnswer()
+        {
+            for (var i=0; i < 4; i++)
+            {
+               if (document.getElementById("quizForm119").key0b119[i].checked)
+               {
+                  question0 = document.getElementById("quizForm119").key0b119[i].value;
+                  break;
+               }
+            }
+            
+            for (var i=0; i < 4; i++)
+            {
+               if (document.getElementById("quizForm119").key1b119[i].checked)
+               {
+                  question1 = document.getElementById("quizForm119").key1b119[i].value;
+                  break;
+               }
+            }
+            
+            for (var i=0; i < 4; i++)
+            {
+               if (document.getElementById("quizForm119").key2b119[i].checked)
+               {
+                  question2 = document.getElementById("quizForm119").key2b119[i].value;
+                  break;
+               }
+            }
+            
+            for (var i=0; i < 4; i++)
+            {
+               if (document.getElementById("quizForm119").key3b119[i].checked)
+               {
+                  question3 = document.getElementById("quizForm119").key3b119[i].value;
+                  break;
+               }
+            }
+            
+            for (var i=0; i < 4; i++)
+            {
+               if (document.getElementById("quizForm119").key4b119[i].checked)
+               {
+                  question4 = document.getElementById("quizForm119").key4b119[i].value;
+                  break;
+               }
+            }
+            
+            for (var i=0; i < 4; i++)
+            {
+               if (document.getElementById("quizForm119").key5b119[i].checked)
+               {
+                  question5 = document.getElementById("quizForm119").key5b119[i].value;
+                  break;
+               }
+            }
+            
+            for (var i=0; i < 4; i++)
+            {
+               if (document.getElementById("quizForm119").key6b119[i].checked)
+               {
+                  question6 = document.getElementById("quizForm119").key6b119[i].value;
+                  break;
+               }
+            }
+            
+            for (var i=0; i < 4; i++)
+            {
+               if (document.getElementById("quizForm119").key7b119[i].checked)
+               {
+                  question7 = document.getElementById("quizForm119").key7b119[i].value;
+                  break;
+               }
+            }
+            }
+        function calcRawScore(){
+
+            if (question0 == key0)
+            {
+               rawScore++;
+            }
+            if (question1 == key1)
+            {
+               rawScore++;
+            }
+            if (question2 == key2)
+            {
+               rawScore++;
+            }
+            if (question3 == key3)
+            {
+               rawScore++;
+            }
+            if (question4 == key4)
+            {
+               rawScore++;
+            }
+            if (question5 == key5)
+            {
+               rawScore++;
+            }
+            if (question6 == key6)
+            {
+               rawScore++;
+            }
+            if (question7 == key7)
+            {
+               rawScore++;
+            }
+        
+        }
+        
+        function calcScore2()
+        {
+            getAnswer();
+     
+            calcRawScore();
+            actualScore =  Math.round(rawScore / numQuestions * 100);
+            var id = "119";
+            document.getElementById("quizForm"+id).submitB.disabled = true;
+            var s = document.getElementById("quizFormScore"+id);
+                        var msg_str ="Su puntuación es %d%%";            msg_str = msg_str.replace("%d",actualScore).replace("%%","%");            if (s) { s.innerHTML = "<div class='feedback'><p>"+msg_str+"</p></div>"; } else { alert(msg_str); }
+           
+        }
+    /*]]>*/</script>
+<div class="iDevice emphasis1" >
+<header class="iDevice_header"><h1 class="iDeviceTitle">Cuestionario SCORM</h1></header>
+<div class="iDevice_inner">
+<div class="iDevice_content_wrapper">
+<form name="quizForm119" id="quizForm119" action="#" class="quiz-test-form">
+<input type="hidden" name="passrate" id="passrate-119" value="50" />
+<section class="question">
+<h1 class="js-sr-av">Pregunta</h1>
+<div id="taquestion0b119" class="block iDevice_content">
+<p>¿Cuál es el nombre correcto (según IUPAC) del compuesto CH≡C–CH₂–CH₃?</p>
+</div>
+<section class="iDevice_answers">
+<h1 class="js-sr-av">Respuestas</h1>
+<section class="iDevice_answer">
+<p class="iDevice_answer-field js-required">
+<label for="key0b1191" class="sr-av"><a href="#answer-key0b1191">Opción 1</a></label><input type="radio" name="key0b119" id="key0b1191" value="0" />
+</p>
+<div class="iDevice_answer-content" id="answer-key0b1191">
+<div id="taoptionAnswer0q0b119" class="block iDevice_content">
+<p>But-1-eno</p>
+</div>
+</div>
+</section>
+<section class="iDevice_answer">
+<p class="iDevice_answer-field js-required">
+<label for="key0b1192" class="sr-av"><a href="#answer-key0b1192">Opción 2</a></label><input type="radio" name="key0b119" id="key0b1192" value="1" />
+</p>
+<div class="iDevice_answer-content" id="answer-key0b1192">
+<div id="taoptionAnswer1q0b119" class="block iDevice_content">
+<p>But-1-ino</p>
+</div>
+</div>
+</section>
+<section class="iDevice_answer">
+<p class="iDevice_answer-field js-required">
+<label for="key0b1193" class="sr-av"><a href="#answer-key0b1193">Opción 3</a></label><input type="radio" name="key0b119" id="key0b1193" value="2" />
+</p>
+<div class="iDevice_answer-content" id="answer-key0b1193">
+<div id="taoptionAnswer2q0b119" class="block iDevice_content">
+<p>Propeno</p>
+</div>
+</div>
+</section>
+<section class="iDevice_answer">
+<p class="iDevice_answer-field js-required">
+<label for="key0b1194" class="sr-av"><a href="#answer-key0b1194">Opción 4</a></label><input type="radio" name="key0b119" id="key0b1194" value="3" />
+</p>
+<div class="iDevice_answer-content" id="answer-key0b1194">
+<div id="taoptionAnswer3q0b119" class="block iDevice_content">
+<p>Pent-1-ino</p>
+</div>
+</div>
+</section>
+</section>
+</section>
+<section class="question">
+<h1 class="js-sr-av">Pregunta</h1>
+<div id="taquestion1b119" class="block iDevice_content">
+<p>El sufijo que identifica a los alcanos en la nomenclatura IUPAC es:</p>
+</div>
+<section class="iDevice_answers">
+<h1 class="js-sr-av">Respuestas</h1>
+<section class="iDevice_answer">
+<p class="iDevice_answer-field js-required">
+<label for="key1b1191" class="sr-av"><a href="#answer-key1b1191">Opción 1</a></label><input type="radio" name="key1b119" id="key1b1191" value="0" />
+</p>
+<div class="iDevice_answer-content" id="answer-key1b1191">
+<div id="taoptionAnswer0q1b119" class="block iDevice_content">
+<p>–eno</p>
+</div>
+</div>
+</section>
+<section class="iDevice_answer">
+<p class="iDevice_answer-field js-required">
+<label for="key1b1192" class="sr-av"><a href="#answer-key1b1192">Opción 2</a></label><input type="radio" name="key1b119" id="key1b1192" value="1" />
+</p>
+<div class="iDevice_answer-content" id="answer-key1b1192">
+<div id="taoptionAnswer1q1b119" class="block iDevice_content">
+<p>–ino</p>
+</div>
+</div>
+</section>
+<section class="iDevice_answer">
+<p class="iDevice_answer-field js-required">
+<label for="key1b1193" class="sr-av"><a href="#answer-key1b1193">Opción 3</a></label><input type="radio" name="key1b119" id="key1b1193" value="2" />
+</p>
+<div class="iDevice_answer-content" id="answer-key1b1193">
+<div id="taoptionAnswer2q1b119" class="block iDevice_content">
+<p>–ano</p>
+</div>
+</div>
+</section>
+<section class="iDevice_answer">
+<p class="iDevice_answer-field js-required">
+<label for="key1b1194" class="sr-av"><a href="#answer-key1b1194">Opción 4</a></label><input type="radio" name="key1b119" id="key1b1194" value="3" />
+</p>
+<div class="iDevice_answer-content" id="answer-key1b1194">
+<div id="taoptionAnswer3q1b119" class="block iDevice_content">
+<p>–ol</p>
+</div>
+</div>
+</section>
+</section>
+</section>
+<section class="question">
+<h1 class="js-sr-av">Pregunta</h1>
+<div id="taquestion2b119" class="block iDevice_content">
+<p>El nombre correcto de la molécula CH₃–CH=CH–CH₃ es:</p>
+</div>
+<section class="iDevice_answers">
+<h1 class="js-sr-av">Respuestas</h1>
+<section class="iDevice_answer">
+<p class="iDevice_answer-field js-required">
+<label for="key2b1191" class="sr-av"><a href="#answer-key2b1191">Opción 1</a></label><input type="radio" name="key2b119" id="key2b1191" value="0" />
+</p>
+<div class="iDevice_answer-content" id="answer-key2b1191">
+<div id="taoptionAnswer0q2b119" class="block iDevice_content">
+<p>Butano</p>
+</div>
+</div>
+</section>
+<section class="iDevice_answer">
+<p class="iDevice_answer-field js-required">
+<label for="key2b1192" class="sr-av"><a href="#answer-key2b1192">Opción 2</a></label><input type="radio" name="key2b119" id="key2b1192" value="1" />
+</p>
+<div class="iDevice_answer-content" id="answer-key2b1192">
+<div id="taoptionAnswer1q2b119" class="block iDevice_content">
+<p>But-1-eno</p>
+</div>
+</div>
+</section>
+<section class="iDevice_answer">
+<p class="iDevice_answer-field js-required">
+<label for="key2b1193" class="sr-av"><a href="#answer-key2b1193">Opción 3</a></label><input type="radio" name="key2b119" id="key2b1193" value="2" />
+</p>
+<div class="iDevice_answer-content" id="answer-key2b1193">
+<div id="taoptionAnswer2q2b119" class="block iDevice_content">
+<p>But-2-eno</p>
+</div>
+</div>
+</section>
+<section class="iDevice_answer">
+<p class="iDevice_answer-field js-required">
+<label for="key2b1194" class="sr-av"><a href="#answer-key2b1194">Opción 4</a></label><input type="radio" name="key2b119" id="key2b1194" value="3" />
+</p>
+<div class="iDevice_answer-content" id="answer-key2b1194">
+<div id="taoptionAnswer3q2b119" class="block iDevice_content">
+<p>Prop-1-eno</p>
+</div>
+</div>
+</section>
+</section>
+</section>
+<section class="question">
+<h1 class="js-sr-av">Pregunta</h1>
+<div id="taquestion3b119" class="block iDevice_content">
+<p>¿Qué compuesto corresponde al nombre 3-etil-2-metilpent-1-eno?</p>
+</div>
+<section class="iDevice_answers">
+<h1 class="js-sr-av">Respuestas</h1>
+<section class="iDevice_answer">
+<p class="iDevice_answer-field js-required">
+<label for="key3b1191" class="sr-av"><a href="#answer-key3b1191">Opción 1</a></label><input type="radio" name="key3b119" id="key3b1191" value="0" />
+</p>
+<div class="iDevice_answer-content" id="answer-key3b1191">
+<div id="taoptionAnswer0q3b119" class="block iDevice_content">
+<p>Un alcano ramificado de 7 carbonos</p>
+</div>
+</div>
+</section>
+<section class="iDevice_answer">
+<p class="iDevice_answer-field js-required">
+<label for="key3b1192" class="sr-av"><a href="#answer-key3b1192">Opción 2</a></label><input type="radio" name="key3b119" id="key3b1192" value="1" />
+</p>
+<div class="iDevice_answer-content" id="answer-key3b1192">
+<div id="taoptionAnswer1q3b119" class="block iDevice_content">
+<p>Un alqueno de 6 carbonos con ramificaciones</p>
+</div>
+</div>
+</section>
+<section class="iDevice_answer">
+<p class="iDevice_answer-field js-required">
+<label for="key3b1193" class="sr-av"><a href="#answer-key3b1193">Opción 3</a></label><input type="radio" name="key3b119" id="key3b1193" value="2" />
+</p>
+<div class="iDevice_answer-content" id="answer-key3b1193">
+<div id="taoptionAnswer2q3b119" class="block iDevice_content">
+<p>Un alquino de 7 carbonos</p>
+</div>
+</div>
+</section>
+<section class="iDevice_answer">
+<p class="iDevice_answer-field js-required">
+<label for="key3b1194" class="sr-av"><a href="#answer-key3b1194">Opción 4</a></label><input type="radio" name="key3b119" id="key3b1194" value="3" />
+</p>
+<div class="iDevice_answer-content" id="answer-key3b1194">
+<div id="taoptionAnswer3q3b119" class="block iDevice_content">
+<p>Un cicloalcano con dobles enlaces</p>
+</div>
+</div>
+</section>
+</section>
+</section>
+<section class="question">
+<h1 class="js-sr-av">Pregunta</h1>
+<div id="taquestion4b119" class="block iDevice_content">
+<p>La molécula CH₃–C≡C–CH₂–CH₃ se nombra como:</p>
+</div>
+<section class="iDevice_answers">
+<h1 class="js-sr-av">Respuestas</h1>
+<section class="iDevice_answer">
+<p class="iDevice_answer-field js-required">
+<label for="key4b1191" class="sr-av"><a href="#answer-key4b1191">Opción 1</a></label><input type="radio" name="key4b119" id="key4b1191" value="0" />
+</p>
+<div class="iDevice_answer-content" id="answer-key4b1191">
+<div id="taoptionAnswer0q4b119" class="block iDevice_content">
+<p>Pent-1-ino</p>
+</div>
+</div>
+</section>
+<section class="iDevice_answer">
+<p class="iDevice_answer-field js-required">
+<label for="key4b1192" class="sr-av"><a href="#answer-key4b1192">Opción 2</a></label><input type="radio" name="key4b119" id="key4b1192" value="1" />
+</p>
+<div class="iDevice_answer-content" id="answer-key4b1192">
+<div id="taoptionAnswer1q4b119" class="block iDevice_content">
+<p>Pent-2-ino</p>
+</div>
+</div>
+</section>
+<section class="iDevice_answer">
+<p class="iDevice_answer-field js-required">
+<label for="key4b1193" class="sr-av"><a href="#answer-key4b1193">Opción 3</a></label><input type="radio" name="key4b119" id="key4b1193" value="2" />
+</p>
+<div class="iDevice_answer-content" id="answer-key4b1193">
+<div id="taoptionAnswer2q4b119" class="block iDevice_content">
+<p>3-metilbut-1-ino</p>
+</div>
+</div>
+</section>
+<section class="iDevice_answer">
+<p class="iDevice_answer-field js-required">
+<label for="key4b1194" class="sr-av"><a href="#answer-key4b1194">Opción 4</a></label><input type="radio" name="key4b119" id="key4b1194" value="3" />
+</p>
+<div class="iDevice_answer-content" id="answer-key4b1194">
+<div id="taoptionAnswer3q4b119" class="block iDevice_content">
+<p>Prop-1-ino</p>
+</div>
+</div>
+</section>
+</section>
+</section>
+<section class="question">
+<h1 class="js-sr-av">Pregunta</h1>
+<div id="taquestion5b119" class="block iDevice_content">
+<p>En el compuesto 1,3-butadieno, ¿qué característica estructural destaca?</p>
+</div>
+<section class="iDevice_answers">
+<h1 class="js-sr-av">Respuestas</h1>
+<section class="iDevice_answer">
+<p class="iDevice_answer-field js-required">
+<label for="key5b1191" class="sr-av"><a href="#answer-key5b1191">Opción 1</a></label><input type="radio" name="key5b119" id="key5b1191" value="0" />
+</p>
+<div class="iDevice_answer-content" id="answer-key5b1191">
+<div id="taoptionAnswer0q5b119" class="block iDevice_content">
+<p>Un enlace triple entre los carbonos 1 y 2</p>
+</div>
+</div>
+</section>
+<section class="iDevice_answer">
+<p class="iDevice_answer-field js-required">
+<label for="key5b1192" class="sr-av"><a href="#answer-key5b1192">Opción 2</a></label><input type="radio" name="key5b119" id="key5b1192" value="1" />
+</p>
+<div class="iDevice_answer-content" id="answer-key5b1192">
+<div id="taoptionAnswer1q5b119" class="block iDevice_content">
+<p>Dos dobles enlaces en una cadena de 4 carbonos</p>
+</div>
+</div>
+</section>
+<section class="iDevice_answer">
+<p class="iDevice_answer-field js-required">
+<label for="key5b1193" class="sr-av"><a href="#answer-key5b1193">Opción 3</a></label><input type="radio" name="key5b119" id="key5b1193" value="2" />
+</p>
+<div class="iDevice_answer-content" id="answer-key5b1193">
+<div id="taoptionAnswer2q5b119" class="block iDevice_content">
+<p>Una ramificación en el carbono 2</p>
+</div>
+</div>
+</section>
+<section class="iDevice_answer">
+<p class="iDevice_answer-field js-required">
+<label for="key5b1194" class="sr-av"><a href="#answer-key5b1194">Opción 4</a></label><input type="radio" name="key5b119" id="key5b1194" value="3" />
+</p>
+<div class="iDevice_answer-content" id="answer-key5b1194">
+<div id="taoptionAnswer3q5b119" class="block iDevice_content">
+<p>Un anillo aromático con sustituyentes</p>
+</div>
+</div>
+</section>
+</section>
+</section>
+<section class="question">
+<h1 class="js-sr-av">Pregunta</h1>
+<div id="taquestion6b119" class="block iDevice_content">
+<p>El compuesto C₆H₆, con estructura de anillo y enlaces conjugados, se denomina:</p>
+</div>
+<section class="iDevice_answers">
+<h1 class="js-sr-av">Respuestas</h1>
+<section class="iDevice_answer">
+<p class="iDevice_answer-field js-required">
+<label for="key6b1191" class="sr-av"><a href="#answer-key6b1191">Opción 1</a></label><input type="radio" name="key6b119" id="key6b1191" value="0" />
+</p>
+<div class="iDevice_answer-content" id="answer-key6b1191">
+<div id="taoptionAnswer0q6b119" class="block iDevice_content">
+<p>Ciclohexano</p>
+</div>
+</div>
+</section>
+<section class="iDevice_answer">
+<p class="iDevice_answer-field js-required">
+<label for="key6b1192" class="sr-av"><a href="#answer-key6b1192">Opción 2</a></label><input type="radio" name="key6b119" id="key6b1192" value="1" />
+</p>
+<div class="iDevice_answer-content" id="answer-key6b1192">
+<div id="taoptionAnswer1q6b119" class="block iDevice_content">
+<p>Benceno</p>
+</div>
+</div>
+</section>
+<section class="iDevice_answer">
+<p class="iDevice_answer-field js-required">
+<label for="key6b1193" class="sr-av"><a href="#answer-key6b1193">Opción 3</a></label><input type="radio" name="key6b119" id="key6b1193" value="2" />
+</p>
+<div class="iDevice_answer-content" id="answer-key6b1193">
+<div id="taoptionAnswer2q6b119" class="block iDevice_content">
+<p>Hex-1,3,5-trieno</p>
+</div>
+</div>
+</section>
+<section class="iDevice_answer">
+<p class="iDevice_answer-field js-required">
+<label for="key6b1194" class="sr-av"><a href="#answer-key6b1194">Opción 4</a></label><input type="radio" name="key6b119" id="key6b1194" value="3" />
+</p>
+<div class="iDevice_answer-content" id="answer-key6b1194">
+<div id="taoptionAnswer3q6b119" class="block iDevice_content">
+<p>Tolueno</p>
+</div>
+</div>
+</section>
+</section>
+</section>
+<section class="question">
+<h1 class="js-sr-av">Pregunta</h1>
+<div id="taquestion7b119" class="block iDevice_content">
+<p>¿Cuál es la diferencia fundamental en nomenclatura entre ciclohexano y benceno?</p>
+</div>
+<section class="iDevice_answers">
+<h1 class="js-sr-av">Respuestas</h1>
+<section class="iDevice_answer">
+<p class="iDevice_answer-field js-required">
+<label for="key7b1191" class="sr-av"><a href="#answer-key7b1191">Opción 1</a></label><input type="radio" name="key7b119" id="key7b1191" value="0" />
+</p>
+<div class="iDevice_answer-content" id="answer-key7b1191">
+<div id="taoptionAnswer0q7b119" class="block iDevice_content">
+<p>Ambos son aromáticos, pero el ciclohexano es saturado</p>
+</div>
+</div>
+</section>
+<section class="iDevice_answer">
+<p class="iDevice_answer-field js-required">
+<label for="key7b1192" class="sr-av"><a href="#answer-key7b1192">Opción 2</a></label><input type="radio" name="key7b119" id="key7b1192" value="1" />
+</p>
+<div class="iDevice_answer-content" id="answer-key7b1192">
+<div id="taoptionAnswer1q7b119" class="block iDevice_content">
+<p>El ciclohexano es un alcano cíclico saturado, mientras que el benceno es aromático</p>
+</div>
+</div>
+</section>
+<section class="iDevice_answer">
+<p class="iDevice_answer-field js-required">
+<label for="key7b1193" class="sr-av"><a href="#answer-key7b1193">Opción 3</a></label><input type="radio" name="key7b119" id="key7b1193" value="2" />
+</p>
+<div class="iDevice_answer-content" id="answer-key7b1193">
+<div id="taoptionAnswer2q7b119" class="block iDevice_content">
+<p>El benceno es un alcano ramificado y el ciclohexano un aromático</p>
+</div>
+</div>
+</section>
+<section class="iDevice_answer">
+<p class="iDevice_answer-field js-required">
+<label for="key7b1194" class="sr-av"><a href="#answer-key7b1194">Opción 4</a></label><input type="radio" name="key7b119" id="key7b1194" value="3" />
+</p>
+<div class="iDevice_answer-content" id="answer-key7b1194">
+<div id="taoptionAnswer3q7b119" class="block iDevice_content">
+<p>El ciclohexano contiene dobles enlaces conjugados, mientras que el benceno no</p>
+</div>
+</div>
+</section>
+</section>
+</section>
+<div class="block iDevice_buttons">
+<p><input type="submit" name="submitB" value="ENVIAR RESPUESTAS" /> <span class="js-hidden js-warning">Habilitar JavaScript</span></p>
+</div>
+<div id="quizFormScore119"></div>
+</form>
+</div>
 </div>
 </div>
 </article>
