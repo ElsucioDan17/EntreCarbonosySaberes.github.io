@@ -90,8 +90,7 @@ li{list-style-position:outside}
 background-color:#ffffff;border-color:#dddddd;
 }
 .iDevice_inner{
-/*emBGColor*/
-background-color:#ffffff;border-color:/*emBorderColor*/
+border-color:/*emBorderColor*/
 #dddddd;
 }
 .iDevice_header .toggle-idevice a{
@@ -147,21 +146,31 @@ height:auto!important;
 /*headerHeight*/
 height:150px;min-height:150px;
 /*headerBGURL*/
-background-image:url(T%C3%ADtulo%20(5).png);
+background-image:url(T%C3%ADtulo%20(5)(1).png);
 /*headerBGRepeat*/
 background-repeat:no-repeat;
 /*headerBGPosition*/
 background-position:50% 50%;
 }
 #headerContent{
-/*hideProjectTitle*/
-position:absolute!important;clip:rect(1px 1px 1px 1px);clip:rect(1px,1px,1px,1px);
+/*headerTitleTopMargin*/
+padding-top:70px;
+/*headerTitleFontFamily*/
+font-family:"Times New Roman", Times, serif;
+/*headerTitleColor*/
+color:#000000;
+/*headerTitleTextShadowColor*/
+text-shadow:1px 1px 1px #999999;
+/*headerTitleAlign*/
+text-align:center;
+/*headerTitleFontSize*/
+font-size:150%;
 }
 #siteFooter{
 border:1px solid /*footerBorderColor*/
 #dddddd;
 /*footerColor*/
-color:#ffffff;
+color:#0a0000;
 /*footerTextAlign*/
 text-align:center;
 /*footerFontSize*/
