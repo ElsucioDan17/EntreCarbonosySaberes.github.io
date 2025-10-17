@@ -86,21 +86,12 @@ li{list-style-position:outside}
 }
 /* eXeLearning Style Designer */
 .iDevice_header{
-/*emTitleColor*/
-color:#005fbf;
 /*emTitleBGColor*/
-background-color:#fce8fc;border-color:#ff5656;
+background-color:#ffffff;border-color:#dddddd;
 }
 .iDevice_inner{
-/*emColor*/
-color:#000000;
-/*emBGColor*/
-background-color:#e5e5e5;border-color:/*emBorderColor*/
-#ff5656;
-}
-.iDevice_inner a{
-/*emAColor*/
-color:#ff0000;
+border-color:/*emBorderColor*/
+#dddddd;
 }
 .iDevice_header .toggle-idevice a{
 /*emIconColor*/
@@ -144,33 +135,48 @@ body{
 /*bodyColor*/
 color:#333333;
 /*fontSize*/
-font-size:105%;
-/*contentBGColor*/
-background-color:#ffffff;
+font-size:100%;
 }
 a{
 /*aColor*/
-color:#2b8be5;
+color:#2495ff;
 }
 #header,#emptyHeader,#nodeDecoration{
 height:auto!important;
 /*headerHeight*/
-height:120px;min-height:120px;
-/*headerBGColor*/
-background-color:#ffffff;border:1px solid /*headerBorderColor*/
-#dddddd;
+height:150px;min-height:150px;
+/*headerBGURL*/
+background-image:url(T%C3%ADtulo%20(5).png);
+/*headerBGRepeat*/
+background-repeat:no-repeat;
+/*headerBGPosition*/
+background-position:50% 50%;
 }
 #headerContent{
 /*headerTitleTopMargin*/
 padding-top:70px;
 /*headerTitleFontFamily*/
-font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+font-family:"Times New Roman", Times, serif;
+/*headerTitleColor*/
+color:#000000;
+/*headerTitleTextShadowColor*/
+text-shadow:1px 1px 1px #999999;
 /*headerTitleAlign*/
 text-align:center;
+/*headerTitleFontSize*/
+font-size:150%;
 }
 #siteFooter{
 border:1px solid /*footerBorderColor*/
 #dddddd;
-/*footerBGColor*/
-background-color:#ffffff;
+/*footerColor*/
+color:#0a0000;
+/*footerTextAlign*/
+text-align:center;
+/*footerFontSize*/
+font-size:70%;
+}
+#siteFooter a{
+/*footerAColor*/
+color:#ffaaaa;
 }
